@@ -1,4 +1,3 @@
-"set background=light
 "文件类型判断
 filetype on
 "启用对应文件类型的插件
@@ -46,14 +45,22 @@ set foldlevel=100
 
 set cursorline
 
+"set for TagList
+let Tlist_Auto_Open = 1
+let Tlist_Exit_OnlyWindow = 1
+let Tlist_File_Fold_Auto_Close = 1
+let Tlist_Sort_Type = 'name'
+let Tlist_WinWidth = 15
+let Tlist_Use_Right_Window = 1
+
 "setting for omnicppcomplete
 set completeopt=longest,menu
 let OmniCpp_MayCompleteDot = 1
 let OmniCpp_MayCompleteArrow = 1
 let OmniCpp_SelectFirstItem = 2
-	" show function prototype  in popup window
+"show function prototype  in popup window
 let OmniCpp_ShowPrototypeInAbbr = 1 
-"set tags+=D:\Keil\ARM\INC\ST\STM32F10x\STM32_tags
+
 set tags+=/root/.vim/std_tags
 
 "set for A.vim
@@ -65,9 +72,9 @@ set tags+=/root/.vim/std_tags
 "let g:SuperTabDefaultCompletionType="<C-X><C-O>"
 
 "set for neocomplcache
-	" Disable AutoComplPop.
+" Disable AutoComplPop.
 let g:acp_enableAtStartup = 0
-	" Use neocomplcache.
+" Use neocomplcache.
 let g:neocomplcache_enable_at_startup = 1
 let g:NeoComplCache_DisableAutoComplete = 0
 let g:neocomplcache_auto_completion_start_length = 3
