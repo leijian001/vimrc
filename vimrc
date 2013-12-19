@@ -15,8 +15,10 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 " }
 
-" github上的用户写的插件，使用这种用户名+repo名称的方式
 Bundle 'gmarik/vundle'
+" github上的用户写的插件，使用这种用户名+repo名称的方式
+" Bundle 'tpope/vim-fugitive'
+" Bundle 'tpope/vim-rails.git'
 
 Bundle 'Valloric/YouCompleteMe.git'
 let g:ycm_global_ycm_extra_conf='~/.vim/.ycm_extra_conf.py'
@@ -42,9 +44,9 @@ Bundle 'DoxygenToolkit.vim'
 let g:DoxygenToolkit_briefTag_pre="@brief "
 let g:DoxygenToolkit_paramTag_pre="@param "
 let g:DoxygenToolkit_returnTag="@return "
-let g:DoxygenToolkit_blockHeader="--------------------------------------------------------------------------"
-let g:DoxygenToolkit_blockFooter="--------------------------------------------------------------------------"
-let g:DoxygenToolkit_authorName="leijian001 <937431539@qq.com>"
+let g:DoxygenToolkit_blockHeader="---------------------------------------------------------------------------"
+let g:DoxygenToolkit_blockFooter="---------------------------------------------------------------------------"
+let g:DoxygenToolkit_authorName="雷健"
 "let g:DoxygenToolkit_licenseTag="My own license"   <-- !!! Does not end with <enter>"
 
 " Bundle 'taglist.vim'
@@ -78,6 +80,9 @@ set cindent
 
 set ts=4
 set sw=4
+
+au BufNewFile,BufRead *.c,*.h :setlocal colorcolumn=81
+hi ColorColumn guibg=lightgrey ctermbg=lightgrey
 
 set backspace=indent,start,eol
 
