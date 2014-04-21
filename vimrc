@@ -1,7 +1,7 @@
 "去掉与VI的一致性
 set nocompatible
 
-let mapleader = ";"
+let mapleader = ","
 
 "文件类型判断
 filetype off
@@ -16,30 +16,36 @@ call vundle#rc()
 " }
 
 Bundle 'gmarik/vundle'
-" github上的用户写的插件，使用这种用户名+repo名称的方式
-" Bundle 'tpope/vim-fugitive'
-" Bundle 'tpope/vim-rails.git'
 
 Bundle 'Valloric/YouCompleteMe.git'
-let g:ycm_global_ycm_extra_conf='~/.vim/.ycm_extra_conf.py'
-"Do not ask when starting vim
 let g:ycm_confirm_extra_conf = 0
+let g:ycm_global_ycm_extra_conf='~/.vim/.ycm_extra_conf.py'
 let g:syntastic_always_populate_loc_list = 1
-let g:ycm_key_list_select_completion = ['<TAB>', '<Enter>']
-let g:ycm_key_invoke_completion = '<C-P>'
-nnoremap <leader>jd :YcmCompleter GoToDefinitionElseDeclaration<CR>
-nnoremap <F5> :YcmForceCompileAndDiagnostics<CR>
-
-Bundle 'Valloric/ListToggle'
+let g:ycm_key_list_select_completion = ['<TAB>', '<Down>', '<Enter>']
+let g:ycm_collect_identifiers_from_tags_files = 1
+let g:ycm_seed_identifiers_with_syntax = 1
+let g:ycm_key_invoke_completion = '<C-D>'
+let g:ycm_add_preview_to_completeopt = 0
+let g:ycm_autoclose_preview_window_after_completion = 0
+nnoremap <leader>gg :YcmCompleter GoToDefinitionElseDeclaration<CR>
+"nnoremap <F5> :YcmForceCompileAndDiagnostics<CR>
+nmap <F4> :YcmDiags<CR>
 
 Bundle 'scrooloose/syntastic'
+let g:syntastic_error_symbol = 'x'
+let g:syntastic_warning_symbol = '!'
 
+Bundle 'Valloric/ListToggle'
 Bundle 'mbbill/code_complete'
 
-" vimscripts的repo使用下面的格式，直接是插件名称
+" 显示行尾空格
 Bundle 'ShowTrailingWhitespace'
-
+"自动识别文件编码
 Bundle 'FencView.vim'
+"lisp插件
+Bundle 'slimv.vim'
+"let g:slimv_swank_cmd ='!screen clisp -i ~/.vim/bundle/slimv.vim/slime/start-swank.lisp &'
+
 Bundle 'DoxygenToolkit.vim'
 let g:DoxygenToolkit_briefTag_pre="@brief "
 let g:DoxygenToolkit_paramTag_pre="@param "
@@ -81,6 +87,8 @@ set cindent
 set ts=4
 set sw=4
 
+set scrolloff=5
+
 au BufNewFile,BufRead *.c,*.h :setlocal colorcolumn=81
 hi ColorColumn guibg=lightgrey ctermbg=lightgrey
 
@@ -94,14 +102,15 @@ endif
 "选择代码折叠类型
 set foldmethod=syntax
 "启动 vim 时不要自动折叠代码
-set foldlevel=100
+set foldlevel=20
 
 set cursorline
 
 set tags+=~/.vim/std_tags
+set tags+=~/.vim/net_tags
 
-"map <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
+map <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
 map <F9> :!make run<CR>
-map <C-B> :make<CR>
+nmap <C-B> :make<CR>
 
 imap jj <ESC>
