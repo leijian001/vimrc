@@ -2,7 +2,6 @@
 set nocompatible
 
 let mapleader = ";"
-
 "文件类型判断
 filetype off
 
@@ -22,12 +21,11 @@ Bundle 'gmarik/vundle'
 
 Bundle 'Valloric/YouCompleteMe.git'
 let g:ycm_global_ycm_extra_conf='~/.vim/.ycm_extra_conf.py'
-"Do not ask when starting vim
 let g:ycm_confirm_extra_conf = 0
 let g:syntastic_always_populate_loc_list = 1
 let g:ycm_key_list_select_completion = ['<TAB>', '<Enter>']
-let g:ycm_key_invoke_completion = '<C-P>'
-nnoremap <leader>jd :YcmCompleter GoToDefinitionElseDeclaration<CR>
+let g:ycm_key_invoke_completion = '<C-D>'
+nnoremap <leader>gg :YcmCompleter GoToDefinitionElseDeclaration<CR>
 nnoremap <F5> :YcmForceCompileAndDiagnostics<CR>
 
 Bundle 'Valloric/ListToggle'
@@ -36,8 +34,17 @@ Bundle 'scrooloose/syntastic'
 
 Bundle 'mbbill/code_complete'
 
+Bundle 'nathanaelkane/vim-indent-guides.git'
+let g:indent_guides_guide_size=1
+let g:indent_guides_start_level=2
+
 " vimscripts的repo使用下面的格式，直接是插件名称
 Bundle 'ShowTrailingWhitespace'
+
+Bundle 'Tagbar'
+nmap <Leader>tb :TagbarToggle<CR>
+let g:tagbar_ctags_bin='/usr/bin/ctags'
+let g:tagbar_width=30
 
 Bundle 'FencView.vim'
 Bundle 'DoxygenToolkit.vim'
@@ -56,6 +63,8 @@ Bundle 'matrix.vim--Yang'
 
 " 非github的插件，可以直接使用其git地址
 " Bundle 'git://git.wincent.com/command-t.git'
+
+colorscheme default
 
 "启用对应文件类型的插件
 filetype plugin indent on
@@ -78,10 +87,17 @@ set ai
 "C语言风格缩进
 set cindent
 
-set ts=4
-set sw=4
+set tabstop=4 		"设定tab宽度为4个字符
+set softtabstop=4
+set shiftwidth=4 	"设定自动缩进为4个字符
+set expandtab 		"用space替代tab的输入
+"set noexpandtab 	"不用space替代tab的输入
 
-au BufNewFile,BufRead *.c,*.h :setlocal colorcolumn=81
+"自动运行
+autocmd BufNewFile,BufRead *.c,*.h,*.cpp call tagbar#autoopen()
+autocmd BufNewFile,BufRead *.c,*.h,*cpp :setlocal colorcolumn=81
+autocmd BufNewFile,BufRead *.c,*.h,*cpp :IndentGuidesToggle
+
 hi ColorColumn guibg=lightgrey ctermbg=lightgrey
 
 set backspace=indent,start,eol
@@ -100,7 +116,7 @@ set cursorline
 
 set tags+=~/.vim/std_tags
 
-"map <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
+map <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
 map <F9> :!make run<CR>
 map <C-B> :make<CR>
 
