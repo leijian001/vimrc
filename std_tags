@@ -1,0 +1,1236 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+FILE	std.c	/^typedef struct _IO_FILE FILE;$/;"	t	typeref:struct:_IO_FILE	file:
+_CS_GNU_LIBC_VERSION	std.c	/^    _CS_GNU_LIBC_VERSION,$/;"	e	enum:__anon28	file:
+_CS_GNU_LIBPTHREAD_VERSION	std.c	/^    _CS_GNU_LIBPTHREAD_VERSION,$/;"	e	enum:__anon28	file:
+_CS_LFS64_CFLAGS	std.c	/^    _CS_LFS64_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_LFS64_LDFLAGS	std.c	/^    _CS_LFS64_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_LFS64_LIBS	std.c	/^    _CS_LFS64_LIBS,$/;"	e	enum:__anon28	file:
+_CS_LFS64_LINTFLAGS	std.c	/^    _CS_LFS64_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_LFS_CFLAGS	std.c	/^    _CS_LFS_CFLAGS = 1000,$/;"	e	enum:__anon28	file:
+_CS_LFS_LDFLAGS	std.c	/^    _CS_LFS_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_LFS_LIBS	std.c	/^    _CS_LFS_LIBS,$/;"	e	enum:__anon28	file:
+_CS_LFS_LINTFLAGS	std.c	/^    _CS_LFS_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_PATH	std.c	/^    _CS_PATH,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_ILP32_OFF32_CFLAGS	std.c	/^    _CS_POSIX_V6_ILP32_OFF32_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_ILP32_OFF32_LDFLAGS	std.c	/^    _CS_POSIX_V6_ILP32_OFF32_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_ILP32_OFF32_LIBS	std.c	/^    _CS_POSIX_V6_ILP32_OFF32_LIBS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_ILP32_OFF32_LINTFLAGS	std.c	/^    _CS_POSIX_V6_ILP32_OFF32_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_ILP32_OFFBIG_CFLAGS	std.c	/^    _CS_POSIX_V6_ILP32_OFFBIG_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_ILP32_OFFBIG_LDFLAGS	std.c	/^    _CS_POSIX_V6_ILP32_OFFBIG_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_ILP32_OFFBIG_LIBS	std.c	/^    _CS_POSIX_V6_ILP32_OFFBIG_LIBS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_ILP32_OFFBIG_LINTFLAGS	std.c	/^    _CS_POSIX_V6_ILP32_OFFBIG_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_LP64_OFF64_CFLAGS	std.c	/^    _CS_POSIX_V6_LP64_OFF64_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_LP64_OFF64_LDFLAGS	std.c	/^    _CS_POSIX_V6_LP64_OFF64_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_LP64_OFF64_LIBS	std.c	/^    _CS_POSIX_V6_LP64_OFF64_LIBS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_LP64_OFF64_LINTFLAGS	std.c	/^    _CS_POSIX_V6_LP64_OFF64_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_LPBIG_OFFBIG_CFLAGS	std.c	/^    _CS_POSIX_V6_LPBIG_OFFBIG_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_LPBIG_OFFBIG_LDFLAGS	std.c	/^    _CS_POSIX_V6_LPBIG_OFFBIG_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_LPBIG_OFFBIG_LIBS	std.c	/^    _CS_POSIX_V6_LPBIG_OFFBIG_LIBS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V6_LPBIG_OFFBIG_LINTFLAGS	std.c	/^    _CS_POSIX_V6_LPBIG_OFFBIG_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_ILP32_OFF32_CFLAGS	std.c	/^    _CS_POSIX_V7_ILP32_OFF32_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_ILP32_OFF32_LDFLAGS	std.c	/^    _CS_POSIX_V7_ILP32_OFF32_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_ILP32_OFF32_LIBS	std.c	/^    _CS_POSIX_V7_ILP32_OFF32_LIBS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_ILP32_OFF32_LINTFLAGS	std.c	/^    _CS_POSIX_V7_ILP32_OFF32_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_ILP32_OFFBIG_CFLAGS	std.c	/^    _CS_POSIX_V7_ILP32_OFFBIG_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_ILP32_OFFBIG_LDFLAGS	std.c	/^    _CS_POSIX_V7_ILP32_OFFBIG_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_ILP32_OFFBIG_LIBS	std.c	/^    _CS_POSIX_V7_ILP32_OFFBIG_LIBS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_ILP32_OFFBIG_LINTFLAGS	std.c	/^    _CS_POSIX_V7_ILP32_OFFBIG_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_LP64_OFF64_CFLAGS	std.c	/^    _CS_POSIX_V7_LP64_OFF64_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_LP64_OFF64_LDFLAGS	std.c	/^    _CS_POSIX_V7_LP64_OFF64_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_LP64_OFF64_LIBS	std.c	/^    _CS_POSIX_V7_LP64_OFF64_LIBS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_LP64_OFF64_LINTFLAGS	std.c	/^    _CS_POSIX_V7_LP64_OFF64_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_LPBIG_OFFBIG_CFLAGS	std.c	/^    _CS_POSIX_V7_LPBIG_OFFBIG_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_LPBIG_OFFBIG_LDFLAGS	std.c	/^    _CS_POSIX_V7_LPBIG_OFFBIG_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_LPBIG_OFFBIG_LIBS	std.c	/^    _CS_POSIX_V7_LPBIG_OFFBIG_LIBS,$/;"	e	enum:__anon28	file:
+_CS_POSIX_V7_LPBIG_OFFBIG_LINTFLAGS	std.c	/^    _CS_POSIX_V7_LPBIG_OFFBIG_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_V5_WIDTH_RESTRICTED_ENVS	std.c	/^    _CS_V5_WIDTH_RESTRICTED_ENVS,$/;"	e	enum:__anon28	file:
+_CS_V6_ENV	std.c	/^    _CS_V6_ENV,$/;"	e	enum:__anon28	file:
+_CS_V6_WIDTH_RESTRICTED_ENVS	std.c	/^    _CS_V6_WIDTH_RESTRICTED_ENVS,$/;"	e	enum:__anon28	file:
+_CS_V7_ENV	std.c	/^    _CS_V7_ENV$/;"	e	enum:__anon28	file:
+_CS_V7_WIDTH_RESTRICTED_ENVS	std.c	/^    _CS_V7_WIDTH_RESTRICTED_ENVS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_ILP32_OFF32_CFLAGS	std.c	/^    _CS_XBS5_ILP32_OFF32_CFLAGS = 1100,$/;"	e	enum:__anon28	file:
+_CS_XBS5_ILP32_OFF32_LDFLAGS	std.c	/^    _CS_XBS5_ILP32_OFF32_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_ILP32_OFF32_LIBS	std.c	/^    _CS_XBS5_ILP32_OFF32_LIBS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_ILP32_OFF32_LINTFLAGS	std.c	/^    _CS_XBS5_ILP32_OFF32_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_ILP32_OFFBIG_CFLAGS	std.c	/^    _CS_XBS5_ILP32_OFFBIG_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_ILP32_OFFBIG_LDFLAGS	std.c	/^    _CS_XBS5_ILP32_OFFBIG_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_ILP32_OFFBIG_LIBS	std.c	/^    _CS_XBS5_ILP32_OFFBIG_LIBS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_ILP32_OFFBIG_LINTFLAGS	std.c	/^    _CS_XBS5_ILP32_OFFBIG_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_LP64_OFF64_CFLAGS	std.c	/^    _CS_XBS5_LP64_OFF64_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_LP64_OFF64_LDFLAGS	std.c	/^    _CS_XBS5_LP64_OFF64_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_LP64_OFF64_LIBS	std.c	/^    _CS_XBS5_LP64_OFF64_LIBS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_LP64_OFF64_LINTFLAGS	std.c	/^    _CS_XBS5_LP64_OFF64_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_LPBIG_OFFBIG_CFLAGS	std.c	/^    _CS_XBS5_LPBIG_OFFBIG_CFLAGS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_LPBIG_OFFBIG_LDFLAGS	std.c	/^    _CS_XBS5_LPBIG_OFFBIG_LDFLAGS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_LPBIG_OFFBIG_LIBS	std.c	/^    _CS_XBS5_LPBIG_OFFBIG_LIBS,$/;"	e	enum:__anon28	file:
+_CS_XBS5_LPBIG_OFFBIG_LINTFLAGS	std.c	/^    _CS_XBS5_LPBIG_OFFBIG_LINTFLAGS,$/;"	e	enum:__anon28	file:
+_Exit	std.c	/^extern void _Exit (int __status) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__noreturn__));$/;"	p	file:	signature:(int __status)
+_G_fpos64_t	std.c	/^} _G_fpos64_t;$/;"	t	typeref:struct:__anon5	file:
+_G_fpos_t	std.c	/^} _G_fpos_t;$/;"	t	typeref:struct:__anon4	file:
+_G_int16_t	std.c	/^typedef int _G_int16_t __attribute__ ((__mode__ (__HI__)));$/;"	t	file:
+_G_int32_t	std.c	/^typedef int _G_int32_t __attribute__ ((__mode__ (__SI__)));$/;"	t	file:
+_G_uint16_t	std.c	/^typedef unsigned int _G_uint16_t __attribute__ ((__mode__ (__HI__)));$/;"	t	file:
+_G_uint32_t	std.c	/^typedef unsigned int _G_uint32_t __attribute__ ((__mode__ (__SI__)));$/;"	t	file:
+_IO_FILE	std.c	/^struct _IO_FILE {$/;"	s	file:
+_IO_FILE	std.c	/^typedef struct _IO_FILE _IO_FILE;$/;"	t	typeref:struct:_IO_FILE	file:
+_IO_FILE::_IO_backup_base	std.c	/^  char *_IO_backup_base;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_IO_buf_base	std.c	/^  char* _IO_buf_base;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_IO_buf_end	std.c	/^  char* _IO_buf_end;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_IO_read_base	std.c	/^  char* _IO_read_base;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_IO_read_end	std.c	/^  char* _IO_read_end;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_IO_read_ptr	std.c	/^  char* _IO_read_ptr;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_IO_save_base	std.c	/^  char *_IO_save_base;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_IO_save_end	std.c	/^  char *_IO_save_end;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_IO_write_base	std.c	/^  char* _IO_write_base;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_IO_write_end	std.c	/^  char* _IO_write_end;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_IO_write_ptr	std.c	/^  char* _IO_write_ptr;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::__pad1	std.c	/^  void *__pad1;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::__pad2	std.c	/^  void *__pad2;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::__pad3	std.c	/^  void *__pad3;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::__pad4	std.c	/^  void *__pad4;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::__pad5	std.c	/^  size_t __pad5;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_chain	std.c	/^  struct _IO_FILE *_chain;$/;"	m	struct:_IO_FILE	typeref:struct:_IO_FILE::_IO_FILE	file:	access:public
+_IO_FILE::_cur_column	std.c	/^  unsigned short _cur_column;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_fileno	std.c	/^  int _fileno;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_flags	std.c	/^  int _flags;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_flags2	std.c	/^  int _flags2;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_lock	std.c	/^  _IO_lock_t *_lock;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_markers	std.c	/^  struct _IO_marker *_markers;$/;"	m	struct:_IO_FILE	typeref:struct:_IO_FILE::_IO_marker	file:	access:public
+_IO_FILE::_mode	std.c	/^  int _mode;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_offset	std.c	/^  __off64_t _offset;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_old_offset	std.c	/^  __off_t _old_offset;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_shortbuf	std.c	/^  char _shortbuf[1];$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_unused2	std.c	/^  char _unused2[15 * sizeof (int) - 4 * sizeof (void *) - sizeof (size_t)];$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_FILE::_vtable_offset	std.c	/^  signed char _vtable_offset;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_backup_base	std.c	/^  char *_IO_backup_base;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_buf_base	std.c	/^  char* _IO_buf_base;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_buf_end	std.c	/^  char* _IO_buf_end;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_feof	std.c	/^extern int _IO_feof (_IO_FILE *__fp) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(_IO_FILE *__fp)
+_IO_ferror	std.c	/^extern int _IO_ferror (_IO_FILE *__fp) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(_IO_FILE *__fp)
+_IO_flockfile	std.c	/^extern void _IO_flockfile (_IO_FILE *) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(_IO_FILE *)
+_IO_free_backup_area	std.c	/^extern void _IO_free_backup_area (_IO_FILE *) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(_IO_FILE *)
+_IO_ftrylockfile	std.c	/^extern int _IO_ftrylockfile (_IO_FILE *) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(_IO_FILE *)
+_IO_funlockfile	std.c	/^extern void _IO_funlockfile (_IO_FILE *) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(_IO_FILE *)
+_IO_getc	std.c	/^extern int _IO_getc (_IO_FILE *__fp);$/;"	p	file:	signature:(_IO_FILE *__fp)
+_IO_lock_t	std.c	/^typedef void _IO_lock_t;$/;"	t	file:
+_IO_marker	std.c	/^struct _IO_marker {$/;"	s	file:
+_IO_marker::_next	std.c	/^  struct _IO_marker *_next;$/;"	m	struct:_IO_marker	typeref:struct:_IO_marker::_IO_marker	file:	access:public
+_IO_marker::_pos	std.c	/^  int _pos;$/;"	m	struct:_IO_marker	file:	access:public
+_IO_marker::_sbuf	std.c	/^  struct _IO_FILE *_sbuf;$/;"	m	struct:_IO_marker	typeref:struct:_IO_marker::_IO_FILE	file:	access:public
+_IO_padn	std.c	/^extern __ssize_t _IO_padn (_IO_FILE *, int, __ssize_t);$/;"	p	file:	signature:(_IO_FILE *, int, __ssize_t)
+_IO_peekc_locked	std.c	/^extern int _IO_peekc_locked (_IO_FILE *__fp);$/;"	p	file:	signature:(_IO_FILE *__fp)
+_IO_putc	std.c	/^extern int _IO_putc (int __c, _IO_FILE *__fp);$/;"	p	file:	signature:(int __c, _IO_FILE *__fp)
+_IO_read_base	std.c	/^  char* _IO_read_base;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_read_end	std.c	/^  char* _IO_read_end;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_read_ptr	std.c	/^  char* _IO_read_ptr;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_save_base	std.c	/^  char *_IO_save_base;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_save_end	std.c	/^  char *_IO_save_end;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_seekoff	std.c	/^extern __off64_t _IO_seekoff (_IO_FILE *, __off64_t, int, int);$/;"	p	file:	signature:(_IO_FILE *, __off64_t, int, int)
+_IO_seekpos	std.c	/^extern __off64_t _IO_seekpos (_IO_FILE *, __off64_t, int);$/;"	p	file:	signature:(_IO_FILE *, __off64_t, int)
+_IO_sgetn	std.c	/^extern size_t _IO_sgetn (_IO_FILE *, void *, size_t);$/;"	p	file:	signature:(_IO_FILE *, void *, size_t)
+_IO_vfprintf	std.c	/^extern int _IO_vfprintf (_IO_FILE *__restrict, const char *__restrict,$/;"	p	file:	signature:(_IO_FILE *__restrict, const char *__restrict, __gnuc_va_list)
+_IO_vfscanf	std.c	/^extern int _IO_vfscanf (_IO_FILE * __restrict, const char * __restrict,$/;"	p	file:	signature:(_IO_FILE * __restrict, const char * __restrict, __gnuc_va_list, int *__restrict)
+_IO_write_base	std.c	/^  char* _IO_write_base;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_write_end	std.c	/^  char* _IO_write_end;$/;"	m	struct:_IO_FILE	file:	access:public
+_IO_write_ptr	std.c	/^  char* _IO_write_ptr;$/;"	m	struct:_IO_FILE	file:	access:public
+_PC_2_SYMLINKS	std.c	/^    _PC_2_SYMLINKS$/;"	e	enum:__anon26	file:
+_PC_ALLOC_SIZE_MIN	std.c	/^    _PC_ALLOC_SIZE_MIN,$/;"	e	enum:__anon26	file:
+_PC_ASYNC_IO	std.c	/^    _PC_ASYNC_IO,$/;"	e	enum:__anon26	file:
+_PC_CHOWN_RESTRICTED	std.c	/^    _PC_CHOWN_RESTRICTED,$/;"	e	enum:__anon26	file:
+_PC_FILESIZEBITS	std.c	/^    _PC_FILESIZEBITS,$/;"	e	enum:__anon26	file:
+_PC_LINK_MAX	std.c	/^    _PC_LINK_MAX,$/;"	e	enum:__anon26	file:
+_PC_MAX_CANON	std.c	/^    _PC_MAX_CANON,$/;"	e	enum:__anon26	file:
+_PC_MAX_INPUT	std.c	/^    _PC_MAX_INPUT,$/;"	e	enum:__anon26	file:
+_PC_NAME_MAX	std.c	/^    _PC_NAME_MAX,$/;"	e	enum:__anon26	file:
+_PC_NO_TRUNC	std.c	/^    _PC_NO_TRUNC,$/;"	e	enum:__anon26	file:
+_PC_PATH_MAX	std.c	/^    _PC_PATH_MAX,$/;"	e	enum:__anon26	file:
+_PC_PIPE_BUF	std.c	/^    _PC_PIPE_BUF,$/;"	e	enum:__anon26	file:
+_PC_PRIO_IO	std.c	/^    _PC_PRIO_IO,$/;"	e	enum:__anon26	file:
+_PC_REC_INCR_XFER_SIZE	std.c	/^    _PC_REC_INCR_XFER_SIZE,$/;"	e	enum:__anon26	file:
+_PC_REC_MAX_XFER_SIZE	std.c	/^    _PC_REC_MAX_XFER_SIZE,$/;"	e	enum:__anon26	file:
+_PC_REC_MIN_XFER_SIZE	std.c	/^    _PC_REC_MIN_XFER_SIZE,$/;"	e	enum:__anon26	file:
+_PC_REC_XFER_ALIGN	std.c	/^    _PC_REC_XFER_ALIGN,$/;"	e	enum:__anon26	file:
+_PC_SOCK_MAXBUF	std.c	/^    _PC_SOCK_MAXBUF,$/;"	e	enum:__anon26	file:
+_PC_SYMLINK_MAX	std.c	/^    _PC_SYMLINK_MAX,$/;"	e	enum:__anon26	file:
+_PC_SYNC_IO	std.c	/^    _PC_SYNC_IO,$/;"	e	enum:__anon26	file:
+_PC_VDISABLE	std.c	/^    _PC_VDISABLE,$/;"	e	enum:__anon26	file:
+_SC_2_CHAR_TERM	std.c	/^    _SC_2_CHAR_TERM,$/;"	e	enum:__anon27	file:
+_SC_2_C_BIND	std.c	/^    _SC_2_C_BIND,$/;"	e	enum:__anon27	file:
+_SC_2_C_DEV	std.c	/^    _SC_2_C_DEV,$/;"	e	enum:__anon27	file:
+_SC_2_C_VERSION	std.c	/^    _SC_2_C_VERSION,$/;"	e	enum:__anon27	file:
+_SC_2_FORT_DEV	std.c	/^    _SC_2_FORT_DEV,$/;"	e	enum:__anon27	file:
+_SC_2_FORT_RUN	std.c	/^    _SC_2_FORT_RUN,$/;"	e	enum:__anon27	file:
+_SC_2_LOCALEDEF	std.c	/^    _SC_2_LOCALEDEF,$/;"	e	enum:__anon27	file:
+_SC_2_PBS	std.c	/^    _SC_2_PBS,$/;"	e	enum:__anon27	file:
+_SC_2_PBS_ACCOUNTING	std.c	/^    _SC_2_PBS_ACCOUNTING,$/;"	e	enum:__anon27	file:
+_SC_2_PBS_CHECKPOINT	std.c	/^    _SC_2_PBS_CHECKPOINT,$/;"	e	enum:__anon27	file:
+_SC_2_PBS_LOCATE	std.c	/^    _SC_2_PBS_LOCATE,$/;"	e	enum:__anon27	file:
+_SC_2_PBS_MESSAGE	std.c	/^    _SC_2_PBS_MESSAGE,$/;"	e	enum:__anon27	file:
+_SC_2_PBS_TRACK	std.c	/^    _SC_2_PBS_TRACK,$/;"	e	enum:__anon27	file:
+_SC_2_SW_DEV	std.c	/^    _SC_2_SW_DEV,$/;"	e	enum:__anon27	file:
+_SC_2_UPE	std.c	/^    _SC_2_UPE,$/;"	e	enum:__anon27	file:
+_SC_2_VERSION	std.c	/^    _SC_2_VERSION,$/;"	e	enum:__anon27	file:
+_SC_ADVISORY_INFO	std.c	/^    _SC_ADVISORY_INFO,$/;"	e	enum:__anon27	file:
+_SC_AIO_LISTIO_MAX	std.c	/^    _SC_AIO_LISTIO_MAX,$/;"	e	enum:__anon27	file:
+_SC_AIO_MAX	std.c	/^    _SC_AIO_MAX,$/;"	e	enum:__anon27	file:
+_SC_AIO_PRIO_DELTA_MAX	std.c	/^    _SC_AIO_PRIO_DELTA_MAX,$/;"	e	enum:__anon27	file:
+_SC_ARG_MAX	std.c	/^    _SC_ARG_MAX,$/;"	e	enum:__anon27	file:
+_SC_ASYNCHRONOUS_IO	std.c	/^    _SC_ASYNCHRONOUS_IO,$/;"	e	enum:__anon27	file:
+_SC_ATEXIT_MAX	std.c	/^    _SC_ATEXIT_MAX,$/;"	e	enum:__anon27	file:
+_SC_AVPHYS_PAGES	std.c	/^    _SC_AVPHYS_PAGES,$/;"	e	enum:__anon27	file:
+_SC_BARRIERS	std.c	/^    _SC_BARRIERS,$/;"	e	enum:__anon27	file:
+_SC_BASE	std.c	/^    _SC_BASE,$/;"	e	enum:__anon27	file:
+_SC_BC_BASE_MAX	std.c	/^    _SC_BC_BASE_MAX,$/;"	e	enum:__anon27	file:
+_SC_BC_DIM_MAX	std.c	/^    _SC_BC_DIM_MAX,$/;"	e	enum:__anon27	file:
+_SC_BC_SCALE_MAX	std.c	/^    _SC_BC_SCALE_MAX,$/;"	e	enum:__anon27	file:
+_SC_BC_STRING_MAX	std.c	/^    _SC_BC_STRING_MAX,$/;"	e	enum:__anon27	file:
+_SC_CHARCLASS_NAME_MAX	std.c	/^    _SC_CHARCLASS_NAME_MAX,$/;"	e	enum:__anon27	file:
+_SC_CHAR_BIT	std.c	/^    _SC_CHAR_BIT,$/;"	e	enum:__anon27	file:
+_SC_CHAR_MAX	std.c	/^    _SC_CHAR_MAX,$/;"	e	enum:__anon27	file:
+_SC_CHAR_MIN	std.c	/^    _SC_CHAR_MIN,$/;"	e	enum:__anon27	file:
+_SC_CHILD_MAX	std.c	/^    _SC_CHILD_MAX,$/;"	e	enum:__anon27	file:
+_SC_CLK_TCK	std.c	/^    _SC_CLK_TCK,$/;"	e	enum:__anon27	file:
+_SC_CLOCK_SELECTION	std.c	/^    _SC_CLOCK_SELECTION,$/;"	e	enum:__anon27	file:
+_SC_COLL_WEIGHTS_MAX	std.c	/^    _SC_COLL_WEIGHTS_MAX,$/;"	e	enum:__anon27	file:
+_SC_CPUTIME	std.c	/^    _SC_CPUTIME,$/;"	e	enum:__anon27	file:
+_SC_C_LANG_SUPPORT	std.c	/^    _SC_C_LANG_SUPPORT,$/;"	e	enum:__anon27	file:
+_SC_C_LANG_SUPPORT_R	std.c	/^    _SC_C_LANG_SUPPORT_R,$/;"	e	enum:__anon27	file:
+_SC_DELAYTIMER_MAX	std.c	/^    _SC_DELAYTIMER_MAX,$/;"	e	enum:__anon27	file:
+_SC_DEVICE_IO	std.c	/^    _SC_DEVICE_IO,$/;"	e	enum:__anon27	file:
+_SC_DEVICE_SPECIFIC	std.c	/^    _SC_DEVICE_SPECIFIC,$/;"	e	enum:__anon27	file:
+_SC_DEVICE_SPECIFIC_R	std.c	/^    _SC_DEVICE_SPECIFIC_R,$/;"	e	enum:__anon27	file:
+_SC_EQUIV_CLASS_MAX	std.c	/^    _SC_EQUIV_CLASS_MAX,$/;"	e	enum:__anon27	file:
+_SC_EXPR_NEST_MAX	std.c	/^    _SC_EXPR_NEST_MAX,$/;"	e	enum:__anon27	file:
+_SC_FD_MGMT	std.c	/^    _SC_FD_MGMT,$/;"	e	enum:__anon27	file:
+_SC_FIFO	std.c	/^    _SC_FIFO,$/;"	e	enum:__anon27	file:
+_SC_FILE_ATTRIBUTES	std.c	/^    _SC_FILE_ATTRIBUTES,$/;"	e	enum:__anon27	file:
+_SC_FILE_LOCKING	std.c	/^    _SC_FILE_LOCKING,$/;"	e	enum:__anon27	file:
+_SC_FILE_SYSTEM	std.c	/^    _SC_FILE_SYSTEM,$/;"	e	enum:__anon27	file:
+_SC_FSYNC	std.c	/^    _SC_FSYNC,$/;"	e	enum:__anon27	file:
+_SC_GETGR_R_SIZE_MAX	std.c	/^    _SC_GETGR_R_SIZE_MAX,$/;"	e	enum:__anon27	file:
+_SC_GETPW_R_SIZE_MAX	std.c	/^    _SC_GETPW_R_SIZE_MAX,$/;"	e	enum:__anon27	file:
+_SC_HOST_NAME_MAX	std.c	/^    _SC_HOST_NAME_MAX,$/;"	e	enum:__anon27	file:
+_SC_INT_MAX	std.c	/^    _SC_INT_MAX,$/;"	e	enum:__anon27	file:
+_SC_INT_MIN	std.c	/^    _SC_INT_MIN,$/;"	e	enum:__anon27	file:
+_SC_IOV_MAX	std.c	/^    _SC_IOV_MAX = _SC_UIO_MAXIOV,$/;"	e	enum:__anon27	file:
+_SC_IPV6	std.c	/^    _SC_IPV6 = _SC_LEVEL1_ICACHE_SIZE + 50,$/;"	e	enum:__anon27	file:
+_SC_JOB_CONTROL	std.c	/^    _SC_JOB_CONTROL,$/;"	e	enum:__anon27	file:
+_SC_LEVEL1_DCACHE_ASSOC	std.c	/^    _SC_LEVEL1_DCACHE_ASSOC,$/;"	e	enum:__anon27	file:
+_SC_LEVEL1_DCACHE_LINESIZE	std.c	/^    _SC_LEVEL1_DCACHE_LINESIZE,$/;"	e	enum:__anon27	file:
+_SC_LEVEL1_DCACHE_SIZE	std.c	/^    _SC_LEVEL1_DCACHE_SIZE,$/;"	e	enum:__anon27	file:
+_SC_LEVEL1_ICACHE_ASSOC	std.c	/^    _SC_LEVEL1_ICACHE_ASSOC,$/;"	e	enum:__anon27	file:
+_SC_LEVEL1_ICACHE_LINESIZE	std.c	/^    _SC_LEVEL1_ICACHE_LINESIZE,$/;"	e	enum:__anon27	file:
+_SC_LEVEL1_ICACHE_SIZE	std.c	/^    _SC_LEVEL1_ICACHE_SIZE,$/;"	e	enum:__anon27	file:
+_SC_LEVEL2_CACHE_ASSOC	std.c	/^    _SC_LEVEL2_CACHE_ASSOC,$/;"	e	enum:__anon27	file:
+_SC_LEVEL2_CACHE_LINESIZE	std.c	/^    _SC_LEVEL2_CACHE_LINESIZE,$/;"	e	enum:__anon27	file:
+_SC_LEVEL2_CACHE_SIZE	std.c	/^    _SC_LEVEL2_CACHE_SIZE,$/;"	e	enum:__anon27	file:
+_SC_LEVEL3_CACHE_ASSOC	std.c	/^    _SC_LEVEL3_CACHE_ASSOC,$/;"	e	enum:__anon27	file:
+_SC_LEVEL3_CACHE_LINESIZE	std.c	/^    _SC_LEVEL3_CACHE_LINESIZE,$/;"	e	enum:__anon27	file:
+_SC_LEVEL3_CACHE_SIZE	std.c	/^    _SC_LEVEL3_CACHE_SIZE,$/;"	e	enum:__anon27	file:
+_SC_LEVEL4_CACHE_ASSOC	std.c	/^    _SC_LEVEL4_CACHE_ASSOC,$/;"	e	enum:__anon27	file:
+_SC_LEVEL4_CACHE_LINESIZE	std.c	/^    _SC_LEVEL4_CACHE_LINESIZE,$/;"	e	enum:__anon27	file:
+_SC_LEVEL4_CACHE_SIZE	std.c	/^    _SC_LEVEL4_CACHE_SIZE,$/;"	e	enum:__anon27	file:
+_SC_LINE_MAX	std.c	/^    _SC_LINE_MAX,$/;"	e	enum:__anon27	file:
+_SC_LOGIN_NAME_MAX	std.c	/^    _SC_LOGIN_NAME_MAX,$/;"	e	enum:__anon27	file:
+_SC_LONG_BIT	std.c	/^    _SC_LONG_BIT,$/;"	e	enum:__anon27	file:
+_SC_MAPPED_FILES	std.c	/^    _SC_MAPPED_FILES,$/;"	e	enum:__anon27	file:
+_SC_MB_LEN_MAX	std.c	/^    _SC_MB_LEN_MAX,$/;"	e	enum:__anon27	file:
+_SC_MEMLOCK	std.c	/^    _SC_MEMLOCK,$/;"	e	enum:__anon27	file:
+_SC_MEMLOCK_RANGE	std.c	/^    _SC_MEMLOCK_RANGE,$/;"	e	enum:__anon27	file:
+_SC_MEMORY_PROTECTION	std.c	/^    _SC_MEMORY_PROTECTION,$/;"	e	enum:__anon27	file:
+_SC_MESSAGE_PASSING	std.c	/^    _SC_MESSAGE_PASSING,$/;"	e	enum:__anon27	file:
+_SC_MONOTONIC_CLOCK	std.c	/^    _SC_MONOTONIC_CLOCK,$/;"	e	enum:__anon27	file:
+_SC_MQ_OPEN_MAX	std.c	/^    _SC_MQ_OPEN_MAX,$/;"	e	enum:__anon27	file:
+_SC_MQ_PRIO_MAX	std.c	/^    _SC_MQ_PRIO_MAX,$/;"	e	enum:__anon27	file:
+_SC_MULTI_PROCESS	std.c	/^    _SC_MULTI_PROCESS,$/;"	e	enum:__anon27	file:
+_SC_NETWORKING	std.c	/^    _SC_NETWORKING,$/;"	e	enum:__anon27	file:
+_SC_NGROUPS_MAX	std.c	/^    _SC_NGROUPS_MAX,$/;"	e	enum:__anon27	file:
+_SC_NL_ARGMAX	std.c	/^    _SC_NL_ARGMAX,$/;"	e	enum:__anon27	file:
+_SC_NL_LANGMAX	std.c	/^    _SC_NL_LANGMAX,$/;"	e	enum:__anon27	file:
+_SC_NL_MSGMAX	std.c	/^    _SC_NL_MSGMAX,$/;"	e	enum:__anon27	file:
+_SC_NL_NMAX	std.c	/^    _SC_NL_NMAX,$/;"	e	enum:__anon27	file:
+_SC_NL_SETMAX	std.c	/^    _SC_NL_SETMAX,$/;"	e	enum:__anon27	file:
+_SC_NL_TEXTMAX	std.c	/^    _SC_NL_TEXTMAX,$/;"	e	enum:__anon27	file:
+_SC_NPROCESSORS_CONF	std.c	/^    _SC_NPROCESSORS_CONF,$/;"	e	enum:__anon27	file:
+_SC_NPROCESSORS_ONLN	std.c	/^    _SC_NPROCESSORS_ONLN,$/;"	e	enum:__anon27	file:
+_SC_NZERO	std.c	/^    _SC_NZERO,$/;"	e	enum:__anon27	file:
+_SC_OPEN_MAX	std.c	/^    _SC_OPEN_MAX,$/;"	e	enum:__anon27	file:
+_SC_PAGESIZE	std.c	/^    _SC_PAGESIZE,$/;"	e	enum:__anon27	file:
+_SC_PASS_MAX	std.c	/^    _SC_PASS_MAX,$/;"	e	enum:__anon27	file:
+_SC_PHYS_PAGES	std.c	/^    _SC_PHYS_PAGES,$/;"	e	enum:__anon27	file:
+_SC_PII	std.c	/^    _SC_PII,$/;"	e	enum:__anon27	file:
+_SC_PII_INTERNET	std.c	/^    _SC_PII_INTERNET,$/;"	e	enum:__anon27	file:
+_SC_PII_INTERNET_DGRAM	std.c	/^    _SC_PII_INTERNET_DGRAM,$/;"	e	enum:__anon27	file:
+_SC_PII_INTERNET_STREAM	std.c	/^    _SC_PII_INTERNET_STREAM,$/;"	e	enum:__anon27	file:
+_SC_PII_OSI	std.c	/^    _SC_PII_OSI,$/;"	e	enum:__anon27	file:
+_SC_PII_OSI_CLTS	std.c	/^    _SC_PII_OSI_CLTS,$/;"	e	enum:__anon27	file:
+_SC_PII_OSI_COTS	std.c	/^    _SC_PII_OSI_COTS,$/;"	e	enum:__anon27	file:
+_SC_PII_OSI_M	std.c	/^    _SC_PII_OSI_M,$/;"	e	enum:__anon27	file:
+_SC_PII_SOCKET	std.c	/^    _SC_PII_SOCKET,$/;"	e	enum:__anon27	file:
+_SC_PII_XTI	std.c	/^    _SC_PII_XTI,$/;"	e	enum:__anon27	file:
+_SC_PIPE	std.c	/^    _SC_PIPE,$/;"	e	enum:__anon27	file:
+_SC_POLL	std.c	/^    _SC_POLL,$/;"	e	enum:__anon27	file:
+_SC_PRIORITIZED_IO	std.c	/^    _SC_PRIORITIZED_IO,$/;"	e	enum:__anon27	file:
+_SC_PRIORITY_SCHEDULING	std.c	/^    _SC_PRIORITY_SCHEDULING,$/;"	e	enum:__anon27	file:
+_SC_RAW_SOCKETS	std.c	/^    _SC_RAW_SOCKETS,$/;"	e	enum:__anon27	file:
+_SC_READER_WRITER_LOCKS	std.c	/^    _SC_READER_WRITER_LOCKS,$/;"	e	enum:__anon27	file:
+_SC_REALTIME_SIGNALS	std.c	/^    _SC_REALTIME_SIGNALS,$/;"	e	enum:__anon27	file:
+_SC_REGEXP	std.c	/^    _SC_REGEXP,$/;"	e	enum:__anon27	file:
+_SC_REGEX_VERSION	std.c	/^    _SC_REGEX_VERSION,$/;"	e	enum:__anon27	file:
+_SC_RE_DUP_MAX	std.c	/^    _SC_RE_DUP_MAX,$/;"	e	enum:__anon27	file:
+_SC_RTSIG_MAX	std.c	/^    _SC_RTSIG_MAX,$/;"	e	enum:__anon27	file:
+_SC_SAVED_IDS	std.c	/^    _SC_SAVED_IDS,$/;"	e	enum:__anon27	file:
+_SC_SCHAR_MAX	std.c	/^    _SC_SCHAR_MAX,$/;"	e	enum:__anon27	file:
+_SC_SCHAR_MIN	std.c	/^    _SC_SCHAR_MIN,$/;"	e	enum:__anon27	file:
+_SC_SELECT	std.c	/^    _SC_SELECT,$/;"	e	enum:__anon27	file:
+_SC_SEMAPHORES	std.c	/^    _SC_SEMAPHORES,$/;"	e	enum:__anon27	file:
+_SC_SEM_NSEMS_MAX	std.c	/^    _SC_SEM_NSEMS_MAX,$/;"	e	enum:__anon27	file:
+_SC_SEM_VALUE_MAX	std.c	/^    _SC_SEM_VALUE_MAX,$/;"	e	enum:__anon27	file:
+_SC_SHARED_MEMORY_OBJECTS	std.c	/^    _SC_SHARED_MEMORY_OBJECTS,$/;"	e	enum:__anon27	file:
+_SC_SHELL	std.c	/^    _SC_SHELL,$/;"	e	enum:__anon27	file:
+_SC_SHRT_MAX	std.c	/^    _SC_SHRT_MAX,$/;"	e	enum:__anon27	file:
+_SC_SHRT_MIN	std.c	/^    _SC_SHRT_MIN,$/;"	e	enum:__anon27	file:
+_SC_SIGNALS	std.c	/^    _SC_SIGNALS,$/;"	e	enum:__anon27	file:
+_SC_SIGQUEUE_MAX	std.c	/^    _SC_SIGQUEUE_MAX,$/;"	e	enum:__anon27	file:
+_SC_SINGLE_PROCESS	std.c	/^    _SC_SINGLE_PROCESS,$/;"	e	enum:__anon27	file:
+_SC_SPAWN	std.c	/^    _SC_SPAWN,$/;"	e	enum:__anon27	file:
+_SC_SPIN_LOCKS	std.c	/^    _SC_SPIN_LOCKS,$/;"	e	enum:__anon27	file:
+_SC_SPORADIC_SERVER	std.c	/^    _SC_SPORADIC_SERVER,$/;"	e	enum:__anon27	file:
+_SC_SSIZE_MAX	std.c	/^    _SC_SSIZE_MAX,$/;"	e	enum:__anon27	file:
+_SC_SS_REPL_MAX	std.c	/^    _SC_SS_REPL_MAX,$/;"	e	enum:__anon27	file:
+_SC_STREAMS	std.c	/^    _SC_STREAMS,$/;"	e	enum:__anon27	file:
+_SC_STREAM_MAX	std.c	/^    _SC_STREAM_MAX,$/;"	e	enum:__anon27	file:
+_SC_SYMLOOP_MAX	std.c	/^    _SC_SYMLOOP_MAX,$/;"	e	enum:__anon27	file:
+_SC_SYNCHRONIZED_IO	std.c	/^    _SC_SYNCHRONIZED_IO,$/;"	e	enum:__anon27	file:
+_SC_SYSTEM_DATABASE	std.c	/^    _SC_SYSTEM_DATABASE,$/;"	e	enum:__anon27	file:
+_SC_SYSTEM_DATABASE_R	std.c	/^    _SC_SYSTEM_DATABASE_R,$/;"	e	enum:__anon27	file:
+_SC_THREADS	std.c	/^    _SC_THREADS,$/;"	e	enum:__anon27	file:
+_SC_THREAD_ATTR_STACKADDR	std.c	/^    _SC_THREAD_ATTR_STACKADDR,$/;"	e	enum:__anon27	file:
+_SC_THREAD_ATTR_STACKSIZE	std.c	/^    _SC_THREAD_ATTR_STACKSIZE,$/;"	e	enum:__anon27	file:
+_SC_THREAD_CPUTIME	std.c	/^    _SC_THREAD_CPUTIME,$/;"	e	enum:__anon27	file:
+_SC_THREAD_DESTRUCTOR_ITERATIONS	std.c	/^    _SC_THREAD_DESTRUCTOR_ITERATIONS,$/;"	e	enum:__anon27	file:
+_SC_THREAD_KEYS_MAX	std.c	/^    _SC_THREAD_KEYS_MAX,$/;"	e	enum:__anon27	file:
+_SC_THREAD_PRIORITY_SCHEDULING	std.c	/^    _SC_THREAD_PRIORITY_SCHEDULING,$/;"	e	enum:__anon27	file:
+_SC_THREAD_PRIO_INHERIT	std.c	/^    _SC_THREAD_PRIO_INHERIT,$/;"	e	enum:__anon27	file:
+_SC_THREAD_PRIO_PROTECT	std.c	/^    _SC_THREAD_PRIO_PROTECT,$/;"	e	enum:__anon27	file:
+_SC_THREAD_PROCESS_SHARED	std.c	/^    _SC_THREAD_PROCESS_SHARED,$/;"	e	enum:__anon27	file:
+_SC_THREAD_ROBUST_PRIO_INHERIT	std.c	/^    _SC_THREAD_ROBUST_PRIO_INHERIT,$/;"	e	enum:__anon27	file:
+_SC_THREAD_ROBUST_PRIO_PROTECT	std.c	/^    _SC_THREAD_ROBUST_PRIO_PROTECT$/;"	e	enum:__anon27	file:
+_SC_THREAD_SAFE_FUNCTIONS	std.c	/^    _SC_THREAD_SAFE_FUNCTIONS,$/;"	e	enum:__anon27	file:
+_SC_THREAD_SPORADIC_SERVER	std.c	/^    _SC_THREAD_SPORADIC_SERVER,$/;"	e	enum:__anon27	file:
+_SC_THREAD_STACK_MIN	std.c	/^    _SC_THREAD_STACK_MIN,$/;"	e	enum:__anon27	file:
+_SC_THREAD_THREADS_MAX	std.c	/^    _SC_THREAD_THREADS_MAX,$/;"	e	enum:__anon27	file:
+_SC_TIMEOUTS	std.c	/^    _SC_TIMEOUTS,$/;"	e	enum:__anon27	file:
+_SC_TIMERS	std.c	/^    _SC_TIMERS,$/;"	e	enum:__anon27	file:
+_SC_TIMER_MAX	std.c	/^    _SC_TIMER_MAX,$/;"	e	enum:__anon27	file:
+_SC_TRACE	std.c	/^    _SC_TRACE,$/;"	e	enum:__anon27	file:
+_SC_TRACE_EVENT_FILTER	std.c	/^    _SC_TRACE_EVENT_FILTER,$/;"	e	enum:__anon27	file:
+_SC_TRACE_EVENT_NAME_MAX	std.c	/^    _SC_TRACE_EVENT_NAME_MAX,$/;"	e	enum:__anon27	file:
+_SC_TRACE_INHERIT	std.c	/^    _SC_TRACE_INHERIT,$/;"	e	enum:__anon27	file:
+_SC_TRACE_LOG	std.c	/^    _SC_TRACE_LOG,$/;"	e	enum:__anon27	file:
+_SC_TRACE_NAME_MAX	std.c	/^    _SC_TRACE_NAME_MAX,$/;"	e	enum:__anon27	file:
+_SC_TRACE_SYS_MAX	std.c	/^    _SC_TRACE_SYS_MAX,$/;"	e	enum:__anon27	file:
+_SC_TRACE_USER_EVENT_MAX	std.c	/^    _SC_TRACE_USER_EVENT_MAX,$/;"	e	enum:__anon27	file:
+_SC_TTY_NAME_MAX	std.c	/^    _SC_TTY_NAME_MAX,$/;"	e	enum:__anon27	file:
+_SC_TYPED_MEMORY_OBJECTS	std.c	/^    _SC_TYPED_MEMORY_OBJECTS,$/;"	e	enum:__anon27	file:
+_SC_TZNAME_MAX	std.c	/^    _SC_TZNAME_MAX,$/;"	e	enum:__anon27	file:
+_SC_T_IOV_MAX	std.c	/^    _SC_T_IOV_MAX,$/;"	e	enum:__anon27	file:
+_SC_UCHAR_MAX	std.c	/^    _SC_UCHAR_MAX,$/;"	e	enum:__anon27	file:
+_SC_UINT_MAX	std.c	/^    _SC_UINT_MAX,$/;"	e	enum:__anon27	file:
+_SC_UIO_MAXIOV	std.c	/^    _SC_UIO_MAXIOV,$/;"	e	enum:__anon27	file:
+_SC_ULONG_MAX	std.c	/^    _SC_ULONG_MAX,$/;"	e	enum:__anon27	file:
+_SC_USER_GROUPS	std.c	/^    _SC_USER_GROUPS,$/;"	e	enum:__anon27	file:
+_SC_USER_GROUPS_R	std.c	/^    _SC_USER_GROUPS_R,$/;"	e	enum:__anon27	file:
+_SC_USHRT_MAX	std.c	/^    _SC_USHRT_MAX,$/;"	e	enum:__anon27	file:
+_SC_V6_ILP32_OFF32	std.c	/^    _SC_V6_ILP32_OFF32,$/;"	e	enum:__anon27	file:
+_SC_V6_ILP32_OFFBIG	std.c	/^    _SC_V6_ILP32_OFFBIG,$/;"	e	enum:__anon27	file:
+_SC_V6_LP64_OFF64	std.c	/^    _SC_V6_LP64_OFF64,$/;"	e	enum:__anon27	file:
+_SC_V6_LPBIG_OFFBIG	std.c	/^    _SC_V6_LPBIG_OFFBIG,$/;"	e	enum:__anon27	file:
+_SC_V7_ILP32_OFF32	std.c	/^    _SC_V7_ILP32_OFF32,$/;"	e	enum:__anon27	file:
+_SC_V7_ILP32_OFFBIG	std.c	/^    _SC_V7_ILP32_OFFBIG,$/;"	e	enum:__anon27	file:
+_SC_V7_LP64_OFF64	std.c	/^    _SC_V7_LP64_OFF64,$/;"	e	enum:__anon27	file:
+_SC_V7_LPBIG_OFFBIG	std.c	/^    _SC_V7_LPBIG_OFFBIG,$/;"	e	enum:__anon27	file:
+_SC_VERSION	std.c	/^    _SC_VERSION,$/;"	e	enum:__anon27	file:
+_SC_WORD_BIT	std.c	/^    _SC_WORD_BIT,$/;"	e	enum:__anon27	file:
+_SC_XBS5_ILP32_OFF32	std.c	/^    _SC_XBS5_ILP32_OFF32,$/;"	e	enum:__anon27	file:
+_SC_XBS5_ILP32_OFFBIG	std.c	/^    _SC_XBS5_ILP32_OFFBIG,$/;"	e	enum:__anon27	file:
+_SC_XBS5_LP64_OFF64	std.c	/^    _SC_XBS5_LP64_OFF64,$/;"	e	enum:__anon27	file:
+_SC_XBS5_LPBIG_OFFBIG	std.c	/^    _SC_XBS5_LPBIG_OFFBIG,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_CRYPT	std.c	/^    _SC_XOPEN_CRYPT,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_ENH_I18N	std.c	/^    _SC_XOPEN_ENH_I18N,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_LEGACY	std.c	/^    _SC_XOPEN_LEGACY,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_REALTIME	std.c	/^    _SC_XOPEN_REALTIME,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_REALTIME_THREADS	std.c	/^    _SC_XOPEN_REALTIME_THREADS,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_SHM	std.c	/^    _SC_XOPEN_SHM,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_STREAMS	std.c	/^    _SC_XOPEN_STREAMS,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_UNIX	std.c	/^    _SC_XOPEN_UNIX,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_VERSION	std.c	/^    _SC_XOPEN_VERSION,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_XCU_VERSION	std.c	/^    _SC_XOPEN_XCU_VERSION,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_XPG2	std.c	/^    _SC_XOPEN_XPG2,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_XPG3	std.c	/^    _SC_XOPEN_XPG3,$/;"	e	enum:__anon27	file:
+_SC_XOPEN_XPG4	std.c	/^    _SC_XOPEN_XPG4,$/;"	e	enum:__anon27	file:
+__FILE	std.c	/^typedef struct _IO_FILE __FILE;$/;"	t	typeref:struct:_IO_FILE	file:
+__WAIT_STATUS	std.c	/^  } __WAIT_STATUS __attribute__ ((__transparent_union__));$/;"	t	typeref:union:__anon8	file:
+__a	std.c	/^    unsigned long long int __a;$/;"	m	struct:drand48_data	file:	access:public
+__align	std.c	/^  __extension__ long long int __align;$/;"	m	union:__anon17	file:	access:public
+__align	std.c	/^  __extension__ long long int __align;$/;"	m	union:__anon34	file:	access:public
+__align	std.c	/^  int __align;$/;"	m	union:__anon16	file:	access:public
+__align	std.c	/^  int __align;$/;"	m	union:__anon19	file:	access:public
+__align	std.c	/^  int __align;$/;"	m	union:__anon24	file:	access:public
+__align	std.c	/^  int __align;$/;"	m	union:__anon33	file:	access:public
+__align	std.c	/^  int __align;$/;"	m	union:__anon36	file:	access:public
+__align	std.c	/^  int __align;$/;"	m	union:__anon41	file:	access:public
+__align	std.c	/^  long int __align;$/;"	m	union:__anon14	file:	access:public
+__align	std.c	/^  long int __align;$/;"	m	union:__anon15	file:	access:public
+__align	std.c	/^  long int __align;$/;"	m	union:__anon20	file:	access:public
+__align	std.c	/^  long int __align;$/;"	m	union:__anon22	file:	access:public
+__align	std.c	/^  long int __align;$/;"	m	union:__anon23	file:	access:public
+__align	std.c	/^  long int __align;$/;"	m	union:__anon31	file:	access:public
+__align	std.c	/^  long int __align;$/;"	m	union:__anon32	file:	access:public
+__align	std.c	/^  long int __align;$/;"	m	union:__anon37	file:	access:public
+__align	std.c	/^  long int __align;$/;"	m	union:__anon39	file:	access:public
+__align	std.c	/^  long int __align;$/;"	m	union:__anon40	file:	access:public
+__anon10::quot	std.c	/^    long int quot;$/;"	m	struct:__anon10	file:	access:public
+__anon10::rem	std.c	/^    long int rem;$/;"	m	struct:__anon10	file:	access:public
+__anon11::quot	std.c	/^    long long int quot;$/;"	m	struct:__anon11	file:	access:public
+__anon11::rem	std.c	/^    long long int rem;$/;"	m	struct:__anon11	file:	access:public
+__anon12::__val	std.c	/^    unsigned long int __val[(1024 \/ (8 * sizeof (unsigned long int)))];$/;"	m	struct:__anon12	file:	access:public
+__anon13::__fds_bits	std.c	/^    __fd_mask __fds_bits[1024 \/ (8 * (int) sizeof (__fd_mask))];$/;"	m	struct:__anon13	file:	access:public
+__anon14::__align	std.c	/^  long int __align;$/;"	m	union:__anon14	file:	access:public
+__anon14::__size	std.c	/^  char __size[56];$/;"	m	union:__anon14	file:	access:public
+__anon15::__align	std.c	/^  long int __align;$/;"	m	union:__anon15	file:	access:public
+__anon15::__data	std.c	/^  } __data;$/;"	m	union:__anon15	typeref:struct:__anon15::__pthread_mutex_s	file:	access:public
+__anon15::__pthread_mutex_s	std.c	/^  struct __pthread_mutex_s$/;"	s	union:__anon15	file:	access:public
+__anon15::__pthread_mutex_s::__count	std.c	/^    unsigned int __count;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__anon15::__pthread_mutex_s::__kind	std.c	/^    int __kind;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__anon15::__pthread_mutex_s::__list	std.c	/^    __pthread_list_t __list;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__anon15::__pthread_mutex_s::__lock	std.c	/^    int __lock;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__anon15::__pthread_mutex_s::__nusers	std.c	/^    unsigned int __nusers;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__anon15::__pthread_mutex_s::__owner	std.c	/^    int __owner;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__anon15::__pthread_mutex_s::__spins	std.c	/^    int __spins;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__anon15::__size	std.c	/^  char __size[40];$/;"	m	union:__anon15	file:	access:public
+__anon16::__align	std.c	/^  int __align;$/;"	m	union:__anon16	file:	access:public
+__anon16::__size	std.c	/^  char __size[4];$/;"	m	union:__anon16	file:	access:public
+__anon17::__align	std.c	/^  __extension__ long long int __align;$/;"	m	union:__anon17	file:	access:public
+__anon17::__anon18::__broadcast_seq	std.c	/^    unsigned int __broadcast_seq;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__anon17::__anon18::__futex	std.c	/^    unsigned int __futex;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__anon17::__anon18::__lock	std.c	/^    int __lock;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__anon17::__anon18::__mutex	std.c	/^    void *__mutex;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__anon17::__anon18::__nwaiters	std.c	/^    unsigned int __nwaiters;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__anon17::__anon18::__total_seq	std.c	/^    __extension__ unsigned long long int __total_seq;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__anon17::__anon18::__wakeup_seq	std.c	/^    __extension__ unsigned long long int __wakeup_seq;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__anon17::__anon18::__woken_seq	std.c	/^    __extension__ unsigned long long int __woken_seq;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__anon17::__data	std.c	/^  } __data;$/;"	m	union:__anon17	typeref:struct:__anon17::__anon18	file:	access:public
+__anon17::__size	std.c	/^  char __size[48];$/;"	m	union:__anon17	file:	access:public
+__anon19::__align	std.c	/^  int __align;$/;"	m	union:__anon19	file:	access:public
+__anon19::__size	std.c	/^  char __size[4];$/;"	m	union:__anon19	file:	access:public
+__anon1::__val	std.c	/^typedef struct { int __val[2]; } __fsid_t;$/;"	m	struct:__anon1	file:	access:public
+__anon20::__align	std.c	/^  long int __align;$/;"	m	union:__anon20	file:	access:public
+__anon20::__anon21::__flags	std.c	/^    unsigned int __flags;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__anon21::__lock	std.c	/^    int __lock;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__anon21::__nr_readers	std.c	/^    unsigned int __nr_readers;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__anon21::__nr_readers_queued	std.c	/^    unsigned int __nr_readers_queued;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__anon21::__nr_writers_queued	std.c	/^    unsigned int __nr_writers_queued;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__anon21::__pad1	std.c	/^    unsigned long int __pad1;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__anon21::__pad2	std.c	/^    unsigned long int __pad2;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__anon21::__readers_wakeup	std.c	/^    unsigned int __readers_wakeup;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__anon21::__shared	std.c	/^    int __shared;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__anon21::__writer	std.c	/^    int __writer;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__anon21::__writer_wakeup	std.c	/^    unsigned int __writer_wakeup;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__anon20::__data	std.c	/^  } __data;$/;"	m	union:__anon20	typeref:struct:__anon20::__anon21	file:	access:public
+__anon20::__size	std.c	/^  char __size[56];$/;"	m	union:__anon20	file:	access:public
+__anon22::__align	std.c	/^  long int __align;$/;"	m	union:__anon22	file:	access:public
+__anon22::__size	std.c	/^  char __size[8];$/;"	m	union:__anon22	file:	access:public
+__anon23::__align	std.c	/^  long int __align;$/;"	m	union:__anon23	file:	access:public
+__anon23::__size	std.c	/^  char __size[32];$/;"	m	union:__anon23	file:	access:public
+__anon24::__align	std.c	/^  int __align;$/;"	m	union:__anon24	file:	access:public
+__anon24::__size	std.c	/^  char __size[4];$/;"	m	union:__anon24	file:	access:public
+__anon25::__val	std.c	/^typedef struct { int __val[2]; } __fsid_t;$/;"	m	struct:__anon25	file:	access:public
+__anon29::__val	std.c	/^    unsigned long int __val[(1024 \/ (8 * sizeof (unsigned long int)))];$/;"	m	struct:__anon29	file:	access:public
+__anon2::__anon3::__wch	std.c	/^    unsigned int __wch;$/;"	m	union:__anon2::__anon3	file:	access:public
+__anon2::__anon3::__wchb	std.c	/^    char __wchb[4];$/;"	m	union:__anon2::__anon3	file:	access:public
+__anon2::__count	std.c	/^  int __count;$/;"	m	struct:__anon2	file:	access:public
+__anon2::__value	std.c	/^  } __value;$/;"	m	struct:__anon2	typeref:union:__anon2::__anon3	file:	access:public
+__anon30::__fds_bits	std.c	/^    __fd_mask __fds_bits[1024 \/ (8 * (int) sizeof (__fd_mask))];$/;"	m	struct:__anon30	file:	access:public
+__anon31::__align	std.c	/^  long int __align;$/;"	m	union:__anon31	file:	access:public
+__anon31::__size	std.c	/^  char __size[56];$/;"	m	union:__anon31	file:	access:public
+__anon32::__align	std.c	/^  long int __align;$/;"	m	union:__anon32	file:	access:public
+__anon32::__data	std.c	/^  } __data;$/;"	m	union:__anon32	typeref:struct:__anon32::__pthread_mutex_s	file:	access:public
+__anon32::__pthread_mutex_s	std.c	/^  struct __pthread_mutex_s$/;"	s	union:__anon32	file:	access:public
+__anon32::__pthread_mutex_s::__count	std.c	/^    unsigned int __count;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__anon32::__pthread_mutex_s::__kind	std.c	/^    int __kind;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__anon32::__pthread_mutex_s::__list	std.c	/^    __pthread_list_t __list;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__anon32::__pthread_mutex_s::__lock	std.c	/^    int __lock;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__anon32::__pthread_mutex_s::__nusers	std.c	/^    unsigned int __nusers;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__anon32::__pthread_mutex_s::__owner	std.c	/^    int __owner;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__anon32::__pthread_mutex_s::__spins	std.c	/^    int __spins;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__anon32::__size	std.c	/^  char __size[40];$/;"	m	union:__anon32	file:	access:public
+__anon33::__align	std.c	/^  int __align;$/;"	m	union:__anon33	file:	access:public
+__anon33::__size	std.c	/^  char __size[4];$/;"	m	union:__anon33	file:	access:public
+__anon34::__align	std.c	/^  __extension__ long long int __align;$/;"	m	union:__anon34	file:	access:public
+__anon34::__anon35::__broadcast_seq	std.c	/^    unsigned int __broadcast_seq;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__anon34::__anon35::__futex	std.c	/^    unsigned int __futex;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__anon34::__anon35::__lock	std.c	/^    int __lock;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__anon34::__anon35::__mutex	std.c	/^    void *__mutex;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__anon34::__anon35::__nwaiters	std.c	/^    unsigned int __nwaiters;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__anon34::__anon35::__total_seq	std.c	/^    __extension__ unsigned long long int __total_seq;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__anon34::__anon35::__wakeup_seq	std.c	/^    __extension__ unsigned long long int __wakeup_seq;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__anon34::__anon35::__woken_seq	std.c	/^    __extension__ unsigned long long int __woken_seq;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__anon34::__data	std.c	/^  } __data;$/;"	m	union:__anon34	typeref:struct:__anon34::__anon35	file:	access:public
+__anon34::__size	std.c	/^  char __size[48];$/;"	m	union:__anon34	file:	access:public
+__anon36::__align	std.c	/^  int __align;$/;"	m	union:__anon36	file:	access:public
+__anon36::__size	std.c	/^  char __size[4];$/;"	m	union:__anon36	file:	access:public
+__anon37::__align	std.c	/^  long int __align;$/;"	m	union:__anon37	file:	access:public
+__anon37::__anon38::__flags	std.c	/^    unsigned int __flags;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__anon38::__lock	std.c	/^    int __lock;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__anon38::__nr_readers	std.c	/^    unsigned int __nr_readers;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__anon38::__nr_readers_queued	std.c	/^    unsigned int __nr_readers_queued;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__anon38::__nr_writers_queued	std.c	/^    unsigned int __nr_writers_queued;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__anon38::__pad1	std.c	/^    unsigned long int __pad1;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__anon38::__pad2	std.c	/^    unsigned long int __pad2;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__anon38::__readers_wakeup	std.c	/^    unsigned int __readers_wakeup;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__anon38::__shared	std.c	/^    int __shared;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__anon38::__writer	std.c	/^    int __writer;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__anon38::__writer_wakeup	std.c	/^    unsigned int __writer_wakeup;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__anon37::__data	std.c	/^  } __data;$/;"	m	union:__anon37	typeref:struct:__anon37::__anon38	file:	access:public
+__anon37::__size	std.c	/^  char __size[56];$/;"	m	union:__anon37	file:	access:public
+__anon39::__align	std.c	/^  long int __align;$/;"	m	union:__anon39	file:	access:public
+__anon39::__size	std.c	/^  char __size[8];$/;"	m	union:__anon39	file:	access:public
+__anon40::__align	std.c	/^  long int __align;$/;"	m	union:__anon40	file:	access:public
+__anon40::__size	std.c	/^  char __size[32];$/;"	m	union:__anon40	file:	access:public
+__anon41::__align	std.c	/^  int __align;$/;"	m	union:__anon41	file:	access:public
+__anon41::__size	std.c	/^  char __size[4];$/;"	m	union:__anon41	file:	access:public
+__anon4::__pos	std.c	/^  __off_t __pos;$/;"	m	struct:__anon4	file:	access:public
+__anon4::__state	std.c	/^  __mbstate_t __state;$/;"	m	struct:__anon4	file:	access:public
+__anon5::__pos	std.c	/^  __off64_t __pos;$/;"	m	struct:__anon5	file:	access:public
+__anon5::__state	std.c	/^  __mbstate_t __state;$/;"	m	struct:__anon5	file:	access:public
+__anon8::__iptr	std.c	/^    int *__iptr;$/;"	m	union:__anon8	file:	access:public
+__anon8::__uptr	std.c	/^    union wait *__uptr;$/;"	m	union:__anon8	typeref:union:__anon8::wait	file:	access:public
+__anon9::quot	std.c	/^    int quot;$/;"	m	struct:__anon9	file:	access:public
+__anon9::rem	std.c	/^    int rem;$/;"	m	struct:__anon9	file:	access:public
+__blkcnt64_t	std.c	/^typedef long int __blkcnt64_t;$/;"	t	file:
+__blkcnt_t	std.c	/^typedef long int __blkcnt_t;$/;"	t	file:
+__blksize_t	std.c	/^typedef long int __blksize_t;$/;"	t	file:
+__broadcast_seq	std.c	/^    unsigned int __broadcast_seq;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__broadcast_seq	std.c	/^    unsigned int __broadcast_seq;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__bzero	std.c	/^extern void __bzero (void *__s, size_t __n) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(void *__s, size_t __n)
+__c	std.c	/^    unsigned short int __c;$/;"	m	struct:drand48_data	file:	access:public
+__caddr_t	std.c	/^typedef char *__caddr_t;$/;"	t	file:
+__clock_t	std.c	/^typedef long int __clock_t;$/;"	t	file:
+__clockid_t	std.c	/^typedef int __clockid_t;$/;"	t	file:
+__codecvt_error	std.c	/^  __codecvt_error,$/;"	e	enum:__codecvt_result	file:
+__codecvt_noconv	std.c	/^  __codecvt_noconv$/;"	e	enum:__codecvt_result	file:
+__codecvt_ok	std.c	/^  __codecvt_ok,$/;"	e	enum:__codecvt_result	file:
+__codecvt_partial	std.c	/^  __codecvt_partial,$/;"	e	enum:__codecvt_result	file:
+__codecvt_result	std.c	/^enum __codecvt_result$/;"	g	file:
+__compar_fn_t	std.c	/^typedef int (*__compar_fn_t) (__const void *, __const void *);$/;"	t	file:
+__count	std.c	/^    unsigned int __count;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__count	std.c	/^    unsigned int __count;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__count	std.c	/^  int __count;$/;"	m	struct:__anon2	file:	access:public
+__ctype_b	std.c	/^  const unsigned short int *__ctype_b;$/;"	m	struct:__locale_struct	file:	access:public
+__ctype_get_mb_cur_max	std.c	/^extern size_t __ctype_get_mb_cur_max (void) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(void)
+__ctype_tolower	std.c	/^  const int *__ctype_tolower;$/;"	m	struct:__locale_struct	file:	access:public
+__ctype_toupper	std.c	/^  const int *__ctype_toupper;$/;"	m	struct:__locale_struct	file:	access:public
+__daddr_t	std.c	/^typedef int __daddr_t;$/;"	t	file:
+__data	std.c	/^  } __data;$/;"	m	union:__anon15	typeref:struct:__anon15::__pthread_mutex_s	file:	access:public
+__data	std.c	/^  } __data;$/;"	m	union:__anon17	typeref:struct:__anon17::__anon18	file:	access:public
+__data	std.c	/^  } __data;$/;"	m	union:__anon20	typeref:struct:__anon20::__anon21	file:	access:public
+__data	std.c	/^  } __data;$/;"	m	union:__anon32	typeref:struct:__anon32::__pthread_mutex_s	file:	access:public
+__data	std.c	/^  } __data;$/;"	m	union:__anon34	typeref:struct:__anon34::__anon35	file:	access:public
+__data	std.c	/^  } __data;$/;"	m	union:__anon37	typeref:struct:__anon37::__anon38	file:	access:public
+__dev_t	std.c	/^typedef unsigned long int __dev_t;$/;"	t	file:
+__fd_mask	std.c	/^typedef long int __fd_mask;$/;"	t	file:
+__fds_bits	std.c	/^    __fd_mask __fds_bits[1024 \/ (8 * (int) sizeof (__fd_mask))];$/;"	m	struct:__anon13	file:	access:public
+__fds_bits	std.c	/^    __fd_mask __fds_bits[1024 \/ (8 * (int) sizeof (__fd_mask))];$/;"	m	struct:__anon30	file:	access:public
+__flags	std.c	/^    unsigned int __flags;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__flags	std.c	/^    unsigned int __flags;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__fsblkcnt64_t	std.c	/^typedef unsigned long int __fsblkcnt64_t;$/;"	t	file:
+__fsblkcnt_t	std.c	/^typedef unsigned long int __fsblkcnt_t;$/;"	t	file:
+__fsfilcnt64_t	std.c	/^typedef unsigned long int __fsfilcnt64_t;$/;"	t	file:
+__fsfilcnt_t	std.c	/^typedef unsigned long int __fsfilcnt_t;$/;"	t	file:
+__fsid_t	std.c	/^typedef struct { int __val[2]; } __fsid_t;$/;"	t	typeref:struct:__anon1	file:
+__fsid_t	std.c	/^typedef struct { int __val[2]; } __fsid_t;$/;"	t	typeref:struct:__anon25	file:
+__futex	std.c	/^    unsigned int __futex;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__futex	std.c	/^    unsigned int __futex;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__getdelim	std.c	/^extern __ssize_t __getdelim (char **__restrict __lineptr,$/;"	p	file:	signature:(char **__restrict __lineptr, size_t *__restrict __n, int __delimiter, FILE *__restrict __stream)
+__getpgid	std.c	/^extern __pid_t __getpgid (__pid_t __pid) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__pid_t __pid)
+__gid_t	std.c	/^typedef unsigned int __gid_t;$/;"	t	file:
+__gnuc_va_list	std.c	/^typedef __builtin_va_list __gnuc_va_list;$/;"	t	file:
+__id_t	std.c	/^typedef unsigned int __id_t;$/;"	t	file:
+__init	std.c	/^    unsigned short int __init;$/;"	m	struct:drand48_data	file:	access:public
+__ino64_t	std.c	/^typedef unsigned long int __ino64_t;$/;"	t	file:
+__ino_t	std.c	/^typedef unsigned long int __ino_t;$/;"	t	file:
+__int16_t	std.c	/^typedef signed short int __int16_t;$/;"	t	file:
+__int32_t	std.c	/^typedef signed int __int32_t;$/;"	t	file:
+__int64_t	std.c	/^typedef signed long int __int64_t;$/;"	t	file:
+__int8_t	std.c	/^typedef signed char __int8_t;$/;"	t	file:
+__intptr_t	std.c	/^typedef long int __intptr_t;$/;"	t	file:
+__io_close_fn	std.c	/^typedef int __io_close_fn (void *__cookie);$/;"	t	file:
+__io_read_fn	std.c	/^typedef __ssize_t __io_read_fn (void *__cookie, char *__buf, size_t __nbytes);$/;"	t	file:
+__io_seek_fn	std.c	/^typedef int __io_seek_fn (void *__cookie, __off64_t *__pos, int __w);$/;"	t	file:
+__io_write_fn	std.c	/^typedef __ssize_t __io_write_fn (void *__cookie, __const char *__buf,$/;"	t	file:
+__iptr	std.c	/^    int *__iptr;$/;"	m	union:__anon8	file:	access:public
+__key_t	std.c	/^typedef int __key_t;$/;"	t	file:
+__kind	std.c	/^    int __kind;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__kind	std.c	/^    int __kind;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__list	std.c	/^    __pthread_list_t __list;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__list	std.c	/^    __pthread_list_t __list;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__locale_struct	std.c	/^typedef struct __locale_struct$/;"	s	file:
+__locale_struct::__ctype_b	std.c	/^  const unsigned short int *__ctype_b;$/;"	m	struct:__locale_struct	file:	access:public
+__locale_struct::__ctype_tolower	std.c	/^  const int *__ctype_tolower;$/;"	m	struct:__locale_struct	file:	access:public
+__locale_struct::__ctype_toupper	std.c	/^  const int *__ctype_toupper;$/;"	m	struct:__locale_struct	file:	access:public
+__locale_struct::__locales	std.c	/^  struct __locale_data *__locales[13];$/;"	m	struct:__locale_struct	typeref:struct:__locale_struct::__locale_data	file:	access:public
+__locale_struct::__names	std.c	/^  const char *__names[13];$/;"	m	struct:__locale_struct	file:	access:public
+__locale_t	std.c	/^} *__locale_t;$/;"	t	typeref:struct:__locale_struct	file:
+__locales	std.c	/^  struct __locale_data *__locales[13];$/;"	m	struct:__locale_struct	typeref:struct:__locale_struct::__locale_data	file:	access:public
+__lock	std.c	/^    int __lock;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__lock	std.c	/^    int __lock;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__lock	std.c	/^    int __lock;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__lock	std.c	/^    int __lock;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__lock	std.c	/^    int __lock;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__lock	std.c	/^    int __lock;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__loff_t	std.c	/^typedef __off64_t __loff_t;$/;"	t	file:
+__mbstate_t	std.c	/^} __mbstate_t;$/;"	t	typeref:struct:__anon2	file:
+__mode_t	std.c	/^typedef unsigned int __mode_t;$/;"	t	file:
+__mutex	std.c	/^    void *__mutex;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__mutex	std.c	/^    void *__mutex;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__names	std.c	/^  const char *__names[13];$/;"	m	struct:__locale_struct	file:	access:public
+__next	std.c	/^  struct __pthread_internal_list *__next;$/;"	m	struct:__pthread_internal_list	typeref:struct:__pthread_internal_list::__pthread_internal_list	file:	access:public
+__nlink_t	std.c	/^typedef unsigned long int __nlink_t;$/;"	t	file:
+__nr_readers	std.c	/^    unsigned int __nr_readers;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__nr_readers	std.c	/^    unsigned int __nr_readers;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__nr_readers_queued	std.c	/^    unsigned int __nr_readers_queued;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__nr_readers_queued	std.c	/^    unsigned int __nr_readers_queued;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__nr_writers_queued	std.c	/^    unsigned int __nr_writers_queued;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__nr_writers_queued	std.c	/^    unsigned int __nr_writers_queued;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__nusers	std.c	/^    unsigned int __nusers;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__nusers	std.c	/^    unsigned int __nusers;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__nwaiters	std.c	/^    unsigned int __nwaiters;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__nwaiters	std.c	/^    unsigned int __nwaiters;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__off64_t	std.c	/^typedef long int __off64_t;$/;"	t	file:
+__off_t	std.c	/^typedef long int __off_t;$/;"	t	file:
+__old_x	std.c	/^    unsigned short int __old_x[3];$/;"	m	struct:drand48_data	file:	access:public
+__overflow	std.c	/^extern int __overflow (_IO_FILE *, int);$/;"	p	file:	signature:(_IO_FILE *, int)
+__owner	std.c	/^    int __owner;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__owner	std.c	/^    int __owner;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__pad0	std.c	/^    int __pad0;$/;"	m	struct:stat	file:	access:public
+__pad1	std.c	/^    unsigned long int __pad1;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__pad1	std.c	/^    unsigned long int __pad1;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__pad1	std.c	/^  void *__pad1;$/;"	m	struct:_IO_FILE	file:	access:public
+__pad2	std.c	/^    unsigned long int __pad2;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__pad2	std.c	/^    unsigned long int __pad2;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__pad2	std.c	/^  void *__pad2;$/;"	m	struct:_IO_FILE	file:	access:public
+__pad3	std.c	/^  void *__pad3;$/;"	m	struct:_IO_FILE	file:	access:public
+__pad4	std.c	/^  void *__pad4;$/;"	m	struct:_IO_FILE	file:	access:public
+__pad5	std.c	/^  size_t __pad5;$/;"	m	struct:_IO_FILE	file:	access:public
+__pid_t	std.c	/^typedef int __pid_t;$/;"	t	file:
+__pos	std.c	/^  __off64_t __pos;$/;"	m	struct:__anon5	file:	access:public
+__pos	std.c	/^  __off_t __pos;$/;"	m	struct:__anon4	file:	access:public
+__prev	std.c	/^  struct __pthread_internal_list *__prev;$/;"	m	struct:__pthread_internal_list	typeref:struct:__pthread_internal_list::__pthread_internal_list	file:	access:public
+__pthread_internal_list	std.c	/^typedef struct __pthread_internal_list$/;"	s	file:
+__pthread_internal_list::__next	std.c	/^  struct __pthread_internal_list *__next;$/;"	m	struct:__pthread_internal_list	typeref:struct:__pthread_internal_list::__pthread_internal_list	file:	access:public
+__pthread_internal_list::__prev	std.c	/^  struct __pthread_internal_list *__prev;$/;"	m	struct:__pthread_internal_list	typeref:struct:__pthread_internal_list::__pthread_internal_list	file:	access:public
+__pthread_list_t	std.c	/^} __pthread_list_t;$/;"	t	typeref:struct:__pthread_internal_list	file:
+__pthread_mutex_s	std.c	/^  struct __pthread_mutex_s$/;"	s	union:__anon15	file:	access:public
+__pthread_mutex_s	std.c	/^  struct __pthread_mutex_s$/;"	s	union:__anon32	file:	access:public
+__qaddr_t	std.c	/^typedef __quad_t *__qaddr_t;$/;"	t	file:
+__quad_t	std.c	/^typedef long int __quad_t;$/;"	t	file:
+__readers_wakeup	std.c	/^    unsigned int __readers_wakeup;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__readers_wakeup	std.c	/^    unsigned int __readers_wakeup;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__rlim64_t	std.c	/^typedef unsigned long int __rlim64_t;$/;"	t	file:
+__rlim_t	std.c	/^typedef unsigned long int __rlim_t;$/;"	t	file:
+__secure_getenv	std.c	/^extern char *__secure_getenv (__const char *__name)$/;"	p	file:	signature:(__const char *__name)
+__shared	std.c	/^    int __shared;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__shared	std.c	/^    int __shared;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__sig_atomic_t	std.c	/^typedef int __sig_atomic_t;$/;"	t	file:
+__sigset_t	std.c	/^  } __sigset_t;$/;"	t	typeref:struct:__anon12	file:
+__sigset_t	std.c	/^  } __sigset_t;$/;"	t	typeref:struct:__anon29	file:
+__size	std.c	/^  char __size[32];$/;"	m	union:__anon23	file:	access:public
+__size	std.c	/^  char __size[32];$/;"	m	union:__anon40	file:	access:public
+__size	std.c	/^  char __size[40];$/;"	m	union:__anon15	file:	access:public
+__size	std.c	/^  char __size[40];$/;"	m	union:__anon32	file:	access:public
+__size	std.c	/^  char __size[48];$/;"	m	union:__anon17	file:	access:public
+__size	std.c	/^  char __size[48];$/;"	m	union:__anon34	file:	access:public
+__size	std.c	/^  char __size[4];$/;"	m	union:__anon16	file:	access:public
+__size	std.c	/^  char __size[4];$/;"	m	union:__anon19	file:	access:public
+__size	std.c	/^  char __size[4];$/;"	m	union:__anon24	file:	access:public
+__size	std.c	/^  char __size[4];$/;"	m	union:__anon33	file:	access:public
+__size	std.c	/^  char __size[4];$/;"	m	union:__anon36	file:	access:public
+__size	std.c	/^  char __size[4];$/;"	m	union:__anon41	file:	access:public
+__size	std.c	/^  char __size[56];$/;"	m	union:__anon14	file:	access:public
+__size	std.c	/^  char __size[56];$/;"	m	union:__anon20	file:	access:public
+__size	std.c	/^  char __size[56];$/;"	m	union:__anon31	file:	access:public
+__size	std.c	/^  char __size[56];$/;"	m	union:__anon37	file:	access:public
+__size	std.c	/^  char __size[8];$/;"	m	union:__anon22	file:	access:public
+__size	std.c	/^  char __size[8];$/;"	m	union:__anon39	file:	access:public
+__socklen_t	std.c	/^typedef unsigned int __socklen_t;$/;"	t	file:
+__spins	std.c	/^    int __spins;$/;"	m	struct:__anon15::__pthread_mutex_s	file:	access:public
+__spins	std.c	/^    int __spins;$/;"	m	struct:__anon32::__pthread_mutex_s	file:	access:public
+__ssize_t	std.c	/^typedef long int __ssize_t;$/;"	t	file:
+__state	std.c	/^  __mbstate_t __state;$/;"	m	struct:__anon4	file:	access:public
+__state	std.c	/^  __mbstate_t __state;$/;"	m	struct:__anon5	file:	access:public
+__stpcpy	std.c	/^extern char *__stpcpy (char *__restrict __dest, __const char *__restrict __src)$/;"	p	file:	signature:(char *__restrict __dest, __const char *__restrict __src)
+__stpncpy	std.c	/^extern char *__stpncpy (char *__restrict __dest,$/;"	p	file:	signature:(char *__restrict __dest, __const char *__restrict __src, size_t __n)
+__strtok_r	std.c	/^extern char *__strtok_r (char *__restrict __s,$/;"	p	file:	signature:(char *__restrict __s, __const char *__restrict __delim, char **__restrict __save_ptr)
+__suseconds_t	std.c	/^typedef long int __suseconds_t;$/;"	t	file:
+__swblk_t	std.c	/^typedef long int __swblk_t;$/;"	t	file:
+__time_t	std.c	/^typedef long int __time_t;$/;"	t	file:
+__timer_t	std.c	/^typedef void * __timer_t;$/;"	t	file:
+__total_seq	std.c	/^    __extension__ unsigned long long int __total_seq;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__total_seq	std.c	/^    __extension__ unsigned long long int __total_seq;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__u_char	std.c	/^typedef unsigned char __u_char;$/;"	t	file:
+__u_int	std.c	/^typedef unsigned int __u_int;$/;"	t	file:
+__u_long	std.c	/^typedef unsigned long int __u_long;$/;"	t	file:
+__u_quad_t	std.c	/^typedef unsigned long int __u_quad_t;$/;"	t	file:
+__u_short	std.c	/^typedef unsigned short int __u_short;$/;"	t	file:
+__uflow	std.c	/^extern int __uflow (_IO_FILE *);$/;"	p	file:	signature:(_IO_FILE *)
+__uid_t	std.c	/^typedef unsigned int __uid_t;$/;"	t	file:
+__uint16_t	std.c	/^typedef unsigned short int __uint16_t;$/;"	t	file:
+__uint32_t	std.c	/^typedef unsigned int __uint32_t;$/;"	t	file:
+__uint64_t	std.c	/^typedef unsigned long int __uint64_t;$/;"	t	file:
+__uint8_t	std.c	/^typedef unsigned char __uint8_t;$/;"	t	file:
+__underflow	std.c	/^extern int __underflow (_IO_FILE *);$/;"	p	file:	signature:(_IO_FILE *)
+__unused	std.c	/^    long int __unused[3];$/;"	m	struct:stat	file:	access:public
+__uptr	std.c	/^    union wait *__uptr;$/;"	m	union:__anon8	typeref:union:__anon8::wait	file:	access:public
+__useconds_t	std.c	/^typedef unsigned int __useconds_t;$/;"	t	file:
+__val	std.c	/^    unsigned long int __val[(1024 \/ (8 * sizeof (unsigned long int)))];$/;"	m	struct:__anon12	file:	access:public
+__val	std.c	/^    unsigned long int __val[(1024 \/ (8 * sizeof (unsigned long int)))];$/;"	m	struct:__anon29	file:	access:public
+__val	std.c	/^typedef struct { int __val[2]; } __fsid_t;$/;"	m	struct:__anon1	file:	access:public
+__val	std.c	/^typedef struct { int __val[2]; } __fsid_t;$/;"	m	struct:__anon25	file:	access:public
+__value	std.c	/^  } __value;$/;"	m	struct:__anon2	typeref:union:__anon2::__anon3	file:	access:public
+__w_coredump	std.c	/^ unsigned int __w_coredump:1;$/;"	m	struct:wait::__anon6	file:	access:public
+__w_retcode	std.c	/^ unsigned int __w_retcode:8;$/;"	m	struct:wait::__anon6	file:	access:public
+__w_stopsig	std.c	/^ unsigned int __w_stopsig:8;$/;"	m	struct:wait::__anon7	file:	access:public
+__w_stopval	std.c	/^ unsigned int __w_stopval:8;$/;"	m	struct:wait::__anon7	file:	access:public
+__w_termsig	std.c	/^ unsigned int __w_termsig:7;$/;"	m	struct:wait::__anon6	file:	access:public
+__wait_stopped	std.c	/^      } __wait_stopped;$/;"	m	union:wait	typeref:struct:wait::__anon7	file:	access:public
+__wait_terminated	std.c	/^      } __wait_terminated;$/;"	m	union:wait	typeref:struct:wait::__anon6	file:	access:public
+__wakeup_seq	std.c	/^    __extension__ unsigned long long int __wakeup_seq;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__wakeup_seq	std.c	/^    __extension__ unsigned long long int __wakeup_seq;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__wch	std.c	/^    unsigned int __wch;$/;"	m	union:__anon2::__anon3	file:	access:public
+__wchb	std.c	/^    char __wchb[4];$/;"	m	union:__anon2::__anon3	file:	access:public
+__woken_seq	std.c	/^    __extension__ unsigned long long int __woken_seq;$/;"	m	struct:__anon17::__anon18	file:	access:public
+__woken_seq	std.c	/^    __extension__ unsigned long long int __woken_seq;$/;"	m	struct:__anon34::__anon35	file:	access:public
+__writer	std.c	/^    int __writer;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__writer	std.c	/^    int __writer;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__writer_wakeup	std.c	/^    unsigned int __writer_wakeup;$/;"	m	struct:__anon20::__anon21	file:	access:public
+__writer_wakeup	std.c	/^    unsigned int __writer_wakeup;$/;"	m	struct:__anon37::__anon38	file:	access:public
+__x	std.c	/^    unsigned short int __x[3];$/;"	m	struct:drand48_data	file:	access:public
+_chain	std.c	/^  struct _IO_FILE *_chain;$/;"	m	struct:_IO_FILE	typeref:struct:_IO_FILE::_IO_FILE	file:	access:public
+_cur_column	std.c	/^  unsigned short _cur_column;$/;"	m	struct:_IO_FILE	file:	access:public
+_exit	std.c	/^extern void _exit (int __status) __attribute__ ((__noreturn__));$/;"	p	file:	signature:(int __status)
+_fileno	std.c	/^  int _fileno;$/;"	m	struct:_IO_FILE	file:	access:public
+_flags	std.c	/^  int _flags;$/;"	m	struct:_IO_FILE	file:	access:public
+_flags2	std.c	/^  int _flags2;$/;"	m	struct:_IO_FILE	file:	access:public
+_lock	std.c	/^  _IO_lock_t *_lock;$/;"	m	struct:_IO_FILE	file:	access:public
+_markers	std.c	/^  struct _IO_marker *_markers;$/;"	m	struct:_IO_FILE	typeref:struct:_IO_FILE::_IO_marker	file:	access:public
+_mode	std.c	/^  int _mode;$/;"	m	struct:_IO_FILE	file:	access:public
+_next	std.c	/^  struct _IO_marker *_next;$/;"	m	struct:_IO_marker	typeref:struct:_IO_marker::_IO_marker	file:	access:public
+_offset	std.c	/^  __off64_t _offset;$/;"	m	struct:_IO_FILE	file:	access:public
+_old_offset	std.c	/^  __off_t _old_offset;$/;"	m	struct:_IO_FILE	file:	access:public
+_pos	std.c	/^  int _pos;$/;"	m	struct:_IO_marker	file:	access:public
+_sbuf	std.c	/^  struct _IO_FILE *_sbuf;$/;"	m	struct:_IO_marker	typeref:struct:_IO_marker::_IO_FILE	file:	access:public
+_shortbuf	std.c	/^  char _shortbuf[1];$/;"	m	struct:_IO_FILE	file:	access:public
+_unused2	std.c	/^  char _unused2[15 * sizeof (int) - 4 * sizeof (void *) - sizeof (size_t)];$/;"	m	struct:_IO_FILE	file:	access:public
+_vtable_offset	std.c	/^  signed char _vtable_offset;$/;"	m	struct:_IO_FILE	file:	access:public
+a64l	std.c	/^extern long int a64l (__const char *__s)$/;"	p	file:	signature:(__const char *__s)
+abort	std.c	/^extern void abort (void) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__noreturn__));$/;"	p	file:	signature:(void)
+abs	std.c	/^extern int abs (int __x) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__)) ;$/;"	p	file:	signature:(int __x)
+access	std.c	/^extern int access (__const char *__name, int __type) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(__const char *__name, int __type)
+acct	std.c	/^extern int acct (__const char *__name) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__const char *__name)
+alarm	std.c	/^extern unsigned int alarm (unsigned int __seconds) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(unsigned int __seconds)
+alloca	std.c	/^extern void *alloca (size_t __size) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(size_t __size)
+atexit	std.c	/^extern int atexit (void (*__func) (void)) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(void (*__func) (void))
+atof	std.c	/^extern double atof (__const char *__nptr)$/;"	p	file:	signature:(__const char *__nptr)
+atoi	std.c	/^extern int atoi (__const char *__nptr)$/;"	p	file:	signature:(__const char *__nptr)
+atol	std.c	/^extern long int atol (__const char *__nptr)$/;"	p	file:	signature:(__const char *__nptr)
+atoll	std.c	/^__extension__ extern long long int atoll (__const char *__nptr)$/;"	p	file:	signature:(__const char *__nptr)
+bcmp	std.c	/^extern int bcmp (__const void *__s1, __const void *__s2, size_t __n)$/;"	p	file:	signature:(__const void *__s1, __const void *__s2, size_t __n)
+bcopy	std.c	/^extern void bcopy (__const void *__src, void *__dest, size_t __n)$/;"	p	file:	signature:(__const void *__src, void *__dest, size_t __n)
+blkcnt_t	std.c	/^typedef __blkcnt_t blkcnt_t;$/;"	t	file:
+blksize_t	std.c	/^typedef __blksize_t blksize_t;$/;"	t	file:
+brk	std.c	/^extern int brk (void *__addr) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(void *__addr)
+bsearch	std.c	/^extern void *bsearch (__const void *__key, __const void *__base,$/;"	p	file:	signature:(__const void *__key, __const void *__base, size_t __nmemb, size_t __size, __compar_fn_t __compar)
+bzero	std.c	/^extern void bzero (void *__s, size_t __n) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(void *__s, size_t __n)
+caddr_t	std.c	/^typedef __caddr_t caddr_t;$/;"	t	file:
+calloc	std.c	/^extern void *calloc (size_t __nmemb, size_t __size)$/;"	p	file:	signature:(size_t __nmemb, size_t __size)
+cfree	std.c	/^extern void cfree (void *__ptr) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void *__ptr)
+chdir	std.c	/^extern int chdir (__const char *__path) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1))) ;$/;"	p	file:	signature:(__const char *__path)
+chown	std.c	/^extern int chown (__const char *__file, __uid_t __owner, __gid_t __group)$/;"	p	file:	signature:(__const char *__file, __uid_t __owner, __gid_t __group)
+chroot	std.c	/^extern int chroot (__const char *__path) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1))) ;$/;"	p	file:	signature:(__const char *__path)
+clearenv	std.c	/^extern int clearenv (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+clearerr	std.c	/^extern void clearerr (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(FILE *__stream)
+clearerr_unlocked	std.c	/^extern void clearerr_unlocked (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(FILE *__stream)
+clock_t	std.c	/^typedef __clock_t clock_t;$/;"	t	file:
+clockid_t	std.c	/^typedef __clockid_t clockid_t;$/;"	t	file:
+close	std.c	/^extern int close (int __fd);$/;"	p	file:	signature:(int __fd)
+confstr	std.c	/^extern size_t confstr (int __name, char *__buf, size_t __len) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __name, char *__buf, size_t __len)
+creat	std.c	/^extern int creat (__const char *__file, __mode_t __mode) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(__const char *__file, __mode_t __mode)
+ctermid	std.c	/^extern char *ctermid (char *__s) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(char *__s)
+daddr_t	std.c	/^typedef __daddr_t daddr_t;$/;"	t	file:
+daemon	std.c	/^extern int daemon (int __nochdir, int __noclose) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(int __nochdir, int __noclose)
+dev_t	std.c	/^typedef __dev_t dev_t;$/;"	t	file:
+div	std.c	/^extern div_t div (int __numer, int __denom)$/;"	p	file:	signature:(int __numer, int __denom)
+div_t	std.c	/^  } div_t;$/;"	t	typeref:struct:__anon9	file:
+dprintf	std.c	/^extern int dprintf (int __fd, __const char *__restrict __fmt, ...)$/;"	p	file:	signature:(int __fd, __const char *__restrict __fmt, ...)
+drand48	std.c	/^extern double drand48 (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+drand48_data	std.c	/^struct drand48_data$/;"	s	file:
+drand48_data::__a	std.c	/^    unsigned long long int __a;$/;"	m	struct:drand48_data	file:	access:public
+drand48_data::__c	std.c	/^    unsigned short int __c;$/;"	m	struct:drand48_data	file:	access:public
+drand48_data::__init	std.c	/^    unsigned short int __init;$/;"	m	struct:drand48_data	file:	access:public
+drand48_data::__old_x	std.c	/^    unsigned short int __old_x[3];$/;"	m	struct:drand48_data	file:	access:public
+drand48_data::__x	std.c	/^    unsigned short int __x[3];$/;"	m	struct:drand48_data	file:	access:public
+drand48_r	std.c	/^extern int drand48_r (struct drand48_data *__restrict __buffer,$/;"	p	file:	signature:(struct drand48_data *__restrict __buffer, double *__restrict __result)
+dup	std.c	/^extern int dup (int __fd) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(int __fd)
+dup2	std.c	/^extern int dup2 (int __fd, int __fd2) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd, int __fd2)
+ecvt	std.c	/^extern char *ecvt (double __value, int __ndigit, int *__restrict __decpt,$/;"	p	file:	signature:(double __value, int __ndigit, int *__restrict __decpt, int *__restrict __sign)
+ecvt_r	std.c	/^extern int ecvt_r (double __value, int __ndigit, int *__restrict __decpt,$/;"	p	file:	signature:(double __value, int __ndigit, int *__restrict __decpt, int *__restrict __sign, char *__restrict __buf, size_t __len)
+end_ptr	std.c	/^    int32_t *end_ptr;$/;"	m	struct:random_data	file:	access:public
+endusershell	std.c	/^extern void endusershell (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+erand48	std.c	/^extern double erand48 (unsigned short int __xsubi[3]) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(unsigned short int __xsubi[3])
+erand48_r	std.c	/^extern int erand48_r (unsigned short int __xsubi[3],$/;"	p	file:	signature:(unsigned short int __xsubi[3], struct drand48_data *__restrict __buffer, double *__restrict __result)
+execl	std.c	/^extern int execl (__const char *__path, __const char *__arg, ...)$/;"	p	file:	signature:(__const char *__path, __const char *__arg, ...)
+execle	std.c	/^extern int execle (__const char *__path, __const char *__arg, ...)$/;"	p	file:	signature:(__const char *__path, __const char *__arg, ...)
+execlp	std.c	/^extern int execlp (__const char *__file, __const char *__arg, ...)$/;"	p	file:	signature:(__const char *__file, __const char *__arg, ...)
+execv	std.c	/^extern int execv (__const char *__path, char *__const __argv[])$/;"	p	file:	signature:(__const char *__path, char *__const __argv[])
+execve	std.c	/^extern int execve (__const char *__path, char *__const __argv[],$/;"	p	file:	signature:(__const char *__path, char *__const __argv[], char *__const __envp[])
+execvp	std.c	/^extern int execvp (__const char *__file, char *__const __argv[])$/;"	p	file:	signature:(__const char *__file, char *__const __argv[])
+exit	std.c	/^extern void exit (int __status) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__noreturn__));$/;"	p	file:	signature:(int __status)
+faccessat	std.c	/^extern int faccessat (int __fd, __const char *__file, int __type, int __flag)$/;"	p	file:	signature:(int __fd, __const char *__file, int __type, int __flag)
+fchdir	std.c	/^extern int fchdir (int __fd) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(int __fd)
+fchown	std.c	/^extern int fchown (int __fd, __uid_t __owner, __gid_t __group) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(int __fd, __uid_t __owner, __gid_t __group)
+fchownat	std.c	/^extern int fchownat (int __fd, __const char *__file, __uid_t __owner,$/;"	p	file:	signature:(int __fd, __const char *__file, __uid_t __owner, __gid_t __group, int __flag)
+fclose	std.c	/^extern int fclose (FILE *__stream);$/;"	p	file:	signature:(FILE *__stream)
+fcntl	std.c	/^extern int fcntl (int __fd, int __cmd, ...);$/;"	p	file:	signature:(int __fd, int __cmd, ...)
+fcvt	std.c	/^extern char *fcvt (double __value, int __ndigit, int *__restrict __decpt,$/;"	p	file:	signature:(double __value, int __ndigit, int *__restrict __decpt, int *__restrict __sign)
+fcvt_r	std.c	/^extern int fcvt_r (double __value, int __ndigit, int *__restrict __decpt,$/;"	p	file:	signature:(double __value, int __ndigit, int *__restrict __decpt, int *__restrict __sign, char *__restrict __buf, size_t __len)
+fd_mask	std.c	/^typedef __fd_mask fd_mask;$/;"	t	file:
+fd_set	std.c	/^  } fd_set;$/;"	t	typeref:struct:__anon13	file:
+fd_set	std.c	/^  } fd_set;$/;"	t	typeref:struct:__anon30	file:
+fdatasync	std.c	/^extern int fdatasync (int __fildes);$/;"	p	file:	signature:(int __fildes)
+fdopen	std.c	/^extern FILE *fdopen (int __fd, __const char *__modes) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(int __fd, __const char *__modes)
+feof	std.c	/^extern int feof (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(FILE *__stream)
+feof_unlocked	std.c	/^extern int feof_unlocked (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(FILE *__stream)
+ferror	std.c	/^extern int ferror (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(FILE *__stream)
+ferror_unlocked	std.c	/^extern int ferror_unlocked (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(FILE *__stream)
+fexecve	std.c	/^extern int fexecve (int __fd, char *__const __argv[], char *__const __envp[])$/;"	p	file:	signature:(int __fd, char *__const __argv[], char *__const __envp[])
+fflush	std.c	/^extern int fflush (FILE *__stream);$/;"	p	file:	signature:(FILE *__stream)
+fflush_unlocked	std.c	/^extern int fflush_unlocked (FILE *__stream);$/;"	p	file:	signature:(FILE *__stream)
+ffs	std.c	/^extern int ffs (int __i) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__));$/;"	p	file:	signature:(int __i)
+fgetc	std.c	/^extern int fgetc (FILE *__stream);$/;"	p	file:	signature:(FILE *__stream)
+fgetc_unlocked	std.c	/^extern int fgetc_unlocked (FILE *__stream);$/;"	p	file:	signature:(FILE *__stream)
+fgetpos	std.c	/^extern int fgetpos (FILE *__restrict __stream, fpos_t *__restrict __pos);$/;"	p	file:	signature:(FILE *__restrict __stream, fpos_t *__restrict __pos)
+fgets	std.c	/^extern char *fgets (char *__restrict __s, int __n, FILE *__restrict __stream)$/;"	p	file:	signature:(char *__restrict __s, int __n, FILE *__restrict __stream)
+fileno	std.c	/^extern int fileno (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(FILE *__stream)
+fileno_unlocked	std.c	/^extern int fileno_unlocked (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(FILE *__stream)
+flock	std.c	/^struct flock$/;"	s	file:
+flock::l_len	std.c	/^    __off_t l_len;$/;"	m	struct:flock	file:	access:public
+flock::l_pid	std.c	/^    __pid_t l_pid;$/;"	m	struct:flock	file:	access:public
+flock::l_start	std.c	/^    __off_t l_start;$/;"	m	struct:flock	file:	access:public
+flock::l_type	std.c	/^    short int l_type;$/;"	m	struct:flock	file:	access:public
+flock::l_whence	std.c	/^    short int l_whence;$/;"	m	struct:flock	file:	access:public
+flockfile	std.c	/^extern void flockfile (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(FILE *__stream)
+fmemopen	std.c	/^extern FILE *fmemopen (void *__s, size_t __len, __const char *__modes)$/;"	p	file:	signature:(void *__s, size_t __len, __const char *__modes)
+fopen	std.c	/^extern FILE *fopen (__const char *__restrict __filename,$/;"	p	file:	signature:(__const char *__restrict __filename, __const char *__restrict __modes)
+fork	std.c	/^extern __pid_t fork (void) __attribute__ ((__nothrow__));$/;"	p	file:	signature:(void)
+fpathconf	std.c	/^extern long int fpathconf (int __fd, int __name) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd, int __name)
+fpos_t	std.c	/^typedef _G_fpos_t fpos_t;$/;"	t	file:
+fprintf	std.c	/^extern int fprintf (FILE *__restrict __stream,$/;"	p	file:	signature:(FILE *__restrict __stream, __const char *__restrict __format, ...)
+fptr	std.c	/^    int32_t *fptr;$/;"	m	struct:random_data	file:	access:public
+fputc	std.c	/^extern int fputc (int __c, FILE *__stream);$/;"	p	file:	signature:(int __c, FILE *__stream)
+fputc_unlocked	std.c	/^extern int fputc_unlocked (int __c, FILE *__stream);$/;"	p	file:	signature:(int __c, FILE *__stream)
+fputs	std.c	/^extern int fputs (__const char *__restrict __s, FILE *__restrict __stream);$/;"	p	file:	signature:(__const char *__restrict __s, FILE *__restrict __stream)
+fread	std.c	/^extern size_t fread (void *__restrict __ptr, size_t __size,$/;"	p	file:	signature:(void *__restrict __ptr, size_t __size, size_t __n, FILE *__restrict __stream)
+fread_unlocked	std.c	/^extern size_t fread_unlocked (void *__restrict __ptr, size_t __size,$/;"	p	file:	signature:(void *__restrict __ptr, size_t __size, size_t __n, FILE *__restrict __stream)
+free	std.c	/^extern void free (void *__ptr) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void *__ptr)
+freopen	std.c	/^extern FILE *freopen (__const char *__restrict __filename,$/;"	p	file:	signature:(__const char *__restrict __filename, __const char *__restrict __modes, FILE *__restrict __stream)
+fsblkcnt_t	std.c	/^typedef __fsblkcnt_t fsblkcnt_t;$/;"	t	file:
+fscanf	std.c	/^extern int fscanf (FILE *__restrict __stream,$/;"	p	file:	signature:(FILE *__restrict __stream, __const char *__restrict __format, ...)
+fseek	std.c	/^extern int fseek (FILE *__stream, long int __off, int __whence);$/;"	p	file:	signature:(FILE *__stream, long int __off, int __whence)
+fseeko	std.c	/^extern int fseeko (FILE *__stream, __off_t __off, int __whence);$/;"	p	file:	signature:(FILE *__stream, __off_t __off, int __whence)
+fsetpos	std.c	/^extern int fsetpos (FILE *__stream, __const fpos_t *__pos);$/;"	p	file:	signature:(FILE *__stream, __const fpos_t *__pos)
+fsfilcnt_t	std.c	/^typedef __fsfilcnt_t fsfilcnt_t;$/;"	t	file:
+fsid_t	std.c	/^typedef __fsid_t fsid_t;$/;"	t	file:
+fsync	std.c	/^extern int fsync (int __fd);$/;"	p	file:	signature:(int __fd)
+ftell	std.c	/^extern long int ftell (FILE *__stream) ;$/;"	p	file:	signature:(FILE *__stream)
+ftello	std.c	/^extern __off_t ftello (FILE *__stream) ;$/;"	p	file:	signature:(FILE *__stream)
+ftruncate	std.c	/^extern int ftruncate (int __fd, __off_t __length) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(int __fd, __off_t __length)
+ftrylockfile	std.c	/^extern int ftrylockfile (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(FILE *__stream)
+funlockfile	std.c	/^extern void funlockfile (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(FILE *__stream)
+fwrite	std.c	/^extern size_t fwrite (__const void *__restrict __ptr, size_t __size,$/;"	p	file:	signature:(__const void *__restrict __ptr, size_t __size, size_t __n, FILE *__restrict __s)
+fwrite_unlocked	std.c	/^extern size_t fwrite_unlocked (__const void *__restrict __ptr, size_t __size,$/;"	p	file:	signature:(__const void *__restrict __ptr, size_t __size, size_t __n, FILE *__restrict __stream)
+gcvt	std.c	/^extern char *gcvt (double __value, int __ndigit, char *__buf)$/;"	p	file:	signature:(double __value, int __ndigit, char *__buf)
+getc	std.c	/^extern int getc (FILE *__stream);$/;"	p	file:	signature:(FILE *__stream)
+getc_unlocked	std.c	/^extern int getc_unlocked (FILE *__stream);$/;"	p	file:	signature:(FILE *__stream)
+getchar	std.c	/^extern int getchar (void);$/;"	p	file:	signature:(void)
+getchar_unlocked	std.c	/^extern int getchar_unlocked (void);$/;"	p	file:	signature:(void)
+getcwd	std.c	/^extern char *getcwd (char *__buf, size_t __size) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(char *__buf, size_t __size)
+getdelim	std.c	/^extern __ssize_t getdelim (char **__restrict __lineptr,$/;"	p	file:	signature:(char **__restrict __lineptr, size_t *__restrict __n, int __delimiter, FILE *__restrict __stream)
+getdomainname	std.c	/^extern int getdomainname (char *__name, size_t __len)$/;"	p	file:	signature:(char *__name, size_t __len)
+getdtablesize	std.c	/^extern int getdtablesize (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+getegid	std.c	/^extern __gid_t getegid (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+getenv	std.c	/^extern char *getenv (__const char *__name) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1))) ;$/;"	p	file:	signature:(__const char *__name)
+geteuid	std.c	/^extern __uid_t geteuid (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+getgid	std.c	/^extern __gid_t getgid (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+getgroups	std.c	/^extern int getgroups (int __size, __gid_t __list[]) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(int __size, __gid_t __list[])
+gethostid	std.c	/^extern long int gethostid (void);$/;"	p	file:	signature:(void)
+gethostname	std.c	/^extern int gethostname (char *__name, size_t __len) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(char *__name, size_t __len)
+getline	std.c	/^extern __ssize_t getline (char **__restrict __lineptr,$/;"	p	file:	signature:(char **__restrict __lineptr, size_t *__restrict __n, FILE *__restrict __stream)
+getloadavg	std.c	/^extern int getloadavg (double __loadavg[], int __nelem)$/;"	p	file:	signature:(double __loadavg[], int __nelem)
+getlogin	std.c	/^extern char *getlogin (void);$/;"	p	file:	signature:(void)
+getlogin_r	std.c	/^extern int getlogin_r (char *__name, size_t __name_len) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(char *__name, size_t __name_len)
+getopt	std.c	/^extern int getopt (int ___argc, char *const *___argv, const char *__shortopts)$/;"	p	file:	signature:(int ___argc, char *const *___argv, const char *__shortopts)
+getpagesize	std.c	/^extern int getpagesize (void) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__));$/;"	p	file:	signature:(void)
+getpass	std.c	/^extern char *getpass (__const char *__prompt) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(__const char *__prompt)
+getpgid	std.c	/^extern __pid_t getpgid (__pid_t __pid) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__pid_t __pid)
+getpgrp	std.c	/^extern __pid_t getpgrp (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+getpid	std.c	/^extern __pid_t getpid (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+getppid	std.c	/^extern __pid_t getppid (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+gets	std.c	/^extern char *gets (char *__s) ;$/;"	p	file:	signature:(char *__s)
+getsid	std.c	/^extern __pid_t getsid (__pid_t __pid) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__pid_t __pid)
+getsubopt	std.c	/^extern int getsubopt (char **__restrict __optionp,$/;"	p	file:	signature:(char **__restrict __optionp, char *__const *__restrict __tokens, char **__restrict __valuep)
+getuid	std.c	/^extern __uid_t getuid (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+getusershell	std.c	/^extern char *getusershell (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+getw	std.c	/^extern int getw (FILE *__stream);$/;"	p	file:	signature:(FILE *__stream)
+getwd	std.c	/^extern char *getwd (char *__buf)$/;"	p	file:	signature:(char *__buf)
+gid_t	std.c	/^typedef __gid_t gid_t;$/;"	t	file:
+gnu_dev_major	std.c	/^extern unsigned int gnu_dev_major (unsigned long long int __dev)$/;"	p	file:	signature:(unsigned long long int __dev)
+gnu_dev_makedev	std.c	/^extern unsigned long long int gnu_dev_makedev (unsigned int __major,$/;"	p	file:	signature:(unsigned int __major, unsigned int __minor)
+gnu_dev_minor	std.c	/^extern unsigned int gnu_dev_minor (unsigned long long int __dev)$/;"	p	file:	signature:(unsigned long long int __dev)
+id_t	std.c	/^typedef __id_t id_t;$/;"	t	file:
+index	std.c	/^extern char *index (__const char *__s, int __c)$/;"	p	file:	signature:(__const char *__s, int __c)
+initstate	std.c	/^extern char *initstate (unsigned int __seed, char *__statebuf,$/;"	p	file:	signature:(unsigned int __seed, char *__statebuf, size_t __statelen)
+initstate_r	std.c	/^extern int initstate_r (unsigned int __seed, char *__restrict __statebuf,$/;"	p	file:	signature:(unsigned int __seed, char *__restrict __statebuf, size_t __statelen, struct random_data *__restrict __buf)
+ino_t	std.c	/^typedef __ino_t ino_t;$/;"	t	file:
+int16_t	std.c	/^typedef int int16_t __attribute__ ((__mode__ (__HI__)));$/;"	t	file:
+int32_t	std.c	/^typedef int int32_t __attribute__ ((__mode__ (__SI__)));$/;"	t	file:
+int64_t	std.c	/^typedef int int64_t __attribute__ ((__mode__ (__DI__)));$/;"	t	file:
+int8_t	std.c	/^typedef int int8_t __attribute__ ((__mode__ (__QI__)));$/;"	t	file:
+intptr_t	std.c	/^typedef __intptr_t intptr_t;$/;"	t	file:
+isatty	std.c	/^extern int isatty (int __fd) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd)
+jrand48	std.c	/^extern long int jrand48 (unsigned short int __xsubi[3])$/;"	p	file:	signature:(unsigned short int __xsubi[3])
+jrand48_r	std.c	/^extern int jrand48_r (unsigned short int __xsubi[3],$/;"	p	file:	signature:(unsigned short int __xsubi[3], struct drand48_data *__restrict __buffer, long int *__restrict __result)
+key_t	std.c	/^typedef __key_t key_t;$/;"	t	file:
+l64a	std.c	/^extern char *l64a (long int __n) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(long int __n)
+l_len	std.c	/^    __off_t l_len;$/;"	m	struct:flock	file:	access:public
+l_pid	std.c	/^    __pid_t l_pid;$/;"	m	struct:flock	file:	access:public
+l_start	std.c	/^    __off_t l_start;$/;"	m	struct:flock	file:	access:public
+l_type	std.c	/^    short int l_type;$/;"	m	struct:flock	file:	access:public
+l_whence	std.c	/^    short int l_whence;$/;"	m	struct:flock	file:	access:public
+labs	std.c	/^extern long int labs (long int __x) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__)) ;$/;"	p	file:	signature:(long int __x)
+lchown	std.c	/^extern int lchown (__const char *__file, __uid_t __owner, __gid_t __group)$/;"	p	file:	signature:(__const char *__file, __uid_t __owner, __gid_t __group)
+lcong48	std.c	/^extern void lcong48 (unsigned short int __param[7]) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(unsigned short int __param[7])
+lcong48_r	std.c	/^extern int lcong48_r (unsigned short int __param[7],$/;"	p	file:	signature:(unsigned short int __param[7], struct drand48_data *__buffer)
+ldiv	std.c	/^extern ldiv_t ldiv (long int __numer, long int __denom)$/;"	p	file:	signature:(long int __numer, long int __denom)
+ldiv_t	std.c	/^  } ldiv_t;$/;"	t	typeref:struct:__anon10	file:
+link	std.c	/^extern int link (__const char *__from, __const char *__to)$/;"	p	file:	signature:(__const char *__from, __const char *__to)
+linkat	std.c	/^extern int linkat (int __fromfd, __const char *__from, int __tofd,$/;"	p	file:	signature:(int __fromfd, __const char *__from, int __tofd, __const char *__to, int __flags)
+llabs	std.c	/^__extension__ extern long long int llabs (long long int __x)$/;"	p	file:	signature:(long long int __x)
+lldiv	std.c	/^__extension__ extern lldiv_t lldiv (long long int __numer,$/;"	p	file:	signature:(long long int __numer, long long int __denom)
+lldiv_t	std.c	/^  } lldiv_t;$/;"	t	typeref:struct:__anon11	file:
+locale_t	std.c	/^typedef __locale_t locale_t;$/;"	t	file:
+lockf	std.c	/^extern int lockf (int __fd, int __cmd, __off_t __len) ;$/;"	p	file:	signature:(int __fd, int __cmd, __off_t __len)
+loff_t	std.c	/^typedef __loff_t loff_t;$/;"	t	file:
+lrand48	std.c	/^extern long int lrand48 (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+lrand48_r	std.c	/^extern int lrand48_r (struct drand48_data *__restrict __buffer,$/;"	p	file:	signature:(struct drand48_data *__restrict __buffer, long int *__restrict __result)
+lseek	std.c	/^extern __off_t lseek (int __fd, __off_t __offset, int __whence) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd, __off_t __offset, int __whence)
+malloc	std.c	/^extern void *malloc (size_t __size) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__malloc__)) ;$/;"	p	file:	signature:(size_t __size)
+mblen	std.c	/^extern int mblen (__const char *__s, size_t __n) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(__const char *__s, size_t __n)
+mbstowcs	std.c	/^extern size_t mbstowcs (wchar_t *__restrict __pwcs,$/;"	p	file:	signature:(wchar_t *__restrict __pwcs, __const char *__restrict __s, size_t __n)
+mbtowc	std.c	/^extern int mbtowc (wchar_t *__restrict __pwc,$/;"	p	file:	signature:(wchar_t *__restrict __pwc, __const char *__restrict __s, size_t __n)
+memccpy	std.c	/^extern void *memccpy (void *__restrict __dest, __const void *__restrict __src,$/;"	p	file:	signature:(void *__restrict __dest, __const void *__restrict __src, int __c, size_t __n)
+memchr	std.c	/^extern void *memchr (__const void *__s, int __c, size_t __n)$/;"	p	file:	signature:(__const void *__s, int __c, size_t __n)
+memcmp	std.c	/^extern int memcmp (__const void *__s1, __const void *__s2, size_t __n)$/;"	p	file:	signature:(__const void *__s1, __const void *__s2, size_t __n)
+memcpy	std.c	/^extern void *memcpy (void *__restrict __dest,$/;"	p	file:	signature:(void *__restrict __dest, __const void *__restrict __src, size_t __n)
+memmove	std.c	/^extern void *memmove (void *__dest, __const void *__src, size_t __n)$/;"	p	file:	signature:(void *__dest, __const void *__src, size_t __n)
+memset	std.c	/^extern void *memset (void *__s, int __c, size_t __n) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(void *__s, int __c, size_t __n)
+mkdtemp	std.c	/^extern char *mkdtemp (char *__template) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1))) ;$/;"	p	file:	signature:(char *__template)
+mkstemp	std.c	/^extern int mkstemp (char *__template) __attribute__ ((__nonnull__ (1))) ;$/;"	p	file:	signature:(char *__template)
+mkstemps	std.c	/^extern int mkstemps (char *__template, int __suffixlen) __attribute__ ((__nonnull__ (1))) ;$/;"	p	file:	signature:(char *__template, int __suffixlen)
+mktemp	std.c	/^extern char *mktemp (char *__template) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1))) ;$/;"	p	file:	signature:(char *__template)
+mode_t	std.c	/^typedef __mode_t mode_t;$/;"	t	file:
+mrand48	std.c	/^extern long int mrand48 (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+mrand48_r	std.c	/^extern int mrand48_r (struct drand48_data *__restrict __buffer,$/;"	p	file:	signature:(struct drand48_data *__restrict __buffer, long int *__restrict __result)
+nice	std.c	/^extern int nice (int __inc) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(int __inc)
+nlink_t	std.c	/^typedef __nlink_t nlink_t;$/;"	t	file:
+nrand48	std.c	/^extern long int nrand48 (unsigned short int __xsubi[3])$/;"	p	file:	signature:(unsigned short int __xsubi[3])
+nrand48_r	std.c	/^extern int nrand48_r (unsigned short int __xsubi[3],$/;"	p	file:	signature:(unsigned short int __xsubi[3], struct drand48_data *__restrict __buffer, long int *__restrict __result)
+off_t	std.c	/^typedef __off_t off_t;$/;"	t	file:
+on_exit	std.c	/^extern int on_exit (void (*__func) (int __status, void *__arg), void *__arg)$/;"	p	file:	signature:(void (*__func) (int __status, void *__arg), void *__arg)
+open	std.c	/^extern int open (__const char *__file, int __oflag, ...) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(__const char *__file, int __oflag, ...)
+open_memstream	std.c	/^extern FILE *open_memstream (char **__bufloc, size_t *__sizeloc) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(char **__bufloc, size_t *__sizeloc)
+openat	std.c	/^extern int openat (int __fd, __const char *__file, int __oflag, ...)$/;"	p	file:	signature:(int __fd, __const char *__file, int __oflag, ...)
+pathconf	std.c	/^extern long int pathconf (__const char *__path, int __name)$/;"	p	file:	signature:(__const char *__path, int __name)
+pause	std.c	/^extern int pause (void);$/;"	p	file:	signature:(void)
+pclose	std.c	/^extern int pclose (FILE *__stream);$/;"	p	file:	signature:(FILE *__stream)
+perror	std.c	/^extern void perror (__const char *__s);$/;"	p	file:	signature:(__const char *__s)
+pid_t	std.c	/^typedef __pid_t pid_t;$/;"	t	file:
+pipe	std.c	/^extern int pipe (int __pipedes[2]) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(int __pipedes[2])
+popen	std.c	/^extern FILE *popen (__const char *__command, __const char *__modes) ;$/;"	p	file:	signature:(__const char *__command, __const char *__modes)
+posix_fadvise	std.c	/^extern int posix_fadvise (int __fd, __off_t __offset, __off_t __len,$/;"	p	file:	signature:(int __fd, __off_t __offset, __off_t __len, int __advise)
+posix_fallocate	std.c	/^extern int posix_fallocate (int __fd, __off_t __offset, __off_t __len);$/;"	p	file:	signature:(int __fd, __off_t __offset, __off_t __len)
+posix_memalign	std.c	/^extern int posix_memalign (void **__memptr, size_t __alignment, size_t __size)$/;"	p	file:	signature:(void **__memptr, size_t __alignment, size_t __size)
+pread	std.c	/^extern ssize_t pread (int __fd, void *__buf, size_t __nbytes,$/;"	p	file:	signature:(int __fd, void *__buf, size_t __nbytes, __off_t __offset)
+printf	std.c	/^extern int printf (__const char *__restrict __format, ...);$/;"	p	file:	signature:(__const char *__restrict __format, ...)
+profil	std.c	/^extern int profil (unsigned short int *__sample_buffer, size_t __size,$/;"	p	file:	signature:(unsigned short int *__sample_buffer, size_t __size, size_t __offset, unsigned int __scale)
+pselect	std.c	/^extern int pselect (int __nfds, fd_set *__restrict __readfds,$/;"	p	file:	signature:(int __nfds, fd_set *__restrict __readfds, fd_set *__restrict __writefds, fd_set *__restrict __exceptfds, const struct timespec *__restrict __timeout, const __sigset_t *__restrict __sigmask)
+pthread_attr_t	std.c	/^} pthread_attr_t;$/;"	t	typeref:union:__anon14	file:
+pthread_attr_t	std.c	/^} pthread_attr_t;$/;"	t	typeref:union:__anon31	file:
+pthread_barrier_t	std.c	/^} pthread_barrier_t;$/;"	t	typeref:union:__anon23	file:
+pthread_barrier_t	std.c	/^} pthread_barrier_t;$/;"	t	typeref:union:__anon40	file:
+pthread_barrierattr_t	std.c	/^} pthread_barrierattr_t;$/;"	t	typeref:union:__anon24	file:
+pthread_barrierattr_t	std.c	/^} pthread_barrierattr_t;$/;"	t	typeref:union:__anon41	file:
+pthread_cond_t	std.c	/^} pthread_cond_t;$/;"	t	typeref:union:__anon17	file:
+pthread_cond_t	std.c	/^} pthread_cond_t;$/;"	t	typeref:union:__anon34	file:
+pthread_condattr_t	std.c	/^} pthread_condattr_t;$/;"	t	typeref:union:__anon19	file:
+pthread_condattr_t	std.c	/^} pthread_condattr_t;$/;"	t	typeref:union:__anon36	file:
+pthread_key_t	std.c	/^typedef unsigned int pthread_key_t;$/;"	t	file:
+pthread_mutex_t	std.c	/^} pthread_mutex_t;$/;"	t	typeref:union:__anon15	file:
+pthread_mutex_t	std.c	/^} pthread_mutex_t;$/;"	t	typeref:union:__anon32	file:
+pthread_mutexattr_t	std.c	/^} pthread_mutexattr_t;$/;"	t	typeref:union:__anon16	file:
+pthread_mutexattr_t	std.c	/^} pthread_mutexattr_t;$/;"	t	typeref:union:__anon33	file:
+pthread_once_t	std.c	/^typedef int pthread_once_t;$/;"	t	file:
+pthread_rwlock_t	std.c	/^} pthread_rwlock_t;$/;"	t	typeref:union:__anon20	file:
+pthread_rwlock_t	std.c	/^} pthread_rwlock_t;$/;"	t	typeref:union:__anon37	file:
+pthread_rwlockattr_t	std.c	/^} pthread_rwlockattr_t;$/;"	t	typeref:union:__anon22	file:
+pthread_rwlockattr_t	std.c	/^} pthread_rwlockattr_t;$/;"	t	typeref:union:__anon39	file:
+pthread_spinlock_t	std.c	/^typedef volatile int pthread_spinlock_t;$/;"	t	file:
+pthread_t	std.c	/^typedef unsigned long int pthread_t;$/;"	t	file:
+putc	std.c	/^extern int putc (int __c, FILE *__stream);$/;"	p	file:	signature:(int __c, FILE *__stream)
+putc_unlocked	std.c	/^extern int putc_unlocked (int __c, FILE *__stream);$/;"	p	file:	signature:(int __c, FILE *__stream)
+putchar	std.c	/^extern int putchar (int __c);$/;"	p	file:	signature:(int __c)
+putchar_unlocked	std.c	/^extern int putchar_unlocked (int __c);$/;"	p	file:	signature:(int __c)
+putenv	std.c	/^extern int putenv (char *__string) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(char *__string)
+puts	std.c	/^extern int puts (__const char *__s);$/;"	p	file:	signature:(__const char *__s)
+putw	std.c	/^extern int putw (int __w, FILE *__stream);$/;"	p	file:	signature:(int __w, FILE *__stream)
+pwrite	std.c	/^extern ssize_t pwrite (int __fd, __const void *__buf, size_t __n,$/;"	p	file:	signature:(int __fd, __const void *__buf, size_t __n, __off_t __offset)
+qecvt	std.c	/^extern char *qecvt (long double __value, int __ndigit,$/;"	p	file:	signature:(long double __value, int __ndigit, int *__restrict __decpt, int *__restrict __sign)
+qecvt_r	std.c	/^extern int qecvt_r (long double __value, int __ndigit,$/;"	p	file:	signature:(long double __value, int __ndigit, int *__restrict __decpt, int *__restrict __sign, char *__restrict __buf, size_t __len)
+qfcvt	std.c	/^extern char *qfcvt (long double __value, int __ndigit,$/;"	p	file:	signature:(long double __value, int __ndigit, int *__restrict __decpt, int *__restrict __sign)
+qfcvt_r	std.c	/^extern int qfcvt_r (long double __value, int __ndigit,$/;"	p	file:	signature:(long double __value, int __ndigit, int *__restrict __decpt, int *__restrict __sign, char *__restrict __buf, size_t __len)
+qgcvt	std.c	/^extern char *qgcvt (long double __value, int __ndigit, char *__buf)$/;"	p	file:	signature:(long double __value, int __ndigit, char *__buf)
+qsort	std.c	/^extern void qsort (void *__base, size_t __nmemb, size_t __size,$/;"	p	file:	signature:(void *__base, size_t __nmemb, size_t __size, __compar_fn_t __compar)
+quad_t	std.c	/^typedef __quad_t quad_t;$/;"	t	file:
+quot	std.c	/^    int quot;$/;"	m	struct:__anon9	file:	access:public
+quot	std.c	/^    long int quot;$/;"	m	struct:__anon10	file:	access:public
+quot	std.c	/^    long long int quot;$/;"	m	struct:__anon11	file:	access:public
+rand	std.c	/^extern int rand (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+rand_deg	std.c	/^    int rand_deg;$/;"	m	struct:random_data	file:	access:public
+rand_r	std.c	/^extern int rand_r (unsigned int *__seed) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(unsigned int *__seed)
+rand_sep	std.c	/^    int rand_sep;$/;"	m	struct:random_data	file:	access:public
+rand_type	std.c	/^    int rand_type;$/;"	m	struct:random_data	file:	access:public
+random	std.c	/^extern long int random (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+random_data	std.c	/^struct random_data$/;"	s	file:
+random_data::end_ptr	std.c	/^    int32_t *end_ptr;$/;"	m	struct:random_data	file:	access:public
+random_data::fptr	std.c	/^    int32_t *fptr;$/;"	m	struct:random_data	file:	access:public
+random_data::rand_deg	std.c	/^    int rand_deg;$/;"	m	struct:random_data	file:	access:public
+random_data::rand_sep	std.c	/^    int rand_sep;$/;"	m	struct:random_data	file:	access:public
+random_data::rand_type	std.c	/^    int rand_type;$/;"	m	struct:random_data	file:	access:public
+random_data::rptr	std.c	/^    int32_t *rptr;$/;"	m	struct:random_data	file:	access:public
+random_data::state	std.c	/^    int32_t *state;$/;"	m	struct:random_data	file:	access:public
+random_r	std.c	/^extern int random_r (struct random_data *__restrict __buf,$/;"	p	file:	signature:(struct random_data *__restrict __buf, int32_t *__restrict __result)
+read	std.c	/^extern ssize_t read (int __fd, void *__buf, size_t __nbytes) ;$/;"	p	file:	signature:(int __fd, void *__buf, size_t __nbytes)
+readlink	std.c	/^extern ssize_t readlink (__const char *__restrict __path,$/;"	p	file:	signature:(__const char *__restrict __path, char *__restrict __buf, size_t __len)
+readlinkat	std.c	/^extern ssize_t readlinkat (int __fd, __const char *__restrict __path,$/;"	p	file:	signature:(int __fd, __const char *__restrict __path, char *__restrict __buf, size_t __len)
+realloc	std.c	/^extern void *realloc (void *__ptr, size_t __size)$/;"	p	file:	signature:(void *__ptr, size_t __size)
+realpath	std.c	/^extern char *realpath (__const char *__restrict __name,$/;"	p	file:	signature:(__const char *__restrict __name, char *__restrict __resolved)
+register_t	std.c	/^typedef int register_t __attribute__ ((__mode__ (__word__)));$/;"	t	file:
+rem	std.c	/^    int rem;$/;"	m	struct:__anon9	file:	access:public
+rem	std.c	/^    long int rem;$/;"	m	struct:__anon10	file:	access:public
+rem	std.c	/^    long long int rem;$/;"	m	struct:__anon11	file:	access:public
+remove	std.c	/^extern int remove (__const char *__filename) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__const char *__filename)
+rename	std.c	/^extern int rename (__const char *__old, __const char *__new) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__const char *__old, __const char *__new)
+renameat	std.c	/^extern int renameat (int __oldfd, __const char *__old, int __newfd,$/;"	p	file:	signature:(int __oldfd, __const char *__old, int __newfd, __const char *__new)
+revoke	std.c	/^extern int revoke (__const char *__file) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1))) ;$/;"	p	file:	signature:(__const char *__file)
+rewind	std.c	/^extern void rewind (FILE *__stream);$/;"	p	file:	signature:(FILE *__stream)
+rindex	std.c	/^extern char *rindex (__const char *__s, int __c)$/;"	p	file:	signature:(__const char *__s, int __c)
+rmdir	std.c	/^extern int rmdir (__const char *__path) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(__const char *__path)
+rpmatch	std.c	/^extern int rpmatch (__const char *__response) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1))) ;$/;"	p	file:	signature:(__const char *__response)
+rptr	std.c	/^    int32_t *rptr;$/;"	m	struct:random_data	file:	access:public
+sbrk	std.c	/^extern void *sbrk (intptr_t __delta) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(intptr_t __delta)
+scanf	std.c	/^extern int scanf (__const char *__restrict __format, ...) ;$/;"	p	file:	signature:(__const char *__restrict __format, ...)
+seed48	std.c	/^extern unsigned short int *seed48 (unsigned short int __seed16v[3])$/;"	p	file:	signature:(unsigned short int __seed16v[3])
+seed48_r	std.c	/^extern int seed48_r (unsigned short int __seed16v[3],$/;"	p	file:	signature:(unsigned short int __seed16v[3], struct drand48_data *__buffer)
+select	std.c	/^extern int select (int __nfds, fd_set *__restrict __readfds,$/;"	p	file:	signature:(int __nfds, fd_set *__restrict __readfds, fd_set *__restrict __writefds, fd_set *__restrict __exceptfds, struct timeval *__restrict __timeout)
+setbuf	std.c	/^extern void setbuf (FILE *__restrict __stream, char *__restrict __buf) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(FILE *__restrict __stream, char *__restrict __buf)
+setbuffer	std.c	/^extern void setbuffer (FILE *__restrict __stream, char *__restrict __buf,$/;"	p	file:	signature:(FILE *__restrict __stream, char *__restrict __buf, size_t __size)
+setdomainname	std.c	/^extern int setdomainname (__const char *__name, size_t __len)$/;"	p	file:	signature:(__const char *__name, size_t __len)
+setegid	std.c	/^extern int setegid (__gid_t __gid) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__gid_t __gid)
+setenv	std.c	/^extern int setenv (__const char *__name, __const char *__value, int __replace)$/;"	p	file:	signature:(__const char *__name, __const char *__value, int __replace)
+seteuid	std.c	/^extern int seteuid (__uid_t __uid) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__uid_t __uid)
+setgid	std.c	/^extern int setgid (__gid_t __gid) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__gid_t __gid)
+sethostid	std.c	/^extern int sethostid (long int __id) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(long int __id)
+sethostname	std.c	/^extern int sethostname (__const char *__name, size_t __len)$/;"	p	file:	signature:(__const char *__name, size_t __len)
+setlinebuf	std.c	/^extern void setlinebuf (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(FILE *__stream)
+setlogin	std.c	/^extern int setlogin (__const char *__name) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(__const char *__name)
+setpgid	std.c	/^extern int setpgid (__pid_t __pid, __pid_t __pgid) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__pid_t __pid, __pid_t __pgid)
+setpgrp	std.c	/^extern int setpgrp (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+setregid	std.c	/^extern int setregid (__gid_t __rgid, __gid_t __egid) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__gid_t __rgid, __gid_t __egid)
+setreuid	std.c	/^extern int setreuid (__uid_t __ruid, __uid_t __euid) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__uid_t __ruid, __uid_t __euid)
+setsid	std.c	/^extern __pid_t setsid (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+setstate	std.c	/^extern char *setstate (char *__statebuf) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(char *__statebuf)
+setstate_r	std.c	/^extern int setstate_r (char *__restrict __statebuf,$/;"	p	file:	signature:(char *__restrict __statebuf, struct random_data *__restrict __buf)
+setuid	std.c	/^extern int setuid (__uid_t __uid) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__uid_t __uid)
+setusershell	std.c	/^extern void setusershell (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+setvbuf	std.c	/^extern int setvbuf (FILE *__restrict __stream, char *__restrict __buf,$/;"	p	file:	signature:(FILE *__restrict __stream, char *__restrict __buf, int __modes, size_t __n)
+sigset_t	std.c	/^typedef __sigset_t sigset_t;$/;"	t	file:
+size_t	std.c	/^typedef long unsigned int size_t;$/;"	t	file:
+sleep	std.c	/^extern unsigned int sleep (unsigned int __seconds);$/;"	p	file:	signature:(unsigned int __seconds)
+snprintf	std.c	/^extern int snprintf (char *__restrict __s, size_t __maxlen,$/;"	p	file:	signature:(char *__restrict __s, size_t __maxlen, __const char *__restrict __format, ...)
+socklen_t	std.c	/^typedef __socklen_t socklen_t;$/;"	t	file:
+sprintf	std.c	/^extern int sprintf (char *__restrict __s,$/;"	p	file:	signature:(char *__restrict __s, __const char *__restrict __format, ...)
+srand	std.c	/^extern void srand (unsigned int __seed) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(unsigned int __seed)
+srand48	std.c	/^extern void srand48 (long int __seedval) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(long int __seedval)
+srand48_r	std.c	/^extern int srand48_r (long int __seedval, struct drand48_data *__buffer)$/;"	p	file:	signature:(long int __seedval, struct drand48_data *__buffer)
+srandom	std.c	/^extern void srandom (unsigned int __seed) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(unsigned int __seed)
+srandom_r	std.c	/^extern int srandom_r (unsigned int __seed, struct random_data *__buf)$/;"	p	file:	signature:(unsigned int __seed, struct random_data *__buf)
+sscanf	std.c	/^extern int sscanf (__const char *__restrict __s,$/;"	p	file:	signature:(__const char *__restrict __s, __const char *__restrict __format, ...)
+ssize_t	std.c	/^typedef __ssize_t ssize_t;$/;"	t	file:
+st_atim	std.c	/^    struct timespec st_atim;$/;"	m	struct:stat	typeref:struct:stat::timespec	file:	access:public
+st_blksize	std.c	/^    __blksize_t st_blksize;$/;"	m	struct:stat	file:	access:public
+st_blocks	std.c	/^    __blkcnt_t st_blocks;$/;"	m	struct:stat	file:	access:public
+st_ctim	std.c	/^    struct timespec st_ctim;$/;"	m	struct:stat	typeref:struct:stat::timespec	file:	access:public
+st_dev	std.c	/^    __dev_t st_dev;$/;"	m	struct:stat	file:	access:public
+st_gid	std.c	/^    __gid_t st_gid;$/;"	m	struct:stat	file:	access:public
+st_ino	std.c	/^    __ino_t st_ino;$/;"	m	struct:stat	file:	access:public
+st_mode	std.c	/^    __mode_t st_mode;$/;"	m	struct:stat	file:	access:public
+st_mtim	std.c	/^    struct timespec st_mtim;$/;"	m	struct:stat	typeref:struct:stat::timespec	file:	access:public
+st_nlink	std.c	/^    __nlink_t st_nlink;$/;"	m	struct:stat	file:	access:public
+st_rdev	std.c	/^    __dev_t st_rdev;$/;"	m	struct:stat	file:	access:public
+st_size	std.c	/^    __off_t st_size;$/;"	m	struct:stat	file:	access:public
+st_uid	std.c	/^    __uid_t st_uid;$/;"	m	struct:stat	file:	access:public
+stat	std.c	/^struct stat$/;"	s	file:
+stat::__pad0	std.c	/^    int __pad0;$/;"	m	struct:stat	file:	access:public
+stat::__unused	std.c	/^    long int __unused[3];$/;"	m	struct:stat	file:	access:public
+stat::st_atim	std.c	/^    struct timespec st_atim;$/;"	m	struct:stat	typeref:struct:stat::timespec	file:	access:public
+stat::st_blksize	std.c	/^    __blksize_t st_blksize;$/;"	m	struct:stat	file:	access:public
+stat::st_blocks	std.c	/^    __blkcnt_t st_blocks;$/;"	m	struct:stat	file:	access:public
+stat::st_ctim	std.c	/^    struct timespec st_ctim;$/;"	m	struct:stat	typeref:struct:stat::timespec	file:	access:public
+stat::st_dev	std.c	/^    __dev_t st_dev;$/;"	m	struct:stat	file:	access:public
+stat::st_gid	std.c	/^    __gid_t st_gid;$/;"	m	struct:stat	file:	access:public
+stat::st_ino	std.c	/^    __ino_t st_ino;$/;"	m	struct:stat	file:	access:public
+stat::st_mode	std.c	/^    __mode_t st_mode;$/;"	m	struct:stat	file:	access:public
+stat::st_mtim	std.c	/^    struct timespec st_mtim;$/;"	m	struct:stat	typeref:struct:stat::timespec	file:	access:public
+stat::st_nlink	std.c	/^    __nlink_t st_nlink;$/;"	m	struct:stat	file:	access:public
+stat::st_rdev	std.c	/^    __dev_t st_rdev;$/;"	m	struct:stat	file:	access:public
+stat::st_size	std.c	/^    __off_t st_size;$/;"	m	struct:stat	file:	access:public
+stat::st_uid	std.c	/^    __uid_t st_uid;$/;"	m	struct:stat	file:	access:public
+state	std.c	/^    int32_t *state;$/;"	m	struct:random_data	file:	access:public
+stpcpy	std.c	/^extern char *stpcpy (char *__restrict __dest, __const char *__restrict __src)$/;"	p	file:	signature:(char *__restrict __dest, __const char *__restrict __src)
+stpncpy	std.c	/^extern char *stpncpy (char *__restrict __dest,$/;"	p	file:	signature:(char *__restrict __dest, __const char *__restrict __src, size_t __n)
+strcasecmp	std.c	/^extern int strcasecmp (__const char *__s1, __const char *__s2)$/;"	p	file:	signature:(__const char *__s1, __const char *__s2)
+strcat	std.c	/^extern char *strcat (char *__restrict __dest, __const char *__restrict __src)$/;"	p	file:	signature:(char *__restrict __dest, __const char *__restrict __src)
+strchr	std.c	/^extern char *strchr (__const char *__s, int __c)$/;"	p	file:	signature:(__const char *__s, int __c)
+strcmp	std.c	/^extern int strcmp (__const char *__s1, __const char *__s2)$/;"	p	file:	signature:(__const char *__s1, __const char *__s2)
+strcoll	std.c	/^extern int strcoll (__const char *__s1, __const char *__s2)$/;"	p	file:	signature:(__const char *__s1, __const char *__s2)
+strcoll_l	std.c	/^extern int strcoll_l (__const char *__s1, __const char *__s2, __locale_t __l)$/;"	p	file:	signature:(__const char *__s1, __const char *__s2, __locale_t __l)
+strcpy	std.c	/^extern char *strcpy (char *__restrict __dest, __const char *__restrict __src)$/;"	p	file:	signature:(char *__restrict __dest, __const char *__restrict __src)
+strcspn	std.c	/^extern size_t strcspn (__const char *__s, __const char *__reject)$/;"	p	file:	signature:(__const char *__s, __const char *__reject)
+strdup	std.c	/^extern char *strdup (__const char *__s)$/;"	p	file:	signature:(__const char *__s)
+strerror	std.c	/^extern char *strerror (int __errnum) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __errnum)
+strerror_l	std.c	/^extern char *strerror_l (int __errnum, __locale_t __l) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __errnum, __locale_t __l)
+strlen	std.c	/^extern size_t strlen (__const char *__s)$/;"	p	file:	signature:(__const char *__s)
+strncasecmp	std.c	/^extern int strncasecmp (__const char *__s1, __const char *__s2, size_t __n)$/;"	p	file:	signature:(__const char *__s1, __const char *__s2, size_t __n)
+strncat	std.c	/^extern char *strncat (char *__restrict __dest, __const char *__restrict __src,$/;"	p	file:	signature:(char *__restrict __dest, __const char *__restrict __src, size_t __n)
+strncmp	std.c	/^extern int strncmp (__const char *__s1, __const char *__s2, size_t __n)$/;"	p	file:	signature:(__const char *__s1, __const char *__s2, size_t __n)
+strncpy	std.c	/^extern char *strncpy (char *__restrict __dest,$/;"	p	file:	signature:(char *__restrict __dest, __const char *__restrict __src, size_t __n)
+strndup	std.c	/^extern char *strndup (__const char *__string, size_t __n)$/;"	p	file:	signature:(__const char *__string, size_t __n)
+strnlen	std.c	/^extern size_t strnlen (__const char *__string, size_t __maxlen)$/;"	p	file:	signature:(__const char *__string, size_t __maxlen)
+strpbrk	std.c	/^extern char *strpbrk (__const char *__s, __const char *__accept)$/;"	p	file:	signature:(__const char *__s, __const char *__accept)
+strrchr	std.c	/^extern char *strrchr (__const char *__s, int __c)$/;"	p	file:	signature:(__const char *__s, int __c)
+strsep	std.c	/^extern char *strsep (char **__restrict __stringp,$/;"	p	file:	signature:(char **__restrict __stringp, __const char *__restrict __delim)
+strsignal	std.c	/^extern char *strsignal (int __sig) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __sig)
+strspn	std.c	/^extern size_t strspn (__const char *__s, __const char *__accept)$/;"	p	file:	signature:(__const char *__s, __const char *__accept)
+strstr	std.c	/^extern char *strstr (__const char *__haystack, __const char *__needle)$/;"	p	file:	signature:(__const char *__haystack, __const char *__needle)
+strtod	std.c	/^extern double strtod (__const char *__restrict __nptr,$/;"	p	file:	signature:(__const char *__restrict __nptr, char **__restrict __endptr)
+strtof	std.c	/^extern float strtof (__const char *__restrict __nptr,$/;"	p	file:	signature:(__const char *__restrict __nptr, char **__restrict __endptr)
+strtok	std.c	/^extern char *strtok (char *__restrict __s, __const char *__restrict __delim)$/;"	p	file:	signature:(char *__restrict __s, __const char *__restrict __delim)
+strtok_r	std.c	/^extern char *strtok_r (char *__restrict __s, __const char *__restrict __delim,$/;"	p	file:	signature:(char *__restrict __s, __const char *__restrict __delim, char **__restrict __save_ptr)
+strtol	std.c	/^extern long int strtol (__const char *__restrict __nptr,$/;"	p	file:	signature:(__const char *__restrict __nptr, char **__restrict __endptr, int __base)
+strtold	std.c	/^extern long double strtold (__const char *__restrict __nptr,$/;"	p	file:	signature:(__const char *__restrict __nptr, char **__restrict __endptr)
+strtoll	std.c	/^extern long long int strtoll (__const char *__restrict __nptr,$/;"	p	file:	signature:(__const char *__restrict __nptr, char **__restrict __endptr, int __base)
+strtoq	std.c	/^extern long long int strtoq (__const char *__restrict __nptr,$/;"	p	file:	signature:(__const char *__restrict __nptr, char **__restrict __endptr, int __base)
+strtoul	std.c	/^extern unsigned long int strtoul (__const char *__restrict __nptr,$/;"	p	file:	signature:(__const char *__restrict __nptr, char **__restrict __endptr, int __base)
+strtoull	std.c	/^extern unsigned long long int strtoull (__const char *__restrict __nptr,$/;"	p	file:	signature:(__const char *__restrict __nptr, char **__restrict __endptr, int __base)
+strtouq	std.c	/^extern unsigned long long int strtouq (__const char *__restrict __nptr,$/;"	p	file:	signature:(__const char *__restrict __nptr, char **__restrict __endptr, int __base)
+strxfrm	std.c	/^extern size_t strxfrm (char *__restrict __dest,$/;"	p	file:	signature:(char *__restrict __dest, __const char *__restrict __src, size_t __n)
+strxfrm_l	std.c	/^extern size_t strxfrm_l (char *__dest, __const char *__src, size_t __n,$/;"	p	file:	signature:(char *__dest, __const char *__src, size_t __n, __locale_t __l)
+suseconds_t	std.c	/^typedef __suseconds_t suseconds_t;$/;"	t	file:
+symlink	std.c	/^extern int symlink (__const char *__from, __const char *__to)$/;"	p	file:	signature:(__const char *__from, __const char *__to)
+symlinkat	std.c	/^extern int symlinkat (__const char *__from, int __tofd,$/;"	p	file:	signature:(__const char *__from, int __tofd, __const char *__to)
+sync	std.c	/^extern void sync (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+syscall	std.c	/^extern long int syscall (long int __sysno, ...) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(long int __sysno, ...)
+sysconf	std.c	/^extern long int sysconf (int __name) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __name)
+system	std.c	/^extern int system (__const char *__command) ;$/;"	p	file:	signature:(__const char *__command)
+tcgetpgrp	std.c	/^extern __pid_t tcgetpgrp (int __fd) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd)
+tcsetpgrp	std.c	/^extern int tcsetpgrp (int __fd, __pid_t __pgrp_id) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd, __pid_t __pgrp_id)
+tempnam	std.c	/^extern char *tempnam (__const char *__dir, __const char *__pfx)$/;"	p	file:	signature:(__const char *__dir, __const char *__pfx)
+time_t	std.c	/^typedef __time_t time_t;$/;"	t	file:
+timer_t	std.c	/^typedef __timer_t timer_t;$/;"	t	file:
+timespec	std.c	/^struct timespec$/;"	s	file:
+timespec::tv_nsec	std.c	/^    long int tv_nsec;$/;"	m	struct:timespec	file:	access:public
+timespec::tv_sec	std.c	/^    __time_t tv_sec;$/;"	m	struct:timespec	file:	access:public
+timeval	std.c	/^struct timeval$/;"	s	file:
+timeval::tv_sec	std.c	/^    __time_t tv_sec;$/;"	m	struct:timeval	file:	access:public
+timeval::tv_usec	std.c	/^    __suseconds_t tv_usec;$/;"	m	struct:timeval	file:	access:public
+tmpfile	std.c	/^extern FILE *tmpfile (void) ;$/;"	p	file:	signature:(void)
+tmpnam	std.c	/^extern char *tmpnam (char *__s) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(char *__s)
+tmpnam_r	std.c	/^extern char *tmpnam_r (char *__s) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(char *__s)
+truncate	std.c	/^extern int truncate (__const char *__file, __off_t __length)$/;"	p	file:	signature:(__const char *__file, __off_t __length)
+ttyname	std.c	/^extern char *ttyname (int __fd) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd)
+ttyname_r	std.c	/^extern int ttyname_r (int __fd, char *__buf, size_t __buflen)$/;"	p	file:	signature:(int __fd, char *__buf, size_t __buflen)
+ttyslot	std.c	/^extern int ttyslot (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+tv_nsec	std.c	/^    long int tv_nsec;$/;"	m	struct:timespec	file:	access:public
+tv_sec	std.c	/^    __time_t tv_sec;$/;"	m	struct:timespec	file:	access:public
+tv_sec	std.c	/^    __time_t tv_sec;$/;"	m	struct:timeval	file:	access:public
+tv_usec	std.c	/^    __suseconds_t tv_usec;$/;"	m	struct:timeval	file:	access:public
+u_char	std.c	/^typedef __u_char u_char;$/;"	t	file:
+u_int	std.c	/^typedef __u_int u_int;$/;"	t	file:
+u_int16_t	std.c	/^typedef unsigned int u_int16_t __attribute__ ((__mode__ (__HI__)));$/;"	t	file:
+u_int32_t	std.c	/^typedef unsigned int u_int32_t __attribute__ ((__mode__ (__SI__)));$/;"	t	file:
+u_int64_t	std.c	/^typedef unsigned int u_int64_t __attribute__ ((__mode__ (__DI__)));$/;"	t	file:
+u_int8_t	std.c	/^typedef unsigned int u_int8_t __attribute__ ((__mode__ (__QI__)));$/;"	t	file:
+u_long	std.c	/^typedef __u_long u_long;$/;"	t	file:
+u_quad_t	std.c	/^typedef __u_quad_t u_quad_t;$/;"	t	file:
+u_short	std.c	/^typedef __u_short u_short;$/;"	t	file:
+ualarm	std.c	/^extern __useconds_t ualarm (__useconds_t __value, __useconds_t __interval)$/;"	p	file:	signature:(__useconds_t __value, __useconds_t __interval)
+uid_t	std.c	/^typedef __uid_t uid_t;$/;"	t	file:
+uint	std.c	/^typedef unsigned int uint;$/;"	t	file:
+ulong	std.c	/^typedef unsigned long int ulong;$/;"	t	file:
+ungetc	std.c	/^extern int ungetc (int __c, FILE *__stream);$/;"	p	file:	signature:(int __c, FILE *__stream)
+unlink	std.c	/^extern int unlink (__const char *__name) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(__const char *__name)
+unlinkat	std.c	/^extern int unlinkat (int __fd, __const char *__name, int __flag)$/;"	p	file:	signature:(int __fd, __const char *__name, int __flag)
+unsetenv	std.c	/^extern int unsetenv (__const char *__name) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));$/;"	p	file:	signature:(__const char *__name)
+useconds_t	std.c	/^typedef __useconds_t useconds_t;$/;"	t	file:
+ushort	std.c	/^typedef unsigned short int ushort;$/;"	t	file:
+usleep	std.c	/^extern int usleep (__useconds_t __useconds);$/;"	p	file:	signature:(__useconds_t __useconds)
+va_list	std.c	/^typedef __gnuc_va_list va_list;$/;"	t	file:
+valloc	std.c	/^extern void *valloc (size_t __size) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__malloc__)) ;$/;"	p	file:	signature:(size_t __size)
+vdprintf	std.c	/^extern int vdprintf (int __fd, __const char *__restrict __fmt,$/;"	p	file:	signature:(int __fd, __const char *__restrict __fmt, __gnuc_va_list __arg)
+vfork	std.c	/^extern __pid_t vfork (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+vfprintf	std.c	/^extern int vfprintf (FILE *__restrict __s, __const char *__restrict __format,$/;"	p	file:	signature:(FILE *__restrict __s, __const char *__restrict __format, __gnuc_va_list __arg)
+vfscanf	std.c	/^extern int vfscanf (FILE *__restrict __s, __const char *__restrict __format,$/;"	p	file:	signature:(FILE *__restrict __s, __const char *__restrict __format, __gnuc_va_list __arg)
+vhangup	std.c	/^extern int vhangup (void) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(void)
+vprintf	std.c	/^extern int vprintf (__const char *__restrict __format, __gnuc_va_list __arg);$/;"	p	file:	signature:(__const char *__restrict __format, __gnuc_va_list __arg)
+vscanf	std.c	/^extern int vscanf (__const char *__restrict __format, __gnuc_va_list __arg)$/;"	p	file:	signature:(__const char *__restrict __format, __gnuc_va_list __arg)
+vsnprintf	std.c	/^extern int vsnprintf (char *__restrict __s, size_t __maxlen,$/;"	p	file:	signature:(char *__restrict __s, size_t __maxlen, __const char *__restrict __format, __gnuc_va_list __arg)
+vsprintf	std.c	/^extern int vsprintf (char *__restrict __s, __const char *__restrict __format,$/;"	p	file:	signature:(char *__restrict __s, __const char *__restrict __format, __gnuc_va_list __arg)
+vsscanf	std.c	/^extern int vsscanf (__const char *__restrict __s,$/;"	p	file:	signature:(__const char *__restrict __s, __const char *__restrict __format, __gnuc_va_list __arg)
+w_status	std.c	/^    int w_status;$/;"	m	union:wait	file:	access:public
+wait	std.c	/^union wait$/;"	u	file:
+wait::__anon6::__w_coredump	std.c	/^ unsigned int __w_coredump:1;$/;"	m	struct:wait::__anon6	file:	access:public
+wait::__anon6::__w_retcode	std.c	/^ unsigned int __w_retcode:8;$/;"	m	struct:wait::__anon6	file:	access:public
+wait::__anon6::__w_termsig	std.c	/^ unsigned int __w_termsig:7;$/;"	m	struct:wait::__anon6	file:	access:public
+wait::__anon7::__w_stopsig	std.c	/^ unsigned int __w_stopsig:8;$/;"	m	struct:wait::__anon7	file:	access:public
+wait::__anon7::__w_stopval	std.c	/^ unsigned int __w_stopval:8;$/;"	m	struct:wait::__anon7	file:	access:public
+wait::__wait_stopped	std.c	/^      } __wait_stopped;$/;"	m	union:wait	typeref:struct:wait::__anon7	file:	access:public
+wait::__wait_terminated	std.c	/^      } __wait_terminated;$/;"	m	union:wait	typeref:struct:wait::__anon6	file:	access:public
+wait::w_status	std.c	/^    int w_status;$/;"	m	union:wait	file:	access:public
+wcstombs	std.c	/^extern size_t wcstombs (char *__restrict __s,$/;"	p	file:	signature:(char *__restrict __s, __const wchar_t *__restrict __pwcs, size_t __n)
+wctomb	std.c	/^extern int wctomb (char *__s, wchar_t __wchar) __attribute__ ((__nothrow__ , __leaf__)) ;$/;"	p	file:	signature:(char *__s, wchar_t __wchar)
+write	std.c	/^extern ssize_t write (int __fd, __const void *__buf, size_t __n) ;$/;"	p	file:	signature:(int __fd, __const void *__buf, size_t __n)

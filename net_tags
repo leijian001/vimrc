@@ -1,0 +1,558 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+IPPORT_BIFFUDP	net.c	/^    IPPORT_BIFFUDP = 512,$/;"	e	enum:__anon19	file:
+IPPORT_CMDSERVER	net.c	/^    IPPORT_CMDSERVER = 514,$/;"	e	enum:__anon19	file:
+IPPORT_DAYTIME	net.c	/^    IPPORT_DAYTIME = 13,$/;"	e	enum:__anon19	file:
+IPPORT_DISCARD	net.c	/^    IPPORT_DISCARD = 9,$/;"	e	enum:__anon19	file:
+IPPORT_ECHO	net.c	/^    IPPORT_ECHO = 7,$/;"	e	enum:__anon19	file:
+IPPORT_EFSSERVER	net.c	/^    IPPORT_EFSSERVER = 520,$/;"	e	enum:__anon19	file:
+IPPORT_EXECSERVER	net.c	/^    IPPORT_EXECSERVER = 512,$/;"	e	enum:__anon19	file:
+IPPORT_FINGER	net.c	/^    IPPORT_FINGER = 79,$/;"	e	enum:__anon19	file:
+IPPORT_FTP	net.c	/^    IPPORT_FTP = 21,$/;"	e	enum:__anon19	file:
+IPPORT_LOGINSERVER	net.c	/^    IPPORT_LOGINSERVER = 513,$/;"	e	enum:__anon19	file:
+IPPORT_MTP	net.c	/^    IPPORT_MTP = 57,$/;"	e	enum:__anon19	file:
+IPPORT_NAMESERVER	net.c	/^    IPPORT_NAMESERVER = 42,$/;"	e	enum:__anon19	file:
+IPPORT_NETSTAT	net.c	/^    IPPORT_NETSTAT = 15,$/;"	e	enum:__anon19	file:
+IPPORT_RESERVED	net.c	/^    IPPORT_RESERVED = 1024,$/;"	e	enum:__anon19	file:
+IPPORT_RJE	net.c	/^    IPPORT_RJE = 77,$/;"	e	enum:__anon19	file:
+IPPORT_ROUTESERVER	net.c	/^    IPPORT_ROUTESERVER = 520,$/;"	e	enum:__anon19	file:
+IPPORT_SMTP	net.c	/^    IPPORT_SMTP = 25,$/;"	e	enum:__anon19	file:
+IPPORT_SUPDUP	net.c	/^    IPPORT_SUPDUP = 95,$/;"	e	enum:__anon19	file:
+IPPORT_SYSTAT	net.c	/^    IPPORT_SYSTAT = 11,$/;"	e	enum:__anon19	file:
+IPPORT_TELNET	net.c	/^    IPPORT_TELNET = 23,$/;"	e	enum:__anon19	file:
+IPPORT_TFTP	net.c	/^    IPPORT_TFTP = 69,$/;"	e	enum:__anon19	file:
+IPPORT_TIMESERVER	net.c	/^    IPPORT_TIMESERVER = 37,$/;"	e	enum:__anon19	file:
+IPPORT_TTYLINK	net.c	/^    IPPORT_TTYLINK = 87,$/;"	e	enum:__anon19	file:
+IPPORT_USERRESERVED	net.c	/^    IPPORT_USERRESERVED = 5000$/;"	e	enum:__anon19	file:
+IPPORT_WHOIS	net.c	/^    IPPORT_WHOIS = 43,$/;"	e	enum:__anon19	file:
+IPPORT_WHOSERVER	net.c	/^    IPPORT_WHOSERVER = 513,$/;"	e	enum:__anon19	file:
+IPPROTO_AH	net.c	/^    IPPROTO_AH = 51,$/;"	e	enum:__anon18	file:
+IPPROTO_COMP	net.c	/^    IPPROTO_COMP = 108,$/;"	e	enum:__anon18	file:
+IPPROTO_DCCP	net.c	/^    IPPROTO_DCCP = 33,$/;"	e	enum:__anon18	file:
+IPPROTO_DSTOPTS	net.c	/^    IPPROTO_DSTOPTS = 60,$/;"	e	enum:__anon18	file:
+IPPROTO_EGP	net.c	/^    IPPROTO_EGP = 8,$/;"	e	enum:__anon18	file:
+IPPROTO_ENCAP	net.c	/^    IPPROTO_ENCAP = 98,$/;"	e	enum:__anon18	file:
+IPPROTO_ESP	net.c	/^    IPPROTO_ESP = 50,$/;"	e	enum:__anon18	file:
+IPPROTO_FRAGMENT	net.c	/^    IPPROTO_FRAGMENT = 44,$/;"	e	enum:__anon18	file:
+IPPROTO_GRE	net.c	/^    IPPROTO_GRE = 47,$/;"	e	enum:__anon18	file:
+IPPROTO_HOPOPTS	net.c	/^    IPPROTO_HOPOPTS = 0,$/;"	e	enum:__anon18	file:
+IPPROTO_ICMP	net.c	/^    IPPROTO_ICMP = 1,$/;"	e	enum:__anon18	file:
+IPPROTO_ICMPV6	net.c	/^    IPPROTO_ICMPV6 = 58,$/;"	e	enum:__anon18	file:
+IPPROTO_IDP	net.c	/^    IPPROTO_IDP = 22,$/;"	e	enum:__anon18	file:
+IPPROTO_IGMP	net.c	/^    IPPROTO_IGMP = 2,$/;"	e	enum:__anon18	file:
+IPPROTO_IP	net.c	/^    IPPROTO_IP = 0,$/;"	e	enum:__anon18	file:
+IPPROTO_IPIP	net.c	/^    IPPROTO_IPIP = 4,$/;"	e	enum:__anon18	file:
+IPPROTO_IPV6	net.c	/^    IPPROTO_IPV6 = 41,$/;"	e	enum:__anon18	file:
+IPPROTO_MAX	net.c	/^    IPPROTO_MAX$/;"	e	enum:__anon18	file:
+IPPROTO_MTP	net.c	/^    IPPROTO_MTP = 92,$/;"	e	enum:__anon18	file:
+IPPROTO_NONE	net.c	/^    IPPROTO_NONE = 59,$/;"	e	enum:__anon18	file:
+IPPROTO_PIM	net.c	/^    IPPROTO_PIM = 103,$/;"	e	enum:__anon18	file:
+IPPROTO_PUP	net.c	/^    IPPROTO_PUP = 12,$/;"	e	enum:__anon18	file:
+IPPROTO_RAW	net.c	/^    IPPROTO_RAW = 255,$/;"	e	enum:__anon18	file:
+IPPROTO_ROUTING	net.c	/^    IPPROTO_ROUTING = 43,$/;"	e	enum:__anon18	file:
+IPPROTO_RSVP	net.c	/^    IPPROTO_RSVP = 46,$/;"	e	enum:__anon18	file:
+IPPROTO_SCTP	net.c	/^    IPPROTO_SCTP = 132,$/;"	e	enum:__anon18	file:
+IPPROTO_TCP	net.c	/^    IPPROTO_TCP = 6,$/;"	e	enum:__anon18	file:
+IPPROTO_TP	net.c	/^    IPPROTO_TP = 29,$/;"	e	enum:__anon18	file:
+IPPROTO_UDP	net.c	/^    IPPROTO_UDP = 17,$/;"	e	enum:__anon18	file:
+IPPROTO_UDPLITE	net.c	/^    IPPROTO_UDPLITE = 136,$/;"	e	enum:__anon18	file:
+MSG_CMSG_CLOEXEC	net.c	/^    MSG_CMSG_CLOEXEC = 0x40000000$/;"	e	enum:__anon15	file:
+MSG_CONFIRM	net.c	/^    MSG_CONFIRM = 0x800,$/;"	e	enum:__anon15	file:
+MSG_CTRUNC	net.c	/^    MSG_CTRUNC = 0x08,$/;"	e	enum:__anon15	file:
+MSG_DONTROUTE	net.c	/^    MSG_DONTROUTE = 0x04,$/;"	e	enum:__anon15	file:
+MSG_DONTWAIT	net.c	/^    MSG_DONTWAIT = 0x40,$/;"	e	enum:__anon15	file:
+MSG_EOR	net.c	/^    MSG_EOR = 0x80,$/;"	e	enum:__anon15	file:
+MSG_ERRQUEUE	net.c	/^    MSG_ERRQUEUE = 0x2000,$/;"	e	enum:__anon15	file:
+MSG_FIN	net.c	/^    MSG_FIN = 0x200,$/;"	e	enum:__anon15	file:
+MSG_MORE	net.c	/^    MSG_MORE = 0x8000,$/;"	e	enum:__anon15	file:
+MSG_NOSIGNAL	net.c	/^    MSG_NOSIGNAL = 0x4000,$/;"	e	enum:__anon15	file:
+MSG_OOB	net.c	/^    MSG_OOB = 0x01,$/;"	e	enum:__anon15	file:
+MSG_PEEK	net.c	/^    MSG_PEEK = 0x02,$/;"	e	enum:__anon15	file:
+MSG_PROXY	net.c	/^    MSG_PROXY = 0x10,$/;"	e	enum:__anon15	file:
+MSG_RST	net.c	/^    MSG_RST = 0x1000,$/;"	e	enum:__anon15	file:
+MSG_SYN	net.c	/^    MSG_SYN = 0x400,$/;"	e	enum:__anon15	file:
+MSG_TRUNC	net.c	/^    MSG_TRUNC = 0x20,$/;"	e	enum:__anon15	file:
+MSG_WAITALL	net.c	/^    MSG_WAITALL = 0x100,$/;"	e	enum:__anon15	file:
+MSG_WAITFORONE	net.c	/^    MSG_WAITFORONE = 0x10000,$/;"	e	enum:__anon15	file:
+SCM_RIGHTS	net.c	/^    SCM_RIGHTS = 0x01$/;"	e	enum:__anon16	file:
+SHUT_RD	net.c	/^  SHUT_RD = 0,$/;"	e	enum:__anon17	file:
+SHUT_RDWR	net.c	/^  SHUT_RDWR$/;"	e	enum:__anon17	file:
+SHUT_WR	net.c	/^  SHUT_WR,$/;"	e	enum:__anon17	file:
+SOCK_CLOEXEC	net.c	/^  SOCK_CLOEXEC = 02000000,$/;"	e	enum:__socket_type	file:
+SOCK_DCCP	net.c	/^  SOCK_DCCP = 6,$/;"	e	enum:__socket_type	file:
+SOCK_DGRAM	net.c	/^  SOCK_DGRAM = 2,$/;"	e	enum:__socket_type	file:
+SOCK_NONBLOCK	net.c	/^  SOCK_NONBLOCK = 04000$/;"	e	enum:__socket_type	file:
+SOCK_PACKET	net.c	/^  SOCK_PACKET = 10,$/;"	e	enum:__socket_type	file:
+SOCK_RAW	net.c	/^  SOCK_RAW = 3,$/;"	e	enum:__socket_type	file:
+SOCK_RDM	net.c	/^  SOCK_RDM = 4,$/;"	e	enum:__socket_type	file:
+SOCK_SEQPACKET	net.c	/^  SOCK_SEQPACKET = 5,$/;"	e	enum:__socket_type	file:
+SOCK_STREAM	net.c	/^  SOCK_STREAM = 1,$/;"	e	enum:__socket_type	file:
+__align	net.c	/^  __extension__ long long int __align;$/;"	m	union:__anon7	file:	access:public
+__align	net.c	/^  int __align;$/;"	m	union:__anon14	file:	access:public
+__align	net.c	/^  int __align;$/;"	m	union:__anon6	file:	access:public
+__align	net.c	/^  int __align;$/;"	m	union:__anon9	file:	access:public
+__align	net.c	/^  long int __align;$/;"	m	union:__anon10	file:	access:public
+__align	net.c	/^  long int __align;$/;"	m	union:__anon12	file:	access:public
+__align	net.c	/^  long int __align;$/;"	m	union:__anon13	file:	access:public
+__align	net.c	/^  long int __align;$/;"	m	union:__anon4	file:	access:public
+__align	net.c	/^  long int __align;$/;"	m	union:__anon5	file:	access:public
+__anon10::__align	net.c	/^  long int __align;$/;"	m	union:__anon10	file:	access:public
+__anon10::__anon11::__flags	net.c	/^    unsigned int __flags;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__anon11::__lock	net.c	/^    int __lock;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__anon11::__nr_readers	net.c	/^    unsigned int __nr_readers;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__anon11::__nr_readers_queued	net.c	/^    unsigned int __nr_readers_queued;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__anon11::__nr_writers_queued	net.c	/^    unsigned int __nr_writers_queued;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__anon11::__pad1	net.c	/^    unsigned long int __pad1;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__anon11::__pad2	net.c	/^    unsigned long int __pad2;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__anon11::__readers_wakeup	net.c	/^    unsigned int __readers_wakeup;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__anon11::__shared	net.c	/^    int __shared;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__anon11::__writer	net.c	/^    int __writer;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__anon11::__writer_wakeup	net.c	/^    unsigned int __writer_wakeup;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__anon10::__data	net.c	/^  } __data;$/;"	m	union:__anon10	typeref:struct:__anon10::__anon11	file:	access:public
+__anon10::__size	net.c	/^  char __size[56];$/;"	m	union:__anon10	file:	access:public
+__anon12::__align	net.c	/^  long int __align;$/;"	m	union:__anon12	file:	access:public
+__anon12::__size	net.c	/^  char __size[8];$/;"	m	union:__anon12	file:	access:public
+__anon13::__align	net.c	/^  long int __align;$/;"	m	union:__anon13	file:	access:public
+__anon13::__size	net.c	/^  char __size[32];$/;"	m	union:__anon13	file:	access:public
+__anon14::__align	net.c	/^  int __align;$/;"	m	union:__anon14	file:	access:public
+__anon14::__size	net.c	/^  char __size[4];$/;"	m	union:__anon14	file:	access:public
+__anon1::__val	net.c	/^typedef struct { int __val[2]; } __fsid_t;$/;"	m	struct:__anon1	file:	access:public
+__anon2::__val	net.c	/^    unsigned long int __val[(1024 \/ (8 * sizeof (unsigned long int)))];$/;"	m	struct:__anon2	file:	access:public
+__anon3::__fds_bits	net.c	/^    __fd_mask __fds_bits[1024 \/ (8 * (int) sizeof (__fd_mask))];$/;"	m	struct:__anon3	file:	access:public
+__anon4::__align	net.c	/^  long int __align;$/;"	m	union:__anon4	file:	access:public
+__anon4::__size	net.c	/^  char __size[56];$/;"	m	union:__anon4	file:	access:public
+__anon5::__align	net.c	/^  long int __align;$/;"	m	union:__anon5	file:	access:public
+__anon5::__data	net.c	/^  } __data;$/;"	m	union:__anon5	typeref:struct:__anon5::__pthread_mutex_s	file:	access:public
+__anon5::__pthread_mutex_s	net.c	/^  struct __pthread_mutex_s$/;"	s	union:__anon5	file:	access:public
+__anon5::__pthread_mutex_s::__count	net.c	/^    unsigned int __count;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__anon5::__pthread_mutex_s::__kind	net.c	/^    int __kind;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__anon5::__pthread_mutex_s::__list	net.c	/^    __pthread_list_t __list;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__anon5::__pthread_mutex_s::__lock	net.c	/^    int __lock;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__anon5::__pthread_mutex_s::__nusers	net.c	/^    unsigned int __nusers;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__anon5::__pthread_mutex_s::__owner	net.c	/^    int __owner;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__anon5::__pthread_mutex_s::__spins	net.c	/^    int __spins;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__anon5::__size	net.c	/^  char __size[40];$/;"	m	union:__anon5	file:	access:public
+__anon6::__align	net.c	/^  int __align;$/;"	m	union:__anon6	file:	access:public
+__anon6::__size	net.c	/^  char __size[4];$/;"	m	union:__anon6	file:	access:public
+__anon7::__align	net.c	/^  __extension__ long long int __align;$/;"	m	union:__anon7	file:	access:public
+__anon7::__anon8::__broadcast_seq	net.c	/^    unsigned int __broadcast_seq;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__anon7::__anon8::__futex	net.c	/^    unsigned int __futex;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__anon7::__anon8::__lock	net.c	/^    int __lock;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__anon7::__anon8::__mutex	net.c	/^    void *__mutex;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__anon7::__anon8::__nwaiters	net.c	/^    unsigned int __nwaiters;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__anon7::__anon8::__total_seq	net.c	/^    __extension__ unsigned long long int __total_seq;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__anon7::__anon8::__wakeup_seq	net.c	/^    __extension__ unsigned long long int __wakeup_seq;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__anon7::__anon8::__woken_seq	net.c	/^    __extension__ unsigned long long int __woken_seq;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__anon7::__data	net.c	/^  } __data;$/;"	m	union:__anon7	typeref:struct:__anon7::__anon8	file:	access:public
+__anon7::__size	net.c	/^  char __size[48];$/;"	m	union:__anon7	file:	access:public
+__anon9::__align	net.c	/^  int __align;$/;"	m	union:__anon9	file:	access:public
+__anon9::__size	net.c	/^  char __size[4];$/;"	m	union:__anon9	file:	access:public
+__blkcnt64_t	net.c	/^typedef long int __blkcnt64_t;$/;"	t	file:
+__blkcnt_t	net.c	/^typedef long int __blkcnt_t;$/;"	t	file:
+__blksize_t	net.c	/^typedef long int __blksize_t;$/;"	t	file:
+__broadcast_seq	net.c	/^    unsigned int __broadcast_seq;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__caddr_t	net.c	/^typedef char *__caddr_t;$/;"	t	file:
+__clock_t	net.c	/^typedef long int __clock_t;$/;"	t	file:
+__clockid_t	net.c	/^typedef int __clockid_t;$/;"	t	file:
+__cmsg_data	net.c	/^    __extension__ unsigned char __cmsg_data [];$/;"	m	struct:cmsghdr	file:	access:public
+__cmsg_nxthdr	net.c	/^extern struct cmsghdr *__cmsg_nxthdr (struct msghdr *__mhdr,$/;"	p	file:	signature:(struct msghdr *__mhdr, struct cmsghdr *__cmsg)
+__count	net.c	/^    unsigned int __count;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__daddr_t	net.c	/^typedef int __daddr_t;$/;"	t	file:
+__data	net.c	/^  } __data;$/;"	m	union:__anon10	typeref:struct:__anon10::__anon11	file:	access:public
+__data	net.c	/^  } __data;$/;"	m	union:__anon5	typeref:struct:__anon5::__pthread_mutex_s	file:	access:public
+__data	net.c	/^  } __data;$/;"	m	union:__anon7	typeref:struct:__anon7::__anon8	file:	access:public
+__dev_t	net.c	/^typedef unsigned long int __dev_t;$/;"	t	file:
+__fd_mask	net.c	/^typedef long int __fd_mask;$/;"	t	file:
+__fds_bits	net.c	/^    __fd_mask __fds_bits[1024 \/ (8 * (int) sizeof (__fd_mask))];$/;"	m	struct:__anon3	file:	access:public
+__flags	net.c	/^    unsigned int __flags;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__fsblkcnt64_t	net.c	/^typedef unsigned long int __fsblkcnt64_t;$/;"	t	file:
+__fsblkcnt_t	net.c	/^typedef unsigned long int __fsblkcnt_t;$/;"	t	file:
+__fsfilcnt64_t	net.c	/^typedef unsigned long int __fsfilcnt64_t;$/;"	t	file:
+__fsfilcnt_t	net.c	/^typedef unsigned long int __fsfilcnt_t;$/;"	t	file:
+__fsid_t	net.c	/^typedef struct { int __val[2]; } __fsid_t;$/;"	t	typeref:struct:__anon1	file:
+__futex	net.c	/^    unsigned int __futex;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__gid_t	net.c	/^typedef unsigned int __gid_t;$/;"	t	file:
+__id_t	net.c	/^typedef unsigned int __id_t;$/;"	t	file:
+__in6_u	net.c	/^      } __in6_u;$/;"	m	struct:in6_addr	typeref:union:in6_addr::__anon20	file:	access:public
+__ino64_t	net.c	/^typedef unsigned long int __ino64_t;$/;"	t	file:
+__ino_t	net.c	/^typedef unsigned long int __ino_t;$/;"	t	file:
+__int16_t	net.c	/^typedef signed short int __int16_t;$/;"	t	file:
+__int32_t	net.c	/^typedef signed int __int32_t;$/;"	t	file:
+__int64_t	net.c	/^typedef signed long int __int64_t;$/;"	t	file:
+__int8_t	net.c	/^typedef signed char __int8_t;$/;"	t	file:
+__intptr_t	net.c	/^typedef long int __intptr_t;$/;"	t	file:
+__key_t	net.c	/^typedef int __key_t;$/;"	t	file:
+__kind	net.c	/^    int __kind;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__list	net.c	/^    __pthread_list_t __list;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__lock	net.c	/^    int __lock;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__lock	net.c	/^    int __lock;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__lock	net.c	/^    int __lock;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__loff_t	net.c	/^typedef __off64_t __loff_t;$/;"	t	file:
+__mode_t	net.c	/^typedef unsigned int __mode_t;$/;"	t	file:
+__mutex	net.c	/^    void *__mutex;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__next	net.c	/^  struct __pthread_internal_list *__next;$/;"	m	struct:__pthread_internal_list	typeref:struct:__pthread_internal_list::__pthread_internal_list	file:	access:public
+__nlink_t	net.c	/^typedef unsigned long int __nlink_t;$/;"	t	file:
+__nr_readers	net.c	/^    unsigned int __nr_readers;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__nr_readers_queued	net.c	/^    unsigned int __nr_readers_queued;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__nr_writers_queued	net.c	/^    unsigned int __nr_writers_queued;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__nusers	net.c	/^    unsigned int __nusers;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__nwaiters	net.c	/^    unsigned int __nwaiters;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__off64_t	net.c	/^typedef long int __off64_t;$/;"	t	file:
+__off_t	net.c	/^typedef long int __off_t;$/;"	t	file:
+__owner	net.c	/^    int __owner;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__pad1	net.c	/^    unsigned long int __pad1;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__pad2	net.c	/^    unsigned long int __pad2;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__pid_t	net.c	/^typedef int __pid_t;$/;"	t	file:
+__prev	net.c	/^  struct __pthread_internal_list *__prev;$/;"	m	struct:__pthread_internal_list	typeref:struct:__pthread_internal_list::__pthread_internal_list	file:	access:public
+__pthread_internal_list	net.c	/^typedef struct __pthread_internal_list$/;"	s	file:
+__pthread_internal_list::__next	net.c	/^  struct __pthread_internal_list *__next;$/;"	m	struct:__pthread_internal_list	typeref:struct:__pthread_internal_list::__pthread_internal_list	file:	access:public
+__pthread_internal_list::__prev	net.c	/^  struct __pthread_internal_list *__prev;$/;"	m	struct:__pthread_internal_list	typeref:struct:__pthread_internal_list::__pthread_internal_list	file:	access:public
+__pthread_list_t	net.c	/^} __pthread_list_t;$/;"	t	typeref:struct:__pthread_internal_list	file:
+__pthread_mutex_s	net.c	/^  struct __pthread_mutex_s$/;"	s	union:__anon5	file:	access:public
+__qaddr_t	net.c	/^typedef __quad_t *__qaddr_t;$/;"	t	file:
+__quad_t	net.c	/^typedef long int __quad_t;$/;"	t	file:
+__readers_wakeup	net.c	/^    unsigned int __readers_wakeup;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__rlim64_t	net.c	/^typedef unsigned long int __rlim64_t;$/;"	t	file:
+__rlim_t	net.c	/^typedef unsigned long int __rlim_t;$/;"	t	file:
+__shared	net.c	/^    int __shared;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__sig_atomic_t	net.c	/^typedef int __sig_atomic_t;$/;"	t	file:
+__sigset_t	net.c	/^  } __sigset_t;$/;"	t	typeref:struct:__anon2	file:
+__size	net.c	/^  char __size[32];$/;"	m	union:__anon13	file:	access:public
+__size	net.c	/^  char __size[40];$/;"	m	union:__anon5	file:	access:public
+__size	net.c	/^  char __size[48];$/;"	m	union:__anon7	file:	access:public
+__size	net.c	/^  char __size[4];$/;"	m	union:__anon14	file:	access:public
+__size	net.c	/^  char __size[4];$/;"	m	union:__anon6	file:	access:public
+__size	net.c	/^  char __size[4];$/;"	m	union:__anon9	file:	access:public
+__size	net.c	/^  char __size[56];$/;"	m	union:__anon10	file:	access:public
+__size	net.c	/^  char __size[56];$/;"	m	union:__anon4	file:	access:public
+__size	net.c	/^  char __size[8];$/;"	m	union:__anon12	file:	access:public
+__socket_type	net.c	/^enum __socket_type$/;"	g	file:
+__socklen_t	net.c	/^typedef unsigned int __socklen_t;$/;"	t	file:
+__spins	net.c	/^    int __spins;$/;"	m	struct:__anon5::__pthread_mutex_s	file:	access:public
+__ss_align	net.c	/^    unsigned long int __ss_align;$/;"	m	struct:sockaddr_storage	file:	access:public
+__ss_padding	net.c	/^    char __ss_padding[(128 - (2 * sizeof (unsigned long int)))];$/;"	m	struct:sockaddr_storage	file:	access:public
+__ssize_t	net.c	/^typedef long int __ssize_t;$/;"	t	file:
+__suseconds_t	net.c	/^typedef long int __suseconds_t;$/;"	t	file:
+__swblk_t	net.c	/^typedef long int __swblk_t;$/;"	t	file:
+__time_t	net.c	/^typedef long int __time_t;$/;"	t	file:
+__timer_t	net.c	/^typedef void * __timer_t;$/;"	t	file:
+__total_seq	net.c	/^    __extension__ unsigned long long int __total_seq;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__u6_addr16	net.c	/^ uint16_t __u6_addr16[8];$/;"	m	union:in6_addr::__anon20	file:	access:public
+__u6_addr32	net.c	/^ uint32_t __u6_addr32[4];$/;"	m	union:in6_addr::__anon20	file:	access:public
+__u6_addr8	net.c	/^ uint8_t __u6_addr8[16];$/;"	m	union:in6_addr::__anon20	file:	access:public
+__u_char	net.c	/^typedef unsigned char __u_char;$/;"	t	file:
+__u_int	net.c	/^typedef unsigned int __u_int;$/;"	t	file:
+__u_long	net.c	/^typedef unsigned long int __u_long;$/;"	t	file:
+__u_quad_t	net.c	/^typedef unsigned long int __u_quad_t;$/;"	t	file:
+__u_short	net.c	/^typedef unsigned short int __u_short;$/;"	t	file:
+__uid_t	net.c	/^typedef unsigned int __uid_t;$/;"	t	file:
+__uint16_t	net.c	/^typedef unsigned short int __uint16_t;$/;"	t	file:
+__uint32_t	net.c	/^typedef unsigned int __uint32_t;$/;"	t	file:
+__uint64_t	net.c	/^typedef unsigned long int __uint64_t;$/;"	t	file:
+__uint8_t	net.c	/^typedef unsigned char __uint8_t;$/;"	t	file:
+__useconds_t	net.c	/^typedef unsigned int __useconds_t;$/;"	t	file:
+__val	net.c	/^    unsigned long int __val[(1024 \/ (8 * sizeof (unsigned long int)))];$/;"	m	struct:__anon2	file:	access:public
+__val	net.c	/^typedef struct { int __val[2]; } __fsid_t;$/;"	m	struct:__anon1	file:	access:public
+__wakeup_seq	net.c	/^    __extension__ unsigned long long int __wakeup_seq;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__woken_seq	net.c	/^    __extension__ unsigned long long int __woken_seq;$/;"	m	struct:__anon7::__anon8	file:	access:public
+__writer	net.c	/^    int __writer;$/;"	m	struct:__anon10::__anon11	file:	access:public
+__writer_wakeup	net.c	/^    unsigned int __writer_wakeup;$/;"	m	struct:__anon10::__anon11	file:	access:public
+accept	net.c	/^extern int accept (int __fd, struct sockaddr *__restrict __addr,$/;"	p	file:	signature:(int __fd, struct sockaddr *__restrict __addr, socklen_t *__restrict __addr_len)
+bind	net.c	/^extern int bind (int __fd, __const struct sockaddr * __addr, socklen_t __len)$/;"	p	file:	signature:(int __fd, __const struct sockaddr * __addr, socklen_t __len)
+bindresvport	net.c	/^extern int bindresvport (int __sockfd, struct sockaddr_in *__sock_in) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __sockfd, struct sockaddr_in *__sock_in)
+bindresvport6	net.c	/^extern int bindresvport6 (int __sockfd, struct sockaddr_in6 *__sock_in)$/;"	p	file:	signature:(int __sockfd, struct sockaddr_in6 *__sock_in)
+blkcnt_t	net.c	/^typedef __blkcnt_t blkcnt_t;$/;"	t	file:
+blksize_t	net.c	/^typedef __blksize_t blksize_t;$/;"	t	file:
+caddr_t	net.c	/^typedef __caddr_t caddr_t;$/;"	t	file:
+clock_t	net.c	/^typedef __clock_t clock_t;$/;"	t	file:
+clockid_t	net.c	/^typedef __clockid_t clockid_t;$/;"	t	file:
+cmsg_len	net.c	/^    size_t cmsg_len;$/;"	m	struct:cmsghdr	file:	access:public
+cmsg_level	net.c	/^    int cmsg_level;$/;"	m	struct:cmsghdr	file:	access:public
+cmsg_type	net.c	/^    int cmsg_type;$/;"	m	struct:cmsghdr	file:	access:public
+cmsghdr	net.c	/^struct cmsghdr$/;"	s	file:
+cmsghdr::__cmsg_data	net.c	/^    __extension__ unsigned char __cmsg_data [];$/;"	m	struct:cmsghdr	file:	access:public
+cmsghdr::cmsg_len	net.c	/^    size_t cmsg_len;$/;"	m	struct:cmsghdr	file:	access:public
+cmsghdr::cmsg_level	net.c	/^    int cmsg_level;$/;"	m	struct:cmsghdr	file:	access:public
+cmsghdr::cmsg_type	net.c	/^    int cmsg_type;$/;"	m	struct:cmsghdr	file:	access:public
+connect	net.c	/^extern int connect (int __fd, __const struct sockaddr * __addr, socklen_t __len);$/;"	p	file:	signature:(int __fd, __const struct sockaddr * __addr, socklen_t __len)
+daddr_t	net.c	/^typedef __daddr_t daddr_t;$/;"	t	file:
+dev_t	net.c	/^typedef __dev_t dev_t;$/;"	t	file:
+fd_mask	net.c	/^typedef __fd_mask fd_mask;$/;"	t	file:
+fd_set	net.c	/^  } fd_set;$/;"	t	typeref:struct:__anon3	file:
+fsblkcnt_t	net.c	/^typedef __fsblkcnt_t fsblkcnt_t;$/;"	t	file:
+fsfilcnt_t	net.c	/^typedef __fsfilcnt_t fsfilcnt_t;$/;"	t	file:
+fsid_t	net.c	/^typedef __fsid_t fsid_t;$/;"	t	file:
+getpeername	net.c	/^extern int getpeername (int __fd, struct sockaddr *__restrict __addr,$/;"	p	file:	signature:(int __fd, struct sockaddr *__restrict __addr, socklen_t *__restrict __len)
+getsockname	net.c	/^extern int getsockname (int __fd, struct sockaddr *__restrict __addr,$/;"	p	file:	signature:(int __fd, struct sockaddr *__restrict __addr, socklen_t *__restrict __len)
+getsockopt	net.c	/^extern int getsockopt (int __fd, int __level, int __optname,$/;"	p	file:	signature:(int __fd, int __level, int __optname, void *__restrict __optval, socklen_t *__restrict __optlen)
+gf_fmode	net.c	/^    uint32_t gf_fmode;$/;"	m	struct:group_filter	file:	access:public
+gf_group	net.c	/^    struct sockaddr_storage gf_group;$/;"	m	struct:group_filter	typeref:struct:group_filter::sockaddr_storage	file:	access:public
+gf_interface	net.c	/^    uint32_t gf_interface;$/;"	m	struct:group_filter	file:	access:public
+gf_numsrc	net.c	/^    uint32_t gf_numsrc;$/;"	m	struct:group_filter	file:	access:public
+gf_slist	net.c	/^    struct sockaddr_storage gf_slist[1];$/;"	m	struct:group_filter	typeref:struct:group_filter::sockaddr_storage	file:	access:public
+gid_t	net.c	/^typedef __gid_t gid_t;$/;"	t	file:
+gnu_dev_major	net.c	/^extern unsigned int gnu_dev_major (unsigned long long int __dev)$/;"	p	file:	signature:(unsigned long long int __dev)
+gnu_dev_makedev	net.c	/^extern unsigned long long int gnu_dev_makedev (unsigned int __major,$/;"	p	file:	signature:(unsigned int __major, unsigned int __minor)
+gnu_dev_minor	net.c	/^extern unsigned int gnu_dev_minor (unsigned long long int __dev)$/;"	p	file:	signature:(unsigned long long int __dev)
+gr_group	net.c	/^    struct sockaddr_storage gr_group;$/;"	m	struct:group_req	typeref:struct:group_req::sockaddr_storage	file:	access:public
+gr_interface	net.c	/^    uint32_t gr_interface;$/;"	m	struct:group_req	file:	access:public
+group_filter	net.c	/^struct group_filter$/;"	s	file:
+group_filter::gf_fmode	net.c	/^    uint32_t gf_fmode;$/;"	m	struct:group_filter	file:	access:public
+group_filter::gf_group	net.c	/^    struct sockaddr_storage gf_group;$/;"	m	struct:group_filter	typeref:struct:group_filter::sockaddr_storage	file:	access:public
+group_filter::gf_interface	net.c	/^    uint32_t gf_interface;$/;"	m	struct:group_filter	file:	access:public
+group_filter::gf_numsrc	net.c	/^    uint32_t gf_numsrc;$/;"	m	struct:group_filter	file:	access:public
+group_filter::gf_slist	net.c	/^    struct sockaddr_storage gf_slist[1];$/;"	m	struct:group_filter	typeref:struct:group_filter::sockaddr_storage	file:	access:public
+group_req	net.c	/^struct group_req$/;"	s	file:
+group_req::gr_group	net.c	/^    struct sockaddr_storage gr_group;$/;"	m	struct:group_req	typeref:struct:group_req::sockaddr_storage	file:	access:public
+group_req::gr_interface	net.c	/^    uint32_t gr_interface;$/;"	m	struct:group_req	file:	access:public
+group_source_req	net.c	/^struct group_source_req$/;"	s	file:
+group_source_req::gsr_group	net.c	/^    struct sockaddr_storage gsr_group;$/;"	m	struct:group_source_req	typeref:struct:group_source_req::sockaddr_storage	file:	access:public
+group_source_req::gsr_interface	net.c	/^    uint32_t gsr_interface;$/;"	m	struct:group_source_req	file:	access:public
+group_source_req::gsr_source	net.c	/^    struct sockaddr_storage gsr_source;$/;"	m	struct:group_source_req	typeref:struct:group_source_req::sockaddr_storage	file:	access:public
+gsr_group	net.c	/^    struct sockaddr_storage gsr_group;$/;"	m	struct:group_source_req	typeref:struct:group_source_req::sockaddr_storage	file:	access:public
+gsr_interface	net.c	/^    uint32_t gsr_interface;$/;"	m	struct:group_source_req	file:	access:public
+gsr_source	net.c	/^    struct sockaddr_storage gsr_source;$/;"	m	struct:group_source_req	typeref:struct:group_source_req::sockaddr_storage	file:	access:public
+htonl	net.c	/^extern uint32_t htonl (uint32_t __hostlong)$/;"	p	file:	signature:(uint32_t __hostlong)
+htons	net.c	/^extern uint16_t htons (uint16_t __hostshort)$/;"	p	file:	signature:(uint16_t __hostshort)
+id_t	net.c	/^typedef __id_t id_t;$/;"	t	file:
+imr_address	net.c	/^    struct in_addr imr_address;$/;"	m	struct:ip_mreqn	typeref:struct:ip_mreqn::in_addr	file:	access:public
+imr_ifindex	net.c	/^    int imr_ifindex;$/;"	m	struct:ip_mreqn	file:	access:public
+imr_interface	net.c	/^    struct in_addr imr_interface;$/;"	m	struct:ip_mreq	typeref:struct:ip_mreq::in_addr	file:	access:public
+imr_interface	net.c	/^    struct in_addr imr_interface;$/;"	m	struct:ip_mreq_source	typeref:struct:ip_mreq_source::in_addr	file:	access:public
+imr_multiaddr	net.c	/^    struct in_addr imr_multiaddr;$/;"	m	struct:ip_mreq	typeref:struct:ip_mreq::in_addr	file:	access:public
+imr_multiaddr	net.c	/^    struct in_addr imr_multiaddr;$/;"	m	struct:ip_mreq_source	typeref:struct:ip_mreq_source::in_addr	file:	access:public
+imr_multiaddr	net.c	/^    struct in_addr imr_multiaddr;$/;"	m	struct:ip_mreqn	typeref:struct:ip_mreqn::in_addr	file:	access:public
+imr_sourceaddr	net.c	/^    struct in_addr imr_sourceaddr;$/;"	m	struct:ip_mreq_source	typeref:struct:ip_mreq_source::in_addr	file:	access:public
+imsf_fmode	net.c	/^    uint32_t imsf_fmode;$/;"	m	struct:ip_msfilter	file:	access:public
+imsf_interface	net.c	/^    struct in_addr imsf_interface;$/;"	m	struct:ip_msfilter	typeref:struct:ip_msfilter::in_addr	file:	access:public
+imsf_multiaddr	net.c	/^    struct in_addr imsf_multiaddr;$/;"	m	struct:ip_msfilter	typeref:struct:ip_msfilter::in_addr	file:	access:public
+imsf_numsrc	net.c	/^    uint32_t imsf_numsrc;$/;"	m	struct:ip_msfilter	file:	access:public
+imsf_slist	net.c	/^    struct in_addr imsf_slist[1];$/;"	m	struct:ip_msfilter	typeref:struct:ip_msfilter::in_addr	file:	access:public
+in6_addr	net.c	/^struct in6_addr$/;"	s	file:
+in6_addr::__anon20::__u6_addr16	net.c	/^ uint16_t __u6_addr16[8];$/;"	m	union:in6_addr::__anon20	file:	access:public
+in6_addr::__anon20::__u6_addr32	net.c	/^ uint32_t __u6_addr32[4];$/;"	m	union:in6_addr::__anon20	file:	access:public
+in6_addr::__anon20::__u6_addr8	net.c	/^ uint8_t __u6_addr8[16];$/;"	m	union:in6_addr::__anon20	file:	access:public
+in6_addr::__in6_u	net.c	/^      } __in6_u;$/;"	m	struct:in6_addr	typeref:union:in6_addr::__anon20	file:	access:public
+in_addr	net.c	/^struct in_addr$/;"	s	file:
+in_addr::s_addr	net.c	/^    in_addr_t s_addr;$/;"	m	struct:in_addr	file:	access:public
+in_addr_t	net.c	/^typedef uint32_t in_addr_t;$/;"	t	file:
+in_pktinfo	net.c	/^struct in_pktinfo$/;"	s	file:
+in_pktinfo::ipi_addr	net.c	/^    struct in_addr ipi_addr;$/;"	m	struct:in_pktinfo	typeref:struct:in_pktinfo::in_addr	file:	access:public
+in_pktinfo::ipi_ifindex	net.c	/^    int ipi_ifindex;$/;"	m	struct:in_pktinfo	file:	access:public
+in_pktinfo::ipi_spec_dst	net.c	/^    struct in_addr ipi_spec_dst;$/;"	m	struct:in_pktinfo	typeref:struct:in_pktinfo::in_addr	file:	access:public
+in_port_t	net.c	/^typedef uint16_t in_port_t;$/;"	t	file:
+inet_addr	net.c	/^extern in_addr_t inet_addr (__const char *__cp) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__const char *__cp)
+inet_aton	net.c	/^extern int inet_aton (__const char *__cp, struct in_addr *__inp) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__const char *__cp, struct in_addr *__inp)
+inet_lnaof	net.c	/^extern in_addr_t inet_lnaof (struct in_addr __in) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(struct in_addr __in)
+inet_makeaddr	net.c	/^extern struct in_addr inet_makeaddr (in_addr_t __net, in_addr_t __host)$/;"	p	file:	signature:(in_addr_t __net, in_addr_t __host)
+inet_net_ntop	net.c	/^extern char *inet_net_ntop (int __af, __const void *__cp, int __bits,$/;"	p	file:	signature:(int __af, __const void *__cp, int __bits, char *__buf, size_t __len)
+inet_net_pton	net.c	/^extern int inet_net_pton (int __af, __const char *__cp,$/;"	p	file:	signature:(int __af, __const char *__cp, void *__buf, size_t __len)
+inet_neta	net.c	/^extern char *inet_neta (in_addr_t __net, char *__buf, size_t __len) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(in_addr_t __net, char *__buf, size_t __len)
+inet_netof	net.c	/^extern in_addr_t inet_netof (struct in_addr __in) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(struct in_addr __in)
+inet_network	net.c	/^extern in_addr_t inet_network (__const char *__cp) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(__const char *__cp)
+inet_nsap_addr	net.c	/^extern unsigned int inet_nsap_addr (__const char *__cp,$/;"	p	file:	signature:(__const char *__cp, unsigned char *__buf, int __len)
+inet_nsap_ntoa	net.c	/^extern char *inet_nsap_ntoa (int __len, __const unsigned char *__cp,$/;"	p	file:	signature:(int __len, __const unsigned char *__cp, char *__buf)
+inet_ntoa	net.c	/^extern char *inet_ntoa (struct in_addr __in) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(struct in_addr __in)
+inet_ntop	net.c	/^extern __const char *inet_ntop (int __af, __const void *__restrict __cp,$/;"	p	file:	signature:(int __af, __const void *__restrict __cp, char *__restrict __buf, socklen_t __len)
+inet_pton	net.c	/^extern int inet_pton (int __af, __const char *__restrict __cp,$/;"	p	file:	signature:(int __af, __const char *__restrict __cp, void *__restrict __buf)
+ino_t	net.c	/^typedef __ino_t ino_t;$/;"	t	file:
+int16_t	net.c	/^typedef int int16_t __attribute__ ((__mode__ (__HI__)));$/;"	t	file:
+int32_t	net.c	/^typedef int int32_t __attribute__ ((__mode__ (__SI__)));$/;"	t	file:
+int64_t	net.c	/^typedef int int64_t __attribute__ ((__mode__ (__DI__)));$/;"	t	file:
+int8_t	net.c	/^typedef int int8_t __attribute__ ((__mode__ (__QI__)));$/;"	t	file:
+int_fast16_t	net.c	/^typedef long int int_fast16_t;$/;"	t	file:
+int_fast32_t	net.c	/^typedef long int int_fast32_t;$/;"	t	file:
+int_fast64_t	net.c	/^typedef long int int_fast64_t;$/;"	t	file:
+int_fast8_t	net.c	/^typedef signed char int_fast8_t;$/;"	t	file:
+int_least16_t	net.c	/^typedef short int int_least16_t;$/;"	t	file:
+int_least32_t	net.c	/^typedef int int_least32_t;$/;"	t	file:
+int_least64_t	net.c	/^typedef long int int_least64_t;$/;"	t	file:
+int_least8_t	net.c	/^typedef signed char int_least8_t;$/;"	t	file:
+intmax_t	net.c	/^typedef long int intmax_t;$/;"	t	file:
+intptr_t	net.c	/^typedef long int intptr_t;$/;"	t	file:
+iov_base	net.c	/^    void *iov_base;$/;"	m	struct:iovec	file:	access:public
+iov_len	net.c	/^    size_t iov_len;$/;"	m	struct:iovec	file:	access:public
+iovec	net.c	/^struct iovec$/;"	s	file:
+iovec::iov_base	net.c	/^    void *iov_base;$/;"	m	struct:iovec	file:	access:public
+iovec::iov_len	net.c	/^    size_t iov_len;$/;"	m	struct:iovec	file:	access:public
+ip_dst	net.c	/^    struct in_addr ip_dst;$/;"	m	struct:ip_opts	typeref:struct:ip_opts::in_addr	file:	access:public
+ip_mreq	net.c	/^struct ip_mreq$/;"	s	file:
+ip_mreq::imr_interface	net.c	/^    struct in_addr imr_interface;$/;"	m	struct:ip_mreq	typeref:struct:ip_mreq::in_addr	file:	access:public
+ip_mreq::imr_multiaddr	net.c	/^    struct in_addr imr_multiaddr;$/;"	m	struct:ip_mreq	typeref:struct:ip_mreq::in_addr	file:	access:public
+ip_mreq_source	net.c	/^struct ip_mreq_source$/;"	s	file:
+ip_mreq_source::imr_interface	net.c	/^    struct in_addr imr_interface;$/;"	m	struct:ip_mreq_source	typeref:struct:ip_mreq_source::in_addr	file:	access:public
+ip_mreq_source::imr_multiaddr	net.c	/^    struct in_addr imr_multiaddr;$/;"	m	struct:ip_mreq_source	typeref:struct:ip_mreq_source::in_addr	file:	access:public
+ip_mreq_source::imr_sourceaddr	net.c	/^    struct in_addr imr_sourceaddr;$/;"	m	struct:ip_mreq_source	typeref:struct:ip_mreq_source::in_addr	file:	access:public
+ip_mreqn	net.c	/^struct ip_mreqn$/;"	s	file:
+ip_mreqn::imr_address	net.c	/^    struct in_addr imr_address;$/;"	m	struct:ip_mreqn	typeref:struct:ip_mreqn::in_addr	file:	access:public
+ip_mreqn::imr_ifindex	net.c	/^    int imr_ifindex;$/;"	m	struct:ip_mreqn	file:	access:public
+ip_mreqn::imr_multiaddr	net.c	/^    struct in_addr imr_multiaddr;$/;"	m	struct:ip_mreqn	typeref:struct:ip_mreqn::in_addr	file:	access:public
+ip_msfilter	net.c	/^struct ip_msfilter$/;"	s	file:
+ip_msfilter::imsf_fmode	net.c	/^    uint32_t imsf_fmode;$/;"	m	struct:ip_msfilter	file:	access:public
+ip_msfilter::imsf_interface	net.c	/^    struct in_addr imsf_interface;$/;"	m	struct:ip_msfilter	typeref:struct:ip_msfilter::in_addr	file:	access:public
+ip_msfilter::imsf_multiaddr	net.c	/^    struct in_addr imsf_multiaddr;$/;"	m	struct:ip_msfilter	typeref:struct:ip_msfilter::in_addr	file:	access:public
+ip_msfilter::imsf_numsrc	net.c	/^    uint32_t imsf_numsrc;$/;"	m	struct:ip_msfilter	file:	access:public
+ip_msfilter::imsf_slist	net.c	/^    struct in_addr imsf_slist[1];$/;"	m	struct:ip_msfilter	typeref:struct:ip_msfilter::in_addr	file:	access:public
+ip_opts	net.c	/^    char ip_opts[40];$/;"	m	struct:ip_opts	file:	access:public
+ip_opts	net.c	/^struct ip_opts$/;"	s	file:
+ip_opts::ip_dst	net.c	/^    struct in_addr ip_dst;$/;"	m	struct:ip_opts	typeref:struct:ip_opts::in_addr	file:	access:public
+ip_opts::ip_opts	net.c	/^    char ip_opts[40];$/;"	m	struct:ip_opts	file:	access:public
+ipi_addr	net.c	/^    struct in_addr ipi_addr;$/;"	m	struct:in_pktinfo	typeref:struct:in_pktinfo::in_addr	file:	access:public
+ipi_ifindex	net.c	/^    int ipi_ifindex;$/;"	m	struct:in_pktinfo	file:	access:public
+ipi_spec_dst	net.c	/^    struct in_addr ipi_spec_dst;$/;"	m	struct:in_pktinfo	typeref:struct:in_pktinfo::in_addr	file:	access:public
+ipv6_mreq	net.c	/^struct ipv6_mreq$/;"	s	file:
+ipv6_mreq::ipv6mr_interface	net.c	/^    unsigned int ipv6mr_interface;$/;"	m	struct:ipv6_mreq	file:	access:public
+ipv6_mreq::ipv6mr_multiaddr	net.c	/^    struct in6_addr ipv6mr_multiaddr;$/;"	m	struct:ipv6_mreq	typeref:struct:ipv6_mreq::in6_addr	file:	access:public
+ipv6mr_interface	net.c	/^    unsigned int ipv6mr_interface;$/;"	m	struct:ipv6_mreq	file:	access:public
+ipv6mr_multiaddr	net.c	/^    struct in6_addr ipv6mr_multiaddr;$/;"	m	struct:ipv6_mreq	typeref:struct:ipv6_mreq::in6_addr	file:	access:public
+isfdtype	net.c	/^extern int isfdtype (int __fd, int __fdtype) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd, int __fdtype)
+key_t	net.c	/^typedef __key_t key_t;$/;"	t	file:
+l_linger	net.c	/^    int l_linger;$/;"	m	struct:linger	file:	access:public
+l_onoff	net.c	/^    int l_onoff;$/;"	m	struct:linger	file:	access:public
+linger	net.c	/^struct linger$/;"	s	file:
+linger::l_linger	net.c	/^    int l_linger;$/;"	m	struct:linger	file:	access:public
+linger::l_onoff	net.c	/^    int l_onoff;$/;"	m	struct:linger	file:	access:public
+listen	net.c	/^extern int listen (int __fd, int __n) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd, int __n)
+loff_t	net.c	/^typedef __loff_t loff_t;$/;"	t	file:
+mode_t	net.c	/^typedef __mode_t mode_t;$/;"	t	file:
+msg_control	net.c	/^    void *msg_control;$/;"	m	struct:msghdr	file:	access:public
+msg_controllen	net.c	/^    size_t msg_controllen;$/;"	m	struct:msghdr	file:	access:public
+msg_flags	net.c	/^    int msg_flags;$/;"	m	struct:msghdr	file:	access:public
+msg_iov	net.c	/^    struct iovec *msg_iov;$/;"	m	struct:msghdr	typeref:struct:msghdr::iovec	file:	access:public
+msg_iovlen	net.c	/^    size_t msg_iovlen;$/;"	m	struct:msghdr	file:	access:public
+msg_name	net.c	/^    void *msg_name;$/;"	m	struct:msghdr	file:	access:public
+msg_namelen	net.c	/^    socklen_t msg_namelen;$/;"	m	struct:msghdr	file:	access:public
+msghdr	net.c	/^struct msghdr$/;"	s	file:
+msghdr::msg_control	net.c	/^    void *msg_control;$/;"	m	struct:msghdr	file:	access:public
+msghdr::msg_controllen	net.c	/^    size_t msg_controllen;$/;"	m	struct:msghdr	file:	access:public
+msghdr::msg_flags	net.c	/^    int msg_flags;$/;"	m	struct:msghdr	file:	access:public
+msghdr::msg_iov	net.c	/^    struct iovec *msg_iov;$/;"	m	struct:msghdr	typeref:struct:msghdr::iovec	file:	access:public
+msghdr::msg_iovlen	net.c	/^    size_t msg_iovlen;$/;"	m	struct:msghdr	file:	access:public
+msghdr::msg_name	net.c	/^    void *msg_name;$/;"	m	struct:msghdr	file:	access:public
+msghdr::msg_namelen	net.c	/^    socklen_t msg_namelen;$/;"	m	struct:msghdr	file:	access:public
+nlink_t	net.c	/^typedef __nlink_t nlink_t;$/;"	t	file:
+ntohl	net.c	/^extern uint32_t ntohl (uint32_t __netlong) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__));$/;"	p	file:	signature:(uint32_t __netlong)
+ntohs	net.c	/^extern uint16_t ntohs (uint16_t __netshort)$/;"	p	file:	signature:(uint16_t __netshort)
+off_t	net.c	/^typedef __off_t off_t;$/;"	t	file:
+osockaddr	net.c	/^struct osockaddr$/;"	s	file:
+osockaddr::sa_data	net.c	/^    unsigned char sa_data[14];$/;"	m	struct:osockaddr	file:	access:public
+osockaddr::sa_family	net.c	/^    unsigned short int sa_family;$/;"	m	struct:osockaddr	file:	access:public
+pid_t	net.c	/^typedef __pid_t pid_t;$/;"	t	file:
+preadv	net.c	/^extern ssize_t preadv (int __fd, __const struct iovec *__iovec, int __count,$/;"	p	file:	signature:(int __fd, __const struct iovec *__iovec, int __count, __off_t __offset)
+process_vm_readv	net.c	/^extern ssize_t process_vm_readv (pid_t __pid, __const struct iovec *__lvec,$/;"	p	file:	signature:(pid_t __pid, __const struct iovec *__lvec, unsigned long int __liovcnt, __const struct iovec *__rvec, unsigned long int __riovcnt, unsigned long int __flags)
+process_vm_writev	net.c	/^extern ssize_t process_vm_writev (pid_t __pid, __const struct iovec *__lvec,$/;"	p	file:	signature:(pid_t __pid, __const struct iovec *__lvec, unsigned long int __liovcnt, __const struct iovec *__rvec, unsigned long int __riovcnt, unsigned long int __flags)
+pselect	net.c	/^extern int pselect (int __nfds, fd_set *__restrict __readfds,$/;"	p	file:	signature:(int __nfds, fd_set *__restrict __readfds, fd_set *__restrict __writefds, fd_set *__restrict __exceptfds, const struct timespec *__restrict __timeout, const __sigset_t *__restrict __sigmask)
+pthread_attr_t	net.c	/^} pthread_attr_t;$/;"	t	typeref:union:__anon4	file:
+pthread_barrier_t	net.c	/^} pthread_barrier_t;$/;"	t	typeref:union:__anon13	file:
+pthread_barrierattr_t	net.c	/^} pthread_barrierattr_t;$/;"	t	typeref:union:__anon14	file:
+pthread_cond_t	net.c	/^} pthread_cond_t;$/;"	t	typeref:union:__anon7	file:
+pthread_condattr_t	net.c	/^} pthread_condattr_t;$/;"	t	typeref:union:__anon9	file:
+pthread_key_t	net.c	/^typedef unsigned int pthread_key_t;$/;"	t	file:
+pthread_mutex_t	net.c	/^} pthread_mutex_t;$/;"	t	typeref:union:__anon5	file:
+pthread_mutexattr_t	net.c	/^} pthread_mutexattr_t;$/;"	t	typeref:union:__anon6	file:
+pthread_once_t	net.c	/^typedef int pthread_once_t;$/;"	t	file:
+pthread_rwlock_t	net.c	/^} pthread_rwlock_t;$/;"	t	typeref:union:__anon10	file:
+pthread_rwlockattr_t	net.c	/^} pthread_rwlockattr_t;$/;"	t	typeref:union:__anon12	file:
+pthread_spinlock_t	net.c	/^typedef volatile int pthread_spinlock_t;$/;"	t	file:
+pthread_t	net.c	/^typedef unsigned long int pthread_t;$/;"	t	file:
+pwritev	net.c	/^extern ssize_t pwritev (int __fd, __const struct iovec *__iovec, int __count,$/;"	p	file:	signature:(int __fd, __const struct iovec *__iovec, int __count, __off_t __offset)
+quad_t	net.c	/^typedef __quad_t quad_t;$/;"	t	file:
+readv	net.c	/^extern ssize_t readv (int __fd, __const struct iovec *__iovec, int __count)$/;"	p	file:	signature:(int __fd, __const struct iovec *__iovec, int __count)
+recv	net.c	/^extern ssize_t recv (int __fd, void *__buf, size_t __n, int __flags);$/;"	p	file:	signature:(int __fd, void *__buf, size_t __n, int __flags)
+recvfrom	net.c	/^extern ssize_t recvfrom (int __fd, void *__restrict __buf, size_t __n,$/;"	p	file:	signature:(int __fd, void *__restrict __buf, size_t __n, int __flags, struct sockaddr *__restrict __addr, socklen_t *__restrict __addr_len)
+recvmmsg	net.c	/^extern int recvmmsg (int __fd, struct mmsghdr *__vmessages,$/;"	p	file:	signature:(int __fd, struct mmsghdr *__vmessages, unsigned int __vlen, int __flags, __const struct timespec *__tmo)
+recvmsg	net.c	/^extern ssize_t recvmsg (int __fd, struct msghdr *__message, int __flags);$/;"	p	file:	signature:(int __fd, struct msghdr *__message, int __flags)
+register_t	net.c	/^typedef int register_t __attribute__ ((__mode__ (__word__)));$/;"	t	file:
+s_addr	net.c	/^    in_addr_t s_addr;$/;"	m	struct:in_addr	file:	access:public
+sa_data	net.c	/^    char sa_data[14];$/;"	m	struct:sockaddr	file:	access:public
+sa_data	net.c	/^    unsigned char sa_data[14];$/;"	m	struct:osockaddr	file:	access:public
+sa_family	net.c	/^    sa_family_t sa_family;$/;"	m	struct:sockaddr	file:	access:public
+sa_family	net.c	/^    unsigned short int sa_family;$/;"	m	struct:osockaddr	file:	access:public
+sa_family_t	net.c	/^typedef unsigned short int sa_family_t;$/;"	t	file:
+select	net.c	/^extern int select (int __nfds, fd_set *__restrict __readfds,$/;"	p	file:	signature:(int __nfds, fd_set *__restrict __readfds, fd_set *__restrict __writefds, fd_set *__restrict __exceptfds, struct timeval *__restrict __timeout)
+send	net.c	/^extern ssize_t send (int __fd, __const void *__buf, size_t __n, int __flags);$/;"	p	file:	signature:(int __fd, __const void *__buf, size_t __n, int __flags)
+sendmmsg	net.c	/^extern int sendmmsg (int __fd, struct mmsghdr *__vmessages,$/;"	p	file:	signature:(int __fd, struct mmsghdr *__vmessages, unsigned int __vlen, int __flags)
+sendmsg	net.c	/^extern ssize_t sendmsg (int __fd, __const struct msghdr *__message,$/;"	p	file:	signature:(int __fd, __const struct msghdr *__message, int __flags)
+sendto	net.c	/^extern ssize_t sendto (int __fd, __const void *__buf, size_t __n,$/;"	p	file:	signature:(int __fd, __const void *__buf, size_t __n, int __flags, __const struct sockaddr * __addr, socklen_t __addr_len)
+setsockopt	net.c	/^extern int setsockopt (int __fd, int __level, int __optname,$/;"	p	file:	signature:(int __fd, int __level, int __optname, __const void *__optval, socklen_t __optlen)
+shutdown	net.c	/^extern int shutdown (int __fd, int __how) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd, int __how)
+sigset_t	net.c	/^typedef __sigset_t sigset_t;$/;"	t	file:
+sin6_addr	net.c	/^    struct in6_addr sin6_addr;$/;"	m	struct:sockaddr_in6	typeref:struct:sockaddr_in6::in6_addr	file:	access:public
+sin6_family	net.c	/^    sa_family_t sin6_family;$/;"	m	struct:sockaddr_in6	file:	access:public
+sin6_flowinfo	net.c	/^    uint32_t sin6_flowinfo;$/;"	m	struct:sockaddr_in6	file:	access:public
+sin6_port	net.c	/^    in_port_t sin6_port;$/;"	m	struct:sockaddr_in6	file:	access:public
+sin6_scope_id	net.c	/^    uint32_t sin6_scope_id;$/;"	m	struct:sockaddr_in6	file:	access:public
+sin_addr	net.c	/^    struct in_addr sin_addr;$/;"	m	struct:sockaddr_in	typeref:struct:sockaddr_in::in_addr	file:	access:public
+sin_family	net.c	/^    sa_family_t sin_family;$/;"	m	struct:sockaddr_in	file:	access:public
+sin_port	net.c	/^    in_port_t sin_port;$/;"	m	struct:sockaddr_in	file:	access:public
+sin_zero	net.c	/^    unsigned char sin_zero[sizeof (struct sockaddr) -$/;"	m	struct:sockaddr_in	file:	access:public
+size_t	net.c	/^typedef long unsigned int size_t;$/;"	t	file:
+sockaddr	net.c	/^struct sockaddr$/;"	s	file:
+sockaddr::sa_data	net.c	/^    char sa_data[14];$/;"	m	struct:sockaddr	file:	access:public
+sockaddr::sa_family	net.c	/^    sa_family_t sa_family;$/;"	m	struct:sockaddr	file:	access:public
+sockaddr_in	net.c	/^struct sockaddr_in$/;"	s	file:
+sockaddr_in6	net.c	/^struct sockaddr_in6$/;"	s	file:
+sockaddr_in6::sin6_addr	net.c	/^    struct in6_addr sin6_addr;$/;"	m	struct:sockaddr_in6	typeref:struct:sockaddr_in6::in6_addr	file:	access:public
+sockaddr_in6::sin6_family	net.c	/^    sa_family_t sin6_family;$/;"	m	struct:sockaddr_in6	file:	access:public
+sockaddr_in6::sin6_flowinfo	net.c	/^    uint32_t sin6_flowinfo;$/;"	m	struct:sockaddr_in6	file:	access:public
+sockaddr_in6::sin6_port	net.c	/^    in_port_t sin6_port;$/;"	m	struct:sockaddr_in6	file:	access:public
+sockaddr_in6::sin6_scope_id	net.c	/^    uint32_t sin6_scope_id;$/;"	m	struct:sockaddr_in6	file:	access:public
+sockaddr_in::sin_addr	net.c	/^    struct in_addr sin_addr;$/;"	m	struct:sockaddr_in	typeref:struct:sockaddr_in::in_addr	file:	access:public
+sockaddr_in::sin_family	net.c	/^    sa_family_t sin_family;$/;"	m	struct:sockaddr_in	file:	access:public
+sockaddr_in::sin_port	net.c	/^    in_port_t sin_port;$/;"	m	struct:sockaddr_in	file:	access:public
+sockaddr_in::sin_zero	net.c	/^    unsigned char sin_zero[sizeof (struct sockaddr) -$/;"	m	struct:sockaddr_in	file:	access:public
+sockaddr_storage	net.c	/^struct sockaddr_storage$/;"	s	file:
+sockaddr_storage::__ss_align	net.c	/^    unsigned long int __ss_align;$/;"	m	struct:sockaddr_storage	file:	access:public
+sockaddr_storage::__ss_padding	net.c	/^    char __ss_padding[(128 - (2 * sizeof (unsigned long int)))];$/;"	m	struct:sockaddr_storage	file:	access:public
+sockaddr_storage::ss_family	net.c	/^    sa_family_t ss_family;$/;"	m	struct:sockaddr_storage	file:	access:public
+sockatmark	net.c	/^extern int sockatmark (int __fd) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __fd)
+socket	net.c	/^extern int socket (int __domain, int __type, int __protocol) __attribute__ ((__nothrow__ , __leaf__));$/;"	p	file:	signature:(int __domain, int __type, int __protocol)
+socketpair	net.c	/^extern int socketpair (int __domain, int __type, int __protocol,$/;"	p	file:	signature:(int __domain, int __type, int __protocol, int __fds[2])
+socklen_t	net.c	/^typedef __socklen_t socklen_t;$/;"	t	file:
+ss_family	net.c	/^    sa_family_t ss_family;$/;"	m	struct:sockaddr_storage	file:	access:public
+ssize_t	net.c	/^typedef __ssize_t ssize_t;$/;"	t	file:
+suseconds_t	net.c	/^typedef __suseconds_t suseconds_t;$/;"	t	file:
+time_t	net.c	/^typedef __time_t time_t;$/;"	t	file:
+timer_t	net.c	/^typedef __timer_t timer_t;$/;"	t	file:
+timespec	net.c	/^struct timespec$/;"	s	file:
+timespec::tv_nsec	net.c	/^    long int tv_nsec;$/;"	m	struct:timespec	file:	access:public
+timespec::tv_sec	net.c	/^    __time_t tv_sec;$/;"	m	struct:timespec	file:	access:public
+timeval	net.c	/^struct timeval$/;"	s	file:
+timeval::tv_sec	net.c	/^    __time_t tv_sec;$/;"	m	struct:timeval	file:	access:public
+timeval::tv_usec	net.c	/^    __suseconds_t tv_usec;$/;"	m	struct:timeval	file:	access:public
+tv_nsec	net.c	/^    long int tv_nsec;$/;"	m	struct:timespec	file:	access:public
+tv_sec	net.c	/^    __time_t tv_sec;$/;"	m	struct:timespec	file:	access:public
+tv_sec	net.c	/^    __time_t tv_sec;$/;"	m	struct:timeval	file:	access:public
+tv_usec	net.c	/^    __suseconds_t tv_usec;$/;"	m	struct:timeval	file:	access:public
+u_char	net.c	/^typedef __u_char u_char;$/;"	t	file:
+u_int	net.c	/^typedef __u_int u_int;$/;"	t	file:
+u_int16_t	net.c	/^typedef unsigned int u_int16_t __attribute__ ((__mode__ (__HI__)));$/;"	t	file:
+u_int32_t	net.c	/^typedef unsigned int u_int32_t __attribute__ ((__mode__ (__SI__)));$/;"	t	file:
+u_int64_t	net.c	/^typedef unsigned int u_int64_t __attribute__ ((__mode__ (__DI__)));$/;"	t	file:
+u_int8_t	net.c	/^typedef unsigned int u_int8_t __attribute__ ((__mode__ (__QI__)));$/;"	t	file:
+u_long	net.c	/^typedef __u_long u_long;$/;"	t	file:
+u_quad_t	net.c	/^typedef __u_quad_t u_quad_t;$/;"	t	file:
+u_short	net.c	/^typedef __u_short u_short;$/;"	t	file:
+uid_t	net.c	/^typedef __uid_t uid_t;$/;"	t	file:
+uint	net.c	/^typedef unsigned int uint;$/;"	t	file:
+uint16_t	net.c	/^typedef unsigned short int uint16_t;$/;"	t	file:
+uint32_t	net.c	/^typedef unsigned int uint32_t;$/;"	t	file:
+uint64_t	net.c	/^typedef unsigned long int uint64_t;$/;"	t	file:
+uint8_t	net.c	/^typedef unsigned char uint8_t;$/;"	t	file:
+uint_fast16_t	net.c	/^typedef unsigned long int uint_fast16_t;$/;"	t	file:
+uint_fast32_t	net.c	/^typedef unsigned long int uint_fast32_t;$/;"	t	file:
+uint_fast64_t	net.c	/^typedef unsigned long int uint_fast64_t;$/;"	t	file:
+uint_fast8_t	net.c	/^typedef unsigned char uint_fast8_t;$/;"	t	file:
+uint_least16_t	net.c	/^typedef unsigned short int uint_least16_t;$/;"	t	file:
+uint_least32_t	net.c	/^typedef unsigned int uint_least32_t;$/;"	t	file:
+uint_least64_t	net.c	/^typedef unsigned long int uint_least64_t;$/;"	t	file:
+uint_least8_t	net.c	/^typedef unsigned char uint_least8_t;$/;"	t	file:
+uintmax_t	net.c	/^typedef unsigned long int uintmax_t;$/;"	t	file:
+uintptr_t	net.c	/^typedef unsigned long int uintptr_t;$/;"	t	file:
+ulong	net.c	/^typedef unsigned long int ulong;$/;"	t	file:
+ushort	net.c	/^typedef unsigned short int ushort;$/;"	t	file:
+writev	net.c	/^extern ssize_t writev (int __fd, __const struct iovec *__iovec, int __count)$/;"	p	file:	signature:(int __fd, __const struct iovec *__iovec, int __count)
