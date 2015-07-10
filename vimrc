@@ -129,8 +129,9 @@ set cursorline
 set tags+=~/.vim/std_tags
 set tags+=~/.vim/net_tags
 
-map <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
-map <F9> :!make run<CR>
+map  <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
+nmap <F6> :%s/\s\+$//<CR>
+map  <F9> :!make run<CR>
 nmap <C-B> :make<CR>
 
 imap jj <ESC>
