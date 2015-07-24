@@ -17,9 +17,9 @@ call vundle#rc()
 
 Bundle 'gmarik/vundle'
 
-Bundle 'Valloric/YouCompleteMe.git'
+"Bundle 'Valloric/YouCompleteMe.git'
 let g:ycm_confirm_extra_conf = 0
-let g:ycm_global_ycm_extra_conf='~/.vim/.ycm_extra_conf.py'
+let g:ycm_global_ycm_extra_conf='~/.vim/ycm_extra_conf.py'
 let g:syntastic_always_populate_loc_list = 1
 let g:ycm_key_list_select_completion = ['<TAB>', '<Down>', '<Enter>']
 let g:ycm_collect_identifiers_from_tags_files = 1
@@ -104,9 +104,9 @@ set expandtab 		"用space替代tab的输入
 "set noexpandtab 	"不用space替代tab的输入
 
 "自动运行
-autocmd BufNewFile,BufRead *.c,*.h,*.cpp call tagbar#autoopen()
-autocmd BufNewFile,BufRead *.c,*.h,*cpp :setlocal colorcolumn=81
-autocmd BufNewFile,BufRead *.c,*.h,*cpp :IndentGuidesToggle
+autocmd BufNewFile,BufRead *.c,*.h,*.cpp        :call tagbar#autoopen()
+autocmd BufNewFile,BufRead *.c,*.h,*.cpp,*.lua  :setlocal colorcolumn=81
+autocmd BufNewFile,BufRead *.c,*.h,*.cpp,*.lua  :IndentGuidesToggle
 
 set scrolloff=5
 
